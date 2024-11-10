@@ -6,22 +6,23 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Conference Paper
+## Publicaitons
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+- [1]谢谦,金才淇.跨境数据流动的共同关切、面临挑战与中国应对[J].学习与探索,2024,(08):114-125. 
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
+- [2]谢谦,毕文静,金才淇.税收激励与企业创新——基于固定资产加速折旧政策的检验[J/OL].南开管理评论,2024,1-21. 
+
+- [3]谢谦,金才淇.生产网络视角下的产业结构升级：逻辑解构和实现路径[J].首都经济贸易大学学报,2023,25(03):32-42.
 
   <br>
 
 ---
 
-## Ongoing Project
+## Working papers
 
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
-
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
-
+- 谢谦，金才淇.内陆自贸区设立与企业污染减排——来自全国税收调查数据的微观证据. 工作论文,
+ 2023.（数量经济技术经济研究终审）
+- 
 <br>
 
 ---
