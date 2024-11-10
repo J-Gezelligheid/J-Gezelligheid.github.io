@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://J-Gezelligheid.github.io/CAIQI.jpg" class="floatpic">
+<img src=https://github.com/J-Gezelligheid/J-Gezelligheid.github.io/blob/ae02b76c91fe59f6118fc010ee6ad77e3fae131c/images/CAIQI.jpg class="floatpic">
 
 Here is **Caiqi Jin (William, 金才淇)**.<br>
 
