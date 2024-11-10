@@ -23,9 +23,5 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - 数字经济
 - 企业创新
 
-## Pubilcations
-
-
-## Working paper
 <br>
 

@@ -6,12 +6,9 @@ title: Publications
 
 ## Publicaitons
 
-- [1]谢谦,金才淇.跨境数据流动的共同关切、面临挑战与中国应对[J].学习与探索,2024,(08):114-125. 
-
-- [2]谢谦,毕文静,金才淇.税收激励与企业创新——基于固定资产加速折旧政策的检验[J/OL].南开管理评论,2024,1-21. 
-
+- [1]谢谦,金才淇.跨境数据流动的共同关切、面临挑战与中国应对[J].学习与探索,2024,(08):114-125.
+- [2]谢谦,毕文静,金才淇.税收激励与企业创新——基于固定资产加速折旧政策的检验[J/OL].南开管理评论,2024,1-21.
 - [3]谢谦,金才淇.生产网络视角下的产业结构升级：逻辑解构和实现路径[J].首都经济贸易大学学报,2023,25(03):32-42.
-
   <br>
 
 ---
@@ -27,18 +24,51 @@ title: Publications
 
 ## Projects
 
-- 2020-2023 国家自然科学基金青年科学基金项目“数字贸易对全球价值链分工的异质性影响及理论机制研究”(72003193)
--
+- 2020-2023 国家自然科学基金青年科学基金项目“数字贸易对全球价值链分工的异质性影响及理论机制研究”(72003193)——参与
+- 2021-2025 国家自然科学基金面上项目“国际生产网络视角下技术创新促进产业升级的机制和路径研究”(72173132)——参与
+- 2023-2027 国家自然科学基金面上项目“数字贸易开放对出口竞争力的影响：理论研究、实证检验与政策建议”(72373161)——参与
+- 2024.5.30-2025.5.30 中国社会科学院智库基础研究项目——主要参与人
+- 2024.3.26-2024.11.26 中国社会科学院大学研究生科研创新支持计划（2024-KY-071）——主持
+
   <br>
 
 ---
 
-## Early Project
+## 助研工作
 
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
+### 中国社会科学院经济研究所助研
+- 完成报告：创新发展服务贸易，加快建设贸易强国；
+- 完成报告：提升国际循环质量和水平研究；
+- 完成报告：跨国并购“新常态”：以市场监管的视角；
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+### 中国社会学科院工业经济研究所助研
+- 新一轮产能过剩：搜集前沿文献；整理宏观数据；
+- 新能源汽车：搜集行业最新资讯及国内外相关规则和政策；整理新能源车企数据；
+  - 熟练使用Wind、工商注册等微观数据库。
+- 固定资产投资：搜集宏观数据绘制图表，呈现当前现状；整理最新行业研究报告。
+  <br>
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+## 调研实践经历
+
+### 第五次无锡保定农村调查
+
+- 深入无锡农村，完成两个村（社区）调查问卷；
+- 记录无锡农村城乡变化及当前居民生活现状；
+
+### 阳泉实践活动
+
+- 调研山西阳泉基层治理、乡村振兴以及数字经济多个方面，深入基层；
+- 走访多个村庄，与当地书记、村民近距离访谈，了解真实乡村治理情况；
+- 体验社区书记的一天：切实参与到社区书记工作中，如处理居民矛盾；清雪工作；走访慰问老年人；
+  <br>
+
+## 论坛
+
+- 第十七届中国经济增长与周期高峰论坛（2023）暨中国城市生活质量指数发布会：参会 
+- 第十八届中国经济增长与周期高峰论坛（2024）暨中国城市生活质量指数发布会：参会 
+- 第三届全国大学生发展经济学论文大赛：志愿者
+- 第二十一届中国青年经济学者论坛：志愿者-接待专家（复旦大学陈钊教授）
+- 全国首届理论经济学本硕博论坛：志愿者
+- 全国第二届理论经济学本硕博论坛：志愿者
 
   <br>
