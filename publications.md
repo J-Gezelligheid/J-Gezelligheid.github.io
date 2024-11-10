@@ -4,8 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
-
 ## Publicaitons
 
 - [1]谢谦,金才淇.跨境数据流动的共同关切、面临挑战与中国应对[J].学习与探索,2024,(08):114-125. 
@@ -22,17 +20,15 @@ title: Publications
 
 - 谢谦，金才淇.内陆自贸区设立与企业污染减排——来自全国税收调查数据的微观证据. 工作论文,
  2023.（数量经济技术经济研究终审）
-- 
+- 金才淇.技术转化与企业出口韧性：数实融合的视角.**硕士毕业论文**.
 <br>
 
 ---
 
-## Degree Thesis
+## Projects
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
+- 2020-2023 国家自然科学基金青年科学基金项目“数字贸易对全球价值链分工的异质性影响及理论机制研究”(72003193)
+-
   <br>
 
 ---
