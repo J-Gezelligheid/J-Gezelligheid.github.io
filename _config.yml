@@ -17,7 +17,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: J-Gezelligheid
   Wechat: Jcq_UCASS
-  # facebook: caihanlin2002
+  小红书: 1107324221
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -40,12 +40,12 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  - title: Photograph
+    url: /photograph/
   - title: Startups
     url: /startups/
-  - title: Blogs
-    url: /blogs/
+  - title: Others
+    url: /others/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
