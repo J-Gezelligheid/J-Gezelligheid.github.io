@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Photograph/index.html
+permalink: /photograph/index.html
 title: Photograph
 ---
 
