@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /startups/index.html
-title: Startups
+permalink: /Others/index.html
+title: Others
 ---
 
 ## Motivation
