@@ -9,7 +9,7 @@ title: Photograph
 ## 14th BJIFF
 
 <div class="second">
-<img src="/images/14thBJIFF/14thBJIFF_1.jpg" style="margin-right: 3px;width: 300px; height: auto;">
+<img src="/images/14thBJIFF/14thBJIFF_1.jpg" style="margin-right: 3px;width: 320px; height: auto;">
 <img src="/images/14thBJIFF/14thBJIFF_2.jpg" style="width: 300px; height: auto;">
 </div>
 
