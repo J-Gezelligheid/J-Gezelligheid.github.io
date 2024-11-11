@@ -24,7 +24,7 @@ title: Photograph
 </div>
 <br>
 
-## 乌兰察布草原
+## 乌兰布统草原
 
 <div class="second">
 <img src="/images/wlcb/wlcb_1.jpg" style="margin-right: 3px; width: 100px; height: auto;">
