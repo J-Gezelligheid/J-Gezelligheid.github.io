@@ -9,8 +9,8 @@ title: Photograph
 ## 14th BJIFF
 
 <div class="second">
-<img src="/images/14thBJIFF/14thBJIFF_1.jpg" style="margin-right: 3px;width: 100px; height: auto;">
-<img src="/images/14thBJIFF/14thBJIFF_2.jpg" style="width: 100px; height: auto;">
+<img src="/images/14thBJIFF/14thBJIFF_1.jpg" style="margin-right: 3px;width: 300px; height: auto;">
+<img src="/images/14thBJIFF/14thBJIFF_2.jpg" style="width: 300px; height: auto;">
 </div>
 
 <br>
@@ -27,8 +27,8 @@ title: Photograph
 ## 乌兰布统草原
 
 <div class="second">
-<img src="/images/wlcb/wlcb_1.jpg" style="margin-right: 3px; width: 100px; height: auto;">
-<img src="/images/wlcb/wlcb_2.jpg" style="width: 200px; height: auto;">
+<img src="/images/wlcb/wlcb_1.jpg" style="margin-right: 3px; width: 300px; height: auto;">
+<img src="/images/wlcb/wlcb_2.jpg" style="width: 300px; height: auto;">
 </div>
 
 <br>

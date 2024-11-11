@@ -1,12 +1,27 @@
-<h6>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.
+<h6>
+  &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.
   Published with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>,
   powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
   based on the <a href="https://mademistakes.com/" rel="nofollow">Minimal Mistakes</a> theme.
   Source code for this website can be found <a href="https://github.com/GuangLun2000/GuangLun2000.github.io" rel="nofollow">here</a>.
 
+  <!-- 社交链接部分 -->
+  <div class="social-links">
+    {% if site.owner.github %}
+      <a href="https://github.com/{{ site.owner.github }}" target="_blank">GitHub</a>
+    {% endif %}
+    {% if site.owner.wechat %}
+      <span>微信: {{ site.owner.wechat }}</span>
+    {% endif %}
+    {% if site.owner.xiaohongshu %}
+      <a href="https://www.xiaohongshu.com/user/{{ site.owner.xiaohongshu }}" target="_blank">小红书</a>
+    {% endif %}
+  </div>
+
+  <!-- 统计脚本 (可选) -->
   <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tGZ_4852x6Mm-PPomoo98e4y_CI8D9TmioGTO03Daik"></script> -->
-  
+
 </h6>
 
-
-<!-- Lastly modified by Hanlin CAI in 2023/03/16 -->
+<!-- 显示最近修改日期 -->
+<!-- Lastly modified by Caiqi Jin in 2024/11/11 -->
