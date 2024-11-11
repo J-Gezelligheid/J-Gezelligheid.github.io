@@ -4,26 +4,39 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 11th Nov 2024
 
-## Scholarships
+## 荣誉奖项
+### 本科期间
+- 2018年10月 2018年湘潭大学纪念毛泽东同志题写校名并嘱托“一定要把湘潭大学办好”暨建校60周年百人大合唱比赛中荣获“优秀个人” 
+- 2018年11月 湘潭大学国际金融投资协会二等奖 
+- 2019年5月 湘潭大学商学院2019年“家人·家乡·家国”征文比赛三等奖 
+- 2019年10月韶山市2019年“我是映山红，我为主席家乡添光彩”十一景区志愿服务活动优秀志愿者 
+- 2019年11月 湘潭大学商学院优秀志愿者 
+- 2019年11月 湘潭大学2018-2019学年三好学生 
+- 2019年11月 湘潭大学2018-2019学年甲等奖学金 
+- 2019年11月 湘潭大学商学院政治辅导员助理 
+- 2019年6月 湘潭大学英语辅导员 
+- 2019年5月 湘潭大学2018年度优秀团员 
+- 2019年12月 湘潭大学招生与就业指导处2018-2019学年优秀助理 
+- 2020年5月 湘潭大学2019年度优秀团员 
+- 2020年10月 全国高校商业精英挑战赛国际贸易竞赛（vlog组）一等奖（全校唯一）
+- 2020年11月 全国高校商业精英挑战赛国际贸易竞赛（英语组）总决赛二等奖
+- 2020年11月 全国大学生英语竞赛三等奖 
+- 2020年11月 湘潭大学2019-2020学年三好学生 
+- 2020年11月 湘潭大学2019-2020学年甲等奖学金 
+- 2020年12月 全球大学生国际经贸与商务专题竞赛中国地区选拔赛一等奖（全校共两项） 
+- 2020年12月 湘潭大学招生与就业指导处2019-2020学年优秀助理 
+- 2021年5月 湘潭大学2020年度优秀团员 
+- 2021年12月 湘潭大学2021年“伟人之托”奖学金
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
-
-## Competitions
-
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+### 硕士期间
+- 2022年12月 2022年新生奖学金  
+- 2023年5月 中国社会科学院大学2022-2023学年“优秀共青团员”
+- 2023年12月 2022-2023学年学业奖学金一等奖
+- 2023年12月 中国社会科学院大学2022年-2023学年“三好学生”
+- 2024年3月 中国社会科学院大学研究生科研创新支持计划（2024-KY-071）——主持项目
+- 2024年4月 中国社会科学院大学第七届读书节“定个新时代·光影绽芳华”摄影比赛优秀奖（图书馆展出）
+- 2024年4月 第十四届北京国际电影节志愿服务工作
 
 <br>
