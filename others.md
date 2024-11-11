@@ -4,4 +4,4 @@ permalink: /others/index.html
 title: Others
 ---
 
-## Motivation
+## 

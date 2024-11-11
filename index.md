@@ -23,6 +23,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - 数字经济
 - 企业创新
 
+## 玄学
+
+- MBTI: INFJ-T
+- 星座：天蝎座Scorpio - 水象
 
 <br>
 

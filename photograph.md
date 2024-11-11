@@ -6,12 +6,16 @@ title: Photograph
 
 # Photograph
 
+.second img {
+    margin-right: 5px; /* 调整数值以获得所需的间距 */
+}
+
+
 ## 14th BJIFF
 
-<div class="third">
+<div class="second">
 <img src="/images/14thBJIFF/14thBJIFF_1.jpg">
 <img src="/images/14thBJIFF/14thBJIFF_2.jpg">
-<img src="/images/14thBJIFF/14thBJIFF_3.jpg">
 </div>
 
 <br>
