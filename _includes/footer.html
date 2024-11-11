@@ -8,13 +8,22 @@
   <!-- 社交链接部分 -->
   <div class="social-links">
     {% if site.owner.github %}
-      <a href="https://github.com/{{ site.owner.github }}" target="_blank">GitHub</a>
+      <a href="https://github.com/{{ site.owner.github }}" target="_blank">
+        <img src="/images/logo/github.png" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle;">
+        GitHub
+      </a>
     {% endif %}
     {% if site.owner.wechat %}
-      <span>微信: {{ site.owner.wechat }}</span>
+      <span>
+        <img src="/images/logo/wechat.png" alt="微信" style="width: 20px; height: 20px; vertical-align: middle;">
+        微信: {{ site.owner.wechat }}
+      </span>
     {% endif %}
     {% if site.owner.xiaohongshu %}
-      <a href="https://www.xiaohongshu.com/user/{{ site.owner.xiaohongshu }}" target="_blank">小红书</a>
+      <a href="https://www.xiaohongshu.com/user/{{ site.owner.xiaohongshu }}" target="_blank">
+        <img src="/images/logo/xiaohongshu.png" alt="小红书" style="width: 20px; height: 20px; vertical-align: middle;">
+        小红书
+      </a>
     {% endif %}
   </div>
 
