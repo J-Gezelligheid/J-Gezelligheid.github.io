@@ -25,4 +25,15 @@ title: Others
 
 ## Movie
 
-### Surprised by Oxford（牛津的惊喜）
+### Some attracted me
+- Surprised by Oxford（牛津的惊喜）
+- Snerting（触碰）
+- 姥姥的外孙
+- ......
+
+## Read
+
+- 置身事内
+- 激荡十年，水大鱼大——中国企业2008-2018
+- 债居时代-房贷如何影响经济
+- 房间里的成年人——
