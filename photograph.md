@@ -32,3 +32,16 @@ title: Photograph
 </div>
 
 <br>
+
+## Myself
+
+<div class="second">
+<img src="/images/myself/J1.jpg" style="margin-right: 1px;width: 200px; height: auto;">
+<img src="/images/myself/J2.jpg" style="margin-right: 1px;width: 200px; height: auto;">
+</div>
+
+<div class="second">
+<img src="/images/myself/J3.jpg" style="margin-right: 1px;width: 200px; height: auto;">
+<img src="/images/myself/J4.jpg" style="margin-right: 1px;width: 200px; height: auto;">
+</div>
+<br>
