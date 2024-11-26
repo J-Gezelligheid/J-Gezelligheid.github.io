@@ -3,6 +3,9 @@ layout: page
 permalink: /others/index.html
 title: Others
 ---
+## Social media
+- **Eyepetizer:** 一只会经济的江南兔子
+- **Red:** 1107324221
 
 ## Music
 
