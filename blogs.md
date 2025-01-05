@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [My 2024](https://j-gezelligheid.github.io//blogs//my2024.md)
+- [My 2024](/blogs/my2024.md)
 - 
 <br>
 
