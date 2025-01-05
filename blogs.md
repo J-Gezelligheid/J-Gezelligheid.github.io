@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [My 2024](https://github.com/J-Gezelligheid/J-Gezelligheid.github.io/blob/774d19248fd3af251a19768d4e717cde05db9ed4/blogs/my2024.md)
+- [My 2024](https://github.com/J-Gezelligheid/J-Gezelligheid.github.io/blogs/my2024.md)
 
 <br>
 
