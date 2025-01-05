@@ -6,6 +6,11 @@ title: Blogs
 
 ## Chinese Blogs 中文博客
 
+### 2025
+
+- [2025.1.5夜](/blogs/20250105.md)
+- 
+
 ### 2024
 
 - [My 2024](/blogs/my2024.md)

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/18yrs/index.html
-title: 18yrs
+permalink: /blogs/Econometrics/index.html
+title: Econometrics
 ---
 
 ## 李子奈-计量经济学
