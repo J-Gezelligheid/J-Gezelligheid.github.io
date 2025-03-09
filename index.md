@@ -22,11 +22,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - 国际贸易理论与政策
 - 数字经济
 - 企业创新
-
-### 玄学
-
-- MBTI: INFJ-T
-- 星座：天蝎座Scorpio - 水象
+- 近期持续关注人工智能与国际贸易的相关研究
 
 [A Univerisity Harbours the light of humanity ]:https://www.ucass.edu.cn/
 <br>

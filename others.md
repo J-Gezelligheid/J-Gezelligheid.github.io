@@ -7,6 +7,11 @@ title: Others
 - **Eyepetizer:** 一只会经济的江南兔子
 - **Red:** 1107324221
 
+## Metaphysics
+
+- MBTI: INFJ-T
+- 星座：天蝎座Scorpio - 水象
+
 ## Music
 
 ### 房东的猫（the landlord's cat）
