@@ -9,7 +9,7 @@ title: Blogs
 ### 2025
 
 - [2025.1.5夜](/blogs/20250105.md)
-- 
+- [Trade theory](/blogs/trade_theory.md)
 
 ### 2024
 
