@@ -10,11 +10,11 @@ title: Blogs
 
 - [2025.1.5夜](/blogs/20250105.md)
 - [Trade theory](/blogs/trade_theory.md)
+- [申博有感](/blogs/PhD_application_reflections.md)
 
 ### 2024
 
 - [My 2024](/blogs/my2024.md)
--
 
 <br>
 
