@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/PhD_application_reflections.md
+permalink: /blogs/PhD_application_reflections/index.html
 title: 申博有感
 ---
 
