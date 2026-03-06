@@ -10,7 +10,8 @@ title: Blogs
 
 - [2025.1.5夜](/blogs/20250105.md)
 - [Trade theory](/blogs/trade_theory.md)
-- [申博有感](/blogs/PhD_application_reflections.md)
+- [申博历程回顾](/blogs/申博历程回顾.md)
+- [毕业季碎碎念](/blogs/毕业季碎碎念.md)
 
 ### 2024
 
