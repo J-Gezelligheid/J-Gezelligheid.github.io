@@ -1,0 +1,125 @@
+.drug-watch-meta {
+  margin-bottom: 1.2rem;
+}
+
+.drug-watch-note {
+  color: #555;
+}
+
+.drug-watch-inline-toc {
+  display: none;
+  margin: 0 0 1.2rem 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.drug-watch-inline-toc h3 {
+  margin-bottom: 0.45rem;
+  font-size: 1rem;
+}
+
+.drug-watch-inline-toc ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.drug-watch-intro {
+  margin-bottom: 2rem;
+}
+
+.drug-watch-section {
+  margin-bottom: 2.1rem;
+  scroll-margin-top: 1rem;
+}
+
+.drug-watch-section-desc {
+  color: #444;
+}
+
+#main article.drug-watch-item {
+  display: block;
+  float: none;
+  width: 100%;
+  margin: 0 0 1.5rem 0;
+  padding: 0 0 1rem 0;
+  border-bottom: 1px solid #e0e0e0;
+  clear: both;
+}
+
+.drug-watch-item-title {
+  margin-bottom: 0.45rem;
+}
+
+.drug-watch-item-meta {
+  color: #666;
+  font-size: 0.92rem;
+  margin-bottom: 0.55rem;
+}
+
+.drug-watch-item-summary,
+.drug-watch-item-tags,
+.drug-watch-empty {
+  margin-bottom: 0.55rem;
+}
+
+.drug-watch-item-summary,
+.drug-watch-item-tags,
+.drug-watch-empty,
+.drug-watch-item p {
+  text-indent: 0;
+}
+
+.drug-watch-item p + p {
+  margin-top: 0;
+  text-indent: 0;
+}
+
+.drug-watch-sources {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.drug-watch-sources li {
+  margin-bottom: 0.4rem;
+}
+
+.drug-watch-source-type {
+  color: #777;
+}
+
+.article-author-top .drug-watch-side-toc,
+.article-author-bottom .drug-watch-side-toc {
+  margin-top: 1.1rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed #cfcfcf;
+}
+
+.article-author-top .drug-watch-side-toc h5,
+.article-author-bottom .drug-watch-side-toc h5 {
+  margin-bottom: 0.45rem;
+  font-size: 0.92rem;
+}
+
+.article-author-top .drug-watch-side-toc ul,
+.article-author-bottom .drug-watch-side-toc ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.article-author-top .drug-watch-side-toc li,
+.article-author-bottom .drug-watch-side-toc li {
+  margin: 0.28rem 0;
+}
+
+.article-author-top .drug-watch-side-toc a,
+.article-author-bottom .drug-watch-side-toc a {
+  border-bottom: none;
+}
+
+@media (max-width: 980px) {
+  .drug-watch-inline-toc {
+    display: block;
+  }
+}

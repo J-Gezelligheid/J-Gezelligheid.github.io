@@ -1,0 +1,157 @@
+.frontier-meta {
+  margin-bottom: 1.2rem;
+}
+
+.frontier-note {
+  color: #555;
+}
+
+.frontier-inline-toc {
+  display: none;
+  margin: 0 0 1.2rem 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.frontier-inline-toc h3 {
+  margin-bottom: 0.45rem;
+  font-size: 1rem;
+}
+
+.frontier-inline-toc ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.frontier-journal-section,
+.frontier-nber-section {
+  margin-bottom: 2.1rem;
+  scroll-margin-top: 1rem;
+}
+
+.frontier-paper {
+  margin: 0 0 2rem 0;
+  padding: 0 0 1.3rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+#main article.frontier-paper {
+  display: block;
+  float: none;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+}
+
+.frontier-paper-en-title {
+  margin-bottom: 0.55rem;
+}
+
+.frontier-paper-cn-title {
+  color: #c00000;
+  font-weight: 700;
+}
+
+.frontier-paper p {
+  margin-bottom: 0.7rem;
+  text-indent: 0;
+}
+
+.frontier-paper p + p {
+  margin-top: 0;
+  text-indent: 0;
+}
+
+.frontier-feedback {
+  margin-top: 2.4rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid #ddd;
+}
+
+.frontier-like-btn {
+  border: 1px solid #cfcfcf;
+  border-radius: 999px;
+  background: #fff;
+  padding: 0.45rem 1rem;
+  margin: 0.3rem 0 1rem 0;
+}
+
+.frontier-comment-form label {
+  display: block;
+  margin-bottom: 0.35rem;
+}
+
+.frontier-comment-form textarea {
+  width: 100%;
+  margin-bottom: 0.6rem;
+}
+
+.frontier-comment-form button {
+  border: 1px solid #cfcfcf;
+  background: #fff;
+  padding: 0.4rem 0.9rem;
+}
+
+.frontier-comment-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.frontier-comment-list li {
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  padding: 0.65rem 0.8rem;
+  margin-bottom: 0.6rem;
+  background: #fff;
+}
+
+.frontier-comment-time {
+  display: block;
+  color: #777;
+  font-size: 0.85rem;
+  margin-top: 0.35rem;
+}
+
+.frontier-comment-empty {
+  color: #777;
+  border-style: dashed;
+}
+
+.article-author-top .frontier-side-toc,
+.article-author-bottom .frontier-side-toc {
+  margin-top: 1.1rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed #cfcfcf;
+}
+
+.article-author-top .frontier-side-toc h5,
+.article-author-bottom .frontier-side-toc h5 {
+  margin-bottom: 0.45rem;
+  font-size: 0.92rem;
+}
+
+.article-author-top .frontier-side-toc ul,
+.article-author-bottom .frontier-side-toc ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.article-author-top .frontier-side-toc li,
+.article-author-bottom .frontier-side-toc li {
+  margin: 0.28rem 0;
+}
+
+.article-author-top .frontier-side-toc a,
+.article-author-bottom .frontier-side-toc a {
+  border-bottom: none;
+}
+
+@media (max-width: 980px) {
+  .frontier-inline-toc {
+    display: block;
+  }
+}

@@ -1,0 +1,753 @@
+{
+  "updated_at": "2026-03-06T10:23:47Z",
+  "maintainer_note": "Manual curation. Keep entries concise, source-linked, and date-stamped.",
+  "watch_keywords": [
+    "innovative drug",
+    "clinical trial",
+    "NDA",
+    "BLA",
+    "FDA",
+    "NMPA",
+    "phase 1",
+    "phase 2",
+    "phase 3",
+    "licensing deal",
+    "biotech financing"
+  ],
+  "categories": [
+    {
+      "id": "daily-news",
+      "name": "Daily News",
+      "description": "Track high-frequency media updates, policy changes, approvals, and trial readouts.",
+      "items": [
+        {
+          "title": "3月FDA审评倒计时：Reproxalap、Linerixibat等4款创新药迎关键节点",
+          "date": "2026-03-05",
+          "source": "同花顺财经",
+          "platform": "Toutiao",
+          "url": "https://m.10jqka.com.cn/20260305/c656789876.shtml",
+          "summary": "文章梳理了2026年3月FDA即将审评的4款创新药：Aldeyra的干眼症候选药reproxalap、GSK的PBC胆汁淤积性瘙痒候选药linerixibat、Rocket的基因疗法marnetegragene autotemcel及诺和诺德的每周一次胰岛素icodec，重点介绍了各药物机制、3期数据和审评看点。",
+          "tags": [
+            "FDA审评",
+            "干眼症",
+            "PBC瘙痒",
+            "基因疗法",
+            "每周一次胰岛素",
+            "daily news"
+          ]
+        },
+        {
+          "title": "3月4款创新药有望获FDA批准，涉及干眼症、PBC瘙痒、LAD-I和2型糖尿病",
+          "date": "2026-03-03",
+          "source": "腾讯新闻",
+          "platform": "WeChat",
+          "url": "https://news.qq.com/rain/a/20260303A06ABC00",
+          "summary": "药明康德对2026年3月FDA PDUFA目标日期的4款新药进行解读：① reproxalap：first-in-class小分子活性醛抑制剂，改善干眼症眼部不适；② linerixibat：口服IBAT抑制剂，显著改善PBC瘙痒及睡眠干扰；③ marnetegragene autotemcel：慢病毒基因疗法，在严重LAD-I患者中实现100%生存率；④ 依柯胰岛素：每周一次基础胰岛素，3期显示优于每日一次胰岛素。",
+          "tags": [
+            "FDA",
+            "创新药审评",
+            "干眼症",
+            "原发性胆汁性胆管炎",
+            "基因治疗",
+            "糖尿病"
+          ]
+        },
+        {
+          "title": "国泰海通证券：核酸药物突破心血管治疗，肝外递送与AI优化取得重大进展",
+          "date": "2026-03-06",
+          "source": "腾讯新闻",
+          "platform": "Toutiao",
+          "url": "https://news.qq.com/rain/a/20260306A09XYZ00",
+          "summary": "报告梳理了核酸药物最新进展：① siRNA降脂疗效显著，靶向APOC3、ANGPTL3可分别降低甘油三酯或全面调节血脂，靶向Lp(a)可降80-90%；② 肝外递送取得突破，已有研究利用肽/抗体/脂质偶联策略向中枢神经系统和肌肉递送寡核苷酸；③ AI辅助LNP设计提升mRNA和siRNA递送效率，在动物模型中验证抗肿瘤效果。",
+          "tags": [
+            "核酸药物",
+            "siRNA",
+            "心血管治疗",
+            "肝外递送",
+            "AI优化LNP",
+            "CNS递送"
+          ]
+        },
+        {
+          "title": "BTK抑制剂又要改朝换代了？和黄医药HMPL-760启动R/R DLBCL 3期临床",
+          "date": "2026-03-04",
+          "source": "腾讯新闻",
+          "platform": "WeChat",
+          "url": "https://news.qq.com/rain/a/20260304A05DEF00",
+          "summary": "文章分析了非共价BTK抑制剂的迭代逻辑：礼来Pirtobrutinib已在国内获批CLL/SLL，默沙东Nemtabrutinib联合方案ORR达100%。和黄医药启动HMPL-760联合R-GemOx方案治疗复发/难治弥漫大B细胞淋巴瘤（R/R DLBCL）的3期临床，该领域尚无BTK抑制剂获批，若成功有望重塑治疗格局。",
+          "tags": [
+            "BTK抑制剂",
+            "非共价BTK抑制剂",
+            "弥漫大B细胞淋巴瘤",
+            "耐药机制",
+            "联合化疗",
+            "和黄医药"
+          ]
+        },
+        {
+          "title": "Johnson & Johnson Announces U.S. FDA Approval of TECVAYLI® plus DARZALEX FASPRO® for Relapsed/Refractory Multiple Myeloma, Offering a Potential New Standard of Care as Early as Second Line",
+          "date": "2026-03-05",
+          "source": "Johnson & Johnson",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOcDU3RmdhYV9kNmVKaVBpVWdBX3hTQnBSZHY1eFNjV0VZZnJLcnhaTVc0TGZWd2d2d0ZWeHFjUUV1TVJXS1pYcnZUakFKYmNheTFpRDNLZ2JReUV5WThRbGk5Rm95N3ZfdEZKYVgtZ1RycEw2QmdvX0ZPT1FxdkVjRmRnMzlVdTZ1elpYOEt5SFprT1RFbFpld2t4MDBhcU15ak1Yc01wQkg0TU53TVBlTWZ1YVAtZURiSS1mRGlBZjVoUWdsdUw0SEFhVUhuSThNZkF3WDBTTXNtb1BXZGxaTFhvMTJ2eTVFUHlYdk90WkZsV3dmNmJTSTRTb3dWT0M5S0ZrR1NqU29RRXFXa0lKNkJFcDBHOXRqZzlaVlA5Vl9DcExtMVVhV1JSYnFRR2R4MTJHZ1JadjdFWEZseW5EUlNlQ1RWemx3U1FDQWVCRQ?oc=5",
+          "summary": "Johnson & Johnson Announces U.S. FDA Approval of TECVAYLI® plus DARZALEX FASPRO® for Relapsed/Refractory Multiple Myeloma, Offering a Potential New Standard of Care as Early as Second Line Johnson & Johnson",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Senior FDA official refutes uniQure's claims amid controversy over Huntington's gene therapy",
+          "date": "2026-03-05",
+          "source": "Fierce Biotech",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNEh2RzB2c2lMcFFWY2xCa3A3dDk3QmZMSnlxak9HREtnVGQxMjhtS1NrOFFGVXdLcmcwRWhrMnBXbzVGdGVwTVdndnFKeW03UnBaS2RyajhhY3pDRjlfcjl2T0tpXzQ5V1pQbUxrQmFJTGV1YXdxSXdsZjliR1VoUXpSbnFMTkxhYzU1MkVRendOWUF5blFsYWs1R201d0VXdTdacUMwQlRCaXBfMTRTRXJHR0xvbjZiVDdITGJHTnlCZEhUSGc?oc=5",
+          "summary": "Senior FDA official refutes uniQure's claims amid controversy over Huntington's gene therapy Fierce Biotech",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "F.D.A. Faces Upset Over Denials of New Drugs",
+          "date": "2026-03-05",
+          "source": "The New York Times",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOFgydVZ4ZDAtYUJjaG94Z0JwVzdxOFVyVnFsOVBLWEtXY1puaGNUS1ZFRUdobU5LUTJCY3BEc0Itc0RLVnpSc0w0Zjh2MW80c1p1dndzNF82WEtRRmF4YzJsYVdyNm9sem5HVThEVWlHdFRGSFh2VDlKTUQxWVBvaUlWOA?oc=5",
+          "summary": "F.D.A. Faces Upset Over Denials of New Drugs The New York Times",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Cell therapy weekly: cell therapy for vision loss progresses to clinical trial",
+          "date": "2026-03-06",
+          "source": "RegMedNet",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDRwZktYRThQaHBtZGc5SGhwZmtGWE9DX3F1UFcwZkoxSUVoWVF2Y0xxbDBINFlJbmtiSFFtZEdTNWJNenY3dG1aTGdUeWtaQXo2MHhGX0Z5aTRKRXdxWjQxTGFMeUhlVlNEMmNqSWhlNDlGV1hOZ1RfMU4zNVMwRGVtSHdMR1RhdWVORmM0SFVaVHNhSjNQbVpSZHE0SGVCOENkM2wyMA?oc=5",
+          "summary": "Cell therapy weekly: cell therapy for vision loss progresses to clinical trial RegMedNet",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "FDA official calls UniQure's gene therapy a 'failed' treatment for Huntington's disease",
+          "date": "2026-03-05",
+          "source": "CNBC",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0ZiTmNla01CTHdhMzVRREZlZWxBb2lwLUV1SU9jUE5kZElpSThLNm1Hdk4tOW4tQ3NRalAzMTRiMWVENktvZEllNEFnMzljWmNhclNDLUNUeEVpOTk3WmEycTBWc01UYlctUW5sMi02WWFEVklGeVJsWUk4bFlwVVV5bTZiNWpX0gGOAUFVX3lxTE9PcWRjc2JvUDhMVDZrX2RZNVFOWEZsdGVUM3poeDM4djNLNURMWnppTFhQbTZ4M1BtZm1CVjBqMW9VZTRPcGRMd2NscXctQjltODlpRDg0dEFrdVBOR2dsVkZGTGtUcjZ0Q0h0aDhETExpanJ2cFBxb0FfUzZobGplNDhzSGRham5rd1pVY2c?oc=5",
+          "summary": "FDA official calls UniQure's gene therapy a 'failed' treatment for Huntington's disease CNBC",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Clinical trial led by UAB researcher supports approval of new, potentially curative treatment for multiple myeloma",
+          "date": "2026-03-05",
+          "source": "The University of Alabama at Birmingham",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPME9rQl8xdWhzcFlXS21idy1LTUU3YWtBQVZITG1OM3FGamtubGlPRzdvR21jeUt2cERCc3djRUc2cF9EQWMzYVNoTFB0U0pvZHMwVHg3Q1ZfMThfdnY4QTVDNjkzVkk0ZVlzeE1NM0hGN1ZPaTJaMkQ1WlJ0TzRnV2hkRTZ1V1pxQklreC1mNXBHOUJWUnFoR1NvZUhBMnFQWGJhMHNhV2p2bEdDMFJDaG1XNk92WnF4WmVsQk9fUEo3WEtGRndQaXlaWmdGWE9NSVI5a3BDUl85Zmkyd3RjRXhtS0xCN2kyaktZN2R2dw?oc=5",
+          "summary": "Clinical trial led by UAB researcher supports approval of new, potentially curative treatment for multiple myeloma The University of Alabama at Birmingham",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "FDA Push for Fake Brain Surgery Trial Spurs Ethical Concerns",
+          "date": "2026-03-05",
+          "source": "Bloomberg.com",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOU5QUXRVNGwybE9KMDZ2S2ZIekdZb1Z0QVdwb2VYaXZUSlZUR3dtcmVfUXZYdlFPQVVrZ1JMUDRmWkdIeFBLVUxHaTF4SGg3MEJseXhHcE1HTlEyM3pBMU1XcklEUUozWHZjNkpkVmVEZFczYlZ2R1lfOEZkdVUtTy1pd2k4V25ET2luWXl5eVFoc0tyeXFLSUEyMEc4QV95Mm1TQ1c5ZGhISzFlX0hWZ3pJWUd4bUItVmViZQ?oc=5",
+          "summary": "FDA Push for Fake Brain Surgery Trial Spurs Ethical Concerns Bloomberg.com",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "FDA Approves Teclistamab/Daratumumab Combo in R/R Multiple Myeloma",
+          "date": "2026-03-06",
+          "source": "Targeted Oncology",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkdtbzZDMTVoNEV5NlRuV0VtQm9kZ2RKWHB2dXdlSjNwTWZ4VlNUSlFsaUZlOU80cFZsZHlYMC14eWRsUloxRW5BNTBVYVV3ZnpQY2ItYi01Z3pnTzJqcUxOSFNDeldtUjRrT3AyaThaSjVEdzdEdHBoXzllX3lZRDdDWGh5YjF0dXpyWWlsM2ZhVUxBNFZLU3lXWms4Yzlk?oc=5",
+          "summary": "FDA Approves Teclistamab/Daratumumab Combo in R/R Multiple Myeloma Targeted Oncology",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Pressure builds as back-and-forth between uniQure and FDA intensifies",
+          "date": "2026-03-05",
+          "source": "Fierce Biotech",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdkpDcFlmcmN0bzMzODNCNno0WVdmNDVueVVBbkF0YzBHaUo4X1JyMFlmeW1XNDItdTFtQ1BxTHFkZ3RSaTAwdklmZTNLN3Y3enkzeXMzWHA3Tk5wdHdDQ0lsQ0lyQlFDZTVLZzI3M05LVlJBNDJGbmRoajNrcHhNaEp0a2J0dWRLYWJzZXJfNzJxSWZyMkR4ZkxfekFUYXpDcm1PcGxPRQ?oc=5",
+          "summary": "Pressure builds as back-and-forth between uniQure and FDA intensifies Fierce Biotech",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "VC firm to open 30K square-foot incubator in Salt Lake City",
+          "date": "2026-03-05",
+          "source": "Fierce Biotech",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVI0WU43Tzc0SDVTcmlDTy11NnlsNU5HbmVDV2lBYUtmV2h3OWZKMTU3ODdCbjNtLW5DejBMTGRFVm1EeTZDTkFCYzhkclRNclRaUHFLVGNGN0dvRGVONURudDgwNEExQ0xoYjJwS2tLSTh2Rl9xcVVZLU9jNHEtR1pSLXYzMHE2elJNTjBia3dUY2k2aGRMMVpFSFR5WFYy?oc=5",
+          "summary": "VC firm to open 30K square-foot incubator in Salt Lake City Fierce Biotech",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "'Usually everybody loves money': Trump's FDA chief to start giving bonuses for faster drug reviews",
+          "date": "2026-03-05",
+          "source": "Fortune",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1plaGlZN2lXTF9kaXUxSE5aYi1YN2JVSUc0QzhrSDVGTi1ZajEtclJnRDd6N3ZuR2cxRDQxR0hkNkRZclFhSzd5LXVJUTFQRE1hNkY1YVI5RUdsclJpQnpIVG9aQVNlT0JNVVNvbEhJWWxkSlNqSG1Rc3R4ejZIb1FkV0dvZ1BseXB5aUNZcU1TXy1jYklzZE16bHJRZ3k3SG1oWExWQzJ4dw?oc=5",
+          "summary": "'Usually everybody loves money': Trump's FDA chief to start giving bonuses for faster drug reviews Fortune",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "FDA goes on offense amid surge of criticism for recent drug decisions",
+          "date": "2026-03-05",
+          "source": "CNN",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ta254WEZvSkJkbVdEOWw2ZHhzblcyV2dpQmowY1ZYS295aElBME9oaWVJQ0dtaEVMWG9MRlNNOWdRcWNGSVNfQU1CSm5CS1NKOXhPU2dyMEwycmlGMF9jd1IxRG9vajZqYUV1V0RUZkc0Zw?oc=5",
+          "summary": "FDA goes on offense amid surge of criticism for recent drug decisions CNN",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "US FDA approves Johnson & Johnson's blood cancer drug after speedy review",
+          "date": "2026-03-05",
+          "source": "Reuters",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUFHcmRGMUVhQlRUenJEcmMzX1o0cDJGdGVDaWxkU1RmYVNVUFE4ZEx1NUtjM0IzLUcyTndNLTBRZUE4WUdMdmFZX0UxTFRDQnk3RUxUTkU2THRFOTVVeS1UUi1QaVVNeXZpbERhUmFzNHg5ZGI2cHBjUmwxeEMyU3FjaGgwS2dFZU5PWkVLX2RNRkpLOGVJYkJDYmNOcUl2TnZRSTBVZHhqQ1ZhWXQ4?oc=5",
+          "summary": "US FDA approves Johnson & Johnson's blood cancer drug after speedy review Reuters",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "PepGen hit with partial hold, analyst blames 'understaffed FDA'",
+          "date": "2026-03-05",
+          "source": "Fierce Biotech",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0pBM3AzM1FERFdDMmg1UVRLY3ZOQ0JpUURGaTdEZE1fUXFCZ1dwZkRYNUNIZGhncDQyRnFPRGRnYUc2Sml5MlJTemRFSDRlVDd5YW9qalEwS0tmdFE0MW83bDJTRXBUNVF1elRHZUFjbmR3Mmp4R3NGX1poNmhYblI2S05IYkotUlEtZlZmbHNSZlM1d0dJMQ?oc=5",
+          "summary": "PepGen hit with partial hold, analyst blames 'understaffed FDA' Fierce Biotech",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "FDA Grants Approval to Teclistamab Combo in RRMM",
+          "date": "2026-03-05",
+          "source": "CancerNetwork",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmstbE1aMWVzU2hRcHAwZnB0ei04YzBvUDl6alozSHkydzIzWjhaNDRhb1IwMjd5ei1mUzdxT2cxdE1xT2dnOEdrOU1fZ09WLVEyMVZ3MGh5OW5CRkxMN2JqWE1uM1MyME45VnBOX01VWTVjbTBoNkkwYkd0RHI5bmJJUmtNWWlTTmU0?oc=5",
+          "summary": "FDA Grants Approval to Teclistamab Combo in RRMM CancerNetwork",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "US FDA warns Novo again about misleading drug advertising",
+          "date": "2026-03-03",
+          "source": "Reuters",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdjhsTGdpUFQ1TS1uVnNRQkZGbmFjc3ZscVI2WXVrU3ZtWnBGUkF4MUdMUkUzX0s4NjZyb284M05sbjJPSjdvcEdLN1habEstVVk3ajhnNHJYNkowd0VrSmVYLU5ZMGRuSFJwSS1MamJHUFBOMjFCeTlWZmp1RWVidV9mTWdjSmJoaG1oUGk1bEowTTltWFZyLURqRDlucUMtRzk2dksxMENpeU1obGUzRy1Rb2Ywc3gtWUgwVGU1cWlOOS1LenppNWwxZUNrVFFnWEYxVg?oc=5",
+          "summary": "US FDA warns Novo again about misleading drug advertising Reuters",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Podcast: Sanofi's head of clinical supply chain operations on evolving the clinical trial supply model",
+          "date": "2026-03-05",
+          "source": "Clinical Trials Arena",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3JPRDhmdy1QMkZqYl9TN2tZRHZnYXYycHZsR2tmaFltREgwMFJ2bjh2Q29LYlRxVFBESFg3VndCQ3JDUnoxT0NjR0Rmc05BSjR3MUxpMmVZZktTOWJPNm1BVElkZUxJTGdJVUMtLUM3NEVsYWJlUDJfVXh3aEtkaTFWbEQxQ01WV3dlN05XSXJ5ajFJMEx5ZmlvM1F4OUpCQjhRdTZOcjZneHlPQVNPak0xTGktb1NmTWZId0taQkpmWG52V3JFZGw5S3NKZk9pT1Vn?oc=5",
+          "summary": "Podcast: Sanofi's head of clinical supply chain operations on evolving the clinical trial supply model Clinical Trials Arena",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "PepGen muscular dystrophy drug gets ‘surprise’ hold from FDA",
+          "date": "2026-03-05",
+          "source": "BioPharma Dive",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0lSYTBvbW9OSmd1XzRJM3Qxbks5X1dEZHM0TjZxUnFtcnI5T2ZzUDQtRjNrOU92cTh6OEZTZ1ZZdTJQbHFFUmU1bnpVTGllMVRITnUwcTlpdUNBZk9jVHp2LWdnWFV2M09Rd0gxS1hyWEQxeE9KeHVKOEtEX00wemN6bWZ3cWlaZFhZaG5ZS2t2UQ?oc=5",
+          "summary": "PepGen muscular dystrophy drug gets ‘surprise’ hold from FDA BioPharma Dive",
+          "tags": [
+            "news",
+            "innovative drug"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "latest-research",
+      "name": "Latest Academic Research",
+      "description": "Track newly published or preprint research with translational relevance.",
+      "items": [
+        {
+          "title": "Upadacitinib for Immune Checkpoint Inhibitor-Related Dermatitis: A Nonrandomized Clinical Trial.",
+          "date": "2026-03-05",
+          "source": "JAMA oncology",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784992/",
+          "summary": "No abstract captured from PubMed.",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Outcomes of Older Adults With Advanced Cancer Who Prefer Quality of Life vs Prolonging Survival: A Secondary Analysis of the GAP70+ Cluster Randomized Clinical Trial.",
+          "date": "2026-03-05",
+          "source": "JAMA oncology",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784985/",
+          "summary": "IMPORTANCE: Health care systems should strive to achieve outcomes that matter to patients. Limited data exist on the outcomes achieved by patients with cancer with different treatment outcome preferences. OBJECTIVE: To describe treatment outcome preferences among older adults with advanced cancer and explore differences in outcomes between patients prioritizing survival vs quality of life (QoL), testing the hypothesis that patients prioritizing survival would live longer, while those prioritizing QoL would have fewer treatment-related adverse effects (TRAEs) and hospitalizations. DESIGN, SETTING, AND PARTICIPANTS: This study was an exploratory secondary analysis of the GAP70+ cluster randomized clinical trial conducted at National Cancer Institute's Community Oncology ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Genomic Therapy Matching in Rare and Refractory Cancers.",
+          "date": "2026-03-05",
+          "source": "JAMA oncology",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784981/",
+          "summary": "IMPORTANCE: The clinical utility of matching therapies to genomic biomarkers based on varying levels of evidence remains uncertain, particularly for patients with rare and refractory cancers. OBJECTIVE: To assess whether a tiered, evidence-based framework for matching genomic biomarkers to therapies is associated with differential overall survival in patients with advanced solid tumors. DESIGN, SETTING, AND PARTICIPANTS: This multicenter cohort study was conducted within the Molecular Screening and Therapeutic program, a nationwide precision oncology program in Australia. Patients aged 18 years and older with advanced, refractory solid tumors and adequate Eastern Cooperative Oncology Group Performance Status were enrolled from June 2016 to December 2021, with follow-up ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Genetic Testing for APOL1 in Adults With Hypertension: The GUARDD-US Randomized Clinical Trial.",
+          "date": "2026-03-02",
+          "source": "JAMA network open",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784962/",
+          "summary": "IMPORTANCE: Apolipoprotein L1 locus (APOL1) high-risk alleles are associated with incidence of chronic kidney disease (CKD) among people with African ancestry. Few studies have examined the effect of genetic return of results on blood pressure (BP) management and control. OBJECTIVE: To determine whether providing APOL1 high-risk genotype results to people with hypertension and their clinicians would reduce systolic BP (SBP) and improve CKD screening and diagnosis. DESIGN, SETTING, AND PARTICIPANTS: From July 1, 2020, to September 30, 2023, adults aged 18 to 70 years with hypertension and self-reported African ancestry were enrolled at 14 institutions and 54 clinical sites across the US. Eligible patients either (1) lacked diagnoses of diabetes and CKD or (2) had a ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Magnetoelectric biofeedback for precision-targeted rectocele management: A randomized controlled trial of phenotype-driven pelvic floor neuromodulation.",
+          "date": "2026-03-05",
+          "source": "International journal of colorectal disease",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784838/",
+          "summary": "PURPOSE: Magnetoelectric biofeedback therapy (MEBFT) is an emerging intervention for moderate rectocele-associated obstructed defecation syndrome (ODS); however, its efficacy and mechanisms remain unclear. This study compared MEBFT with conventional biofeedback therapy (BFT) and developed a 3D high-resolution anorectal manometry (HR-ARM)-based predictive model for clinical decision-making. METHODS: In this prospective, single-blind, randomized controlled trial, 68 female patients with defecography-confirmed moderate rectocele-associated ODS were treated in the outpatient department of Tianjin Union Medical Center from January 2019 to June 2024). Patients were randomly assigned in a 1:1 ratio to either the MEBFT or BFT group. Primary outcomes included 3D HR-ARM ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Evaluation of safety and efficacy of cyclosporine-A eye drops in herpetic stromal keratitis: a prospective randomized clinical trial.",
+          "date": "2026-03-05",
+          "source": "Journal of ophthalmic inflammation and infection",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784713/",
+          "summary": "No abstract captured from PubMed.",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Impact of kinesio tape application on post-operative recovery in patients undergoing surgical extraction of impacted mandibular third molars: A randomized clinical trial.",
+          "date": "2026-03-05",
+          "source": "Oral and maxillofacial surgery",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784698/",
+          "summary": "No abstract captured from PubMed.",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Effect of Virtual Interactive Video-based Information Support for Relieving Preoperative Anxiety on Patients Undergoing Day Case Hysteroscopy: A Randomized Controlled Study.",
+          "date": "2026-03-05",
+          "source": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784597/",
+          "summary": "PURPOSE: The effect of virtual tour as a method of health education to alleviate preoperative anxiety remains controversial. This study aimed to evaluate the effect of Virtual Interactive Video-based Information Support (VIVBIS), which integrates virtual reality technology with information needs-oriented education, on reducing preoperative anxiety in patients undergoing day case hysteroscopy under general anesthesia. DESIGN: Single-center, prospective, randomized, controlled clinical trial. METHODS: From May to December 2023, a three-arm parallel randomized controlled trial design was conducted. Patients were randomly assigned to one of three groups: VIVBIS (Group A), 2D videos (Group B), and conventional education (Group C) when receiving preoperative education. The ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "M6 metabolite contributes to the efficacy of the Rac/Cdc42 inhibitor MBQ-167 in metastatic breast cancer.",
+          "date": "2026-03-05",
+          "source": "Molecular cancer therapeutics",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784152/",
+          "summary": "Metastasis remains a major challenge in cancer treatment due to the lack of effective targeted therapies. MBQ-167, a first-in-class dual Rac/Cdc42 inhibitor currently in a Phase 1 clinical trial, has demonstrated promising activity in preclinical breast cancer models by reducing tumor burden and preventing metastasis. To characterize its metabolism, we conducted liver microsome assays and identified several MBQ-167 metabolites. Of these, M6 was the primary metabolite from dog and human plasma following oral administration of MBQ-167. The M6 pharmacokinetics profile parallels that of MBQ-167 in human plasma from advanced breast cancer patients enrolled in the clinical trial. In metastatic breast cancer cell lines (HER2-BM, MDA-MB-231, MDA-MB-468), M6 exhibited minimal ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Power Training Combined With Interval Treadmill Training in Cerebral Palsy: An RCT.",
+          "date": "2026-03-05",
+          "source": "Pediatrics",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784138/",
+          "summary": "OBJECTIVES: Determine the effect of lower-extremity power training combined with interval treadmill training (PT3) on walking capacity and performance in children with cerebral palsy (CP). METHODS: In this multisite, single-blinded randomized clinical trial, children with spastic, bilateral CP between ages 10 and 17 years were randomized to receive 24 sessions of either PT3 or traditional strength training combined with steady-state treadmill training (STT). Primary outcomes were normalized self-selected and fast gait speed and muscle power. Participants were assessed at baseline, immediate postintervention, 2-month post, and 6-month post. RESULTS: Of 43 recruited participants (20 female participants; mean age 13.1 SD 2.2 years for PT3 group; mean age 13.8 SD 2.6 years ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Effects of a Personalised FODMAP Diet Versus the National Institute for Health and Care Excellence (NICE) Dietary Advice on Symptom Control in Patients With Irritable Bowel Syndrome: Randomised Clinical Trial.",
+          "date": "2026-03-05",
+          "source": "Alimentary pharmacology & therapeutics",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784137/",
+          "summary": "INTRODUCTION: Irritable bowel syndrome is a disorder of the gut-brain interaction characterised by chronic abdominal pain and altered bowel habits, with substantial impact on quality of life. Symptoms are associated with foods trigger, leading to specific dietary interventions. Adherence and acceptability may improve when dietary interventions are personalised and less restrictive. While the low-FODMAP diet is effective, its restrictiveness may limit long-term adherence. Personalised dietary strategies may offer comparable benefit with greater feasibility. METHODS: In this parallel-group, randomised clinical trial, adults fulfilling Rome III criteria for IBS were assigned (1:1) to NICE dietary advice or an personalised FODMAP diet for four weeks. The personalised diet ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Disability and frailty in people living with Human Immunodeficiency Virus in regional Australia: A cross-sectional study with a measurement property assessment of the HIV Disability Questionnaire.",
+          "date": "2026-03-05",
+          "source": "HIV medicine",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784039/",
+          "summary": "OBJECTIVES: To measure disability and frailty and assess measurement properties of the HIV Disability Questionnaire (HDQ) in outer regional Australian people living with human immunodeficiency virus (HIV). METHODS: This cross-sectional, validity and reliability study included community-dwelling outer regional Australian adults with HIV. Participants completed the self-reported World Health Organization Disability Assessment Schedule 2.0 (WHODAS; scored 0-100), 5-Question Frail Scale (scored 0-5) and HDQ (scored 0-100). Median scores (Q1, Q3) for disability (WHODAS) and frailty (Frail Scale) were reported. HDQ validity was tested based on 16 a priori hypothesized relationships between WHODAS, Frail Scale and HDQ scores (threshold ≥75% confirmed), and HDQ internal ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "REALiTEC: a multi-country observational retrospective study of teclistamab in patients with relapsed/refractory multiple myeloma outside of clinical trials.",
+          "date": "2026-03-05",
+          "source": "Haematologica",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41784028/",
+          "summary": "Teclistamab is the first approved anti-BCMA bispecific antibody for patients with triple-class exposed relapsed/refractory multiple myeloma (RRMM), based on the results of MajesTEC-1 clinical trial. Here, we first report the findings from REALiTEC, a retrospective observational study of patients who received teclistamab outside of clinical trials in Europe and Israel. The study included 113 patients from 23 sites in eight countries, with most (88.5%) accessing the medication through pre-approval access programs. The median age was 66 years, and patients had a median of 6 prior lines of therapy. Notably, 78.8% were triple-class refractory, 44.2% penta-class refractory, and 35.4% had previous anti-BCMA treatment. Overall response rate (ORR) was 60.2%, with 52.2% of ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Addition of pulsed electric field ablation to SBRT for lung tumors: effect on health-related quality of life.",
+          "date": "2026-12-01",
+          "source": "Lung cancer management",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41783980/",
+          "summary": "INTRODUCTION: Treatment indications for oligometastatic/oligoprogressive lung tumors are growing. Safety and lack of detrimental effect on patients' quality of life are critical for novel local therapies. METHODS: We tested that the additive effect of pulsed electric field (PEF) ablation with lower-dose stereotactic body radiation therapy (SBRT) on health-related quality of life (HRQoL) as a secondary endpoint in a prospective clinical trial. FACT-Lung Cancer Subscale (FACT-LCS) and FACT-General domain surveys were collected at screening, 3 months, and 12 months. Functional clinical data included forced vital capacity (FVC), forced expiratory volume in one second (FEV1), and diffusing capacity of the lung for carbon monoxide (DLCO). RESULTS: Six patients with eight ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Differential Safety and Lipid Control Efficacy of β-1,3/1,6-Glucan Oligosaccharides and Polysaccharides Derived From Ophiocordyceps dipterigena BCC 2073 in Healthy Volunteers.",
+          "date": "2026-03-01",
+          "source": "Food science & nutrition",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41783691/",
+          "summary": "β-1,3/1,6-glucan is an immune-modulating functional ingredient. To enhance solubility, β-1,3/1,6-glucan oligosaccharides were developed from polysaccharides through gamma-irradiation. Nevertheless, whether their safety and efficacy profiles are different remains unclear. Our previous study identified 2000 mg/day as the maximum short-term tolerable dose of Ophiocordyceps dipterigena BCC2073-derived β-1,3/1,6-glucan oligosaccharides and polysaccharides. However, the long-term safety of this dosage was unknown. This randomized, blinded, placebo-controlled trial was conducted to evaluate their safety over 12 weeks. Ninety-six healthy participants were randomly assigned to receive 2000 mg daily of either β-glucans oligosaccharides, β-glucans polysaccharides, or placebo ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Effect of vosoritide on spine morphology in children with achondroplasia: 1-year results from a randomized phase 2 study.",
+          "date": "2026-03-01",
+          "source": "Journal of the Endocrine Society",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41783511/",
+          "summary": "Achondroplasia is a skeletal dysplasia condition caused by reduced endochondral ossification resulting in disproportionate short stature and skeletal deformities, including thoracolumbar kyphosis (TLK) and spinal stenosis. Vosoritide, the first and only approved targeted therapy for achondroplasia, increases bone growth, but its impact on spinal morphology has not been assessed. The randomized, double-blind, placebo-controlled phase 2 CANOPY ACH-2I study (111-206; NCT03583697) evaluated the safety and efficacy of vosoritide in 75 children aged 0 to <5 years. Interpedicular distance (IPD), sagittal width of the lumbar spinal canal, and TLK angle were measured on spinal radiographs taken at baseline and 1 year after vosoritide or placebo treatment. Differences in ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "A pragmatic phase II trial evaluating treatment strategies using immune checkpoint inhibitors for metastatic esophageal cancer patients with severe dysphagia.",
+          "date": "2026-03-01",
+          "source": "ESMO gastrointestinal oncology",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41783111/",
+          "summary": "INTRODUCTION: The addition of immune checkpoint inhibitors (ICIs) to chemotherapy has significantly improved the prognosis of patients with metastatic esophageal cancer. Although fluorouracil and cisplatin (FP) combined with an ICI is considered one of the most effective first-line treatments, patients with severe dysphagia have not been adequately evaluated. Radiotherapy (RT) and chemoradiotherapy (CRT), however, have been established as effective treatment options for dysphagia, based on the results of a phase III clinical trial conducted before the approval of ICIs for esophageal cancer. This study aims to evaluate the efficacy and safety of FP plus ICI and FP plus ICI following RT/CRT in patients with stage IVB esophageal cancer and severe dysphagia. METHODS: This ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Crucial involvement of transforming growth factor beta (TGF-β)/Smad signaling regulation by miR-204-5p in cataract and posterior capsular opacification.",
+          "date": "2026-03-01",
+          "source": "Biochemistry and biophysics reports",
+          "platform": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41783107/",
+          "summary": "UNLABELLED: Worldwide, cataracts remain the leading cause of irreversible blindness, primarily driven by age-related changes and free radical-mediated lens damage. Posterior capsular opacification (PCO) is a common complication following cataract surgery, arising from aberrant proliferation and epithelial-mesenchymal transition (EMT) of residual lens epithelial cells (LECs). The transforming growth factor-β (TGF-β)/Smad signaling cascade is among the most critical pathways underlying both cataractogenesis and PCO, as it drives EMT and subsequent fibrotic alterations. MicroRNAs have emerged as key regulators of ocular homeostasis, with miR-204-5p being particularly relevant. Highly expressed in the lens, miR-204-5p has been shown to target TGFBR2, a core component of ...",
+          "tags": [
+            "latest research",
+            "pubmed",
+            "innovative drug"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "industry-research",
+      "name": "Latest Industry Research",
+      "description": "Track strategy reports, market analysis, and company-level insight notes.",
+      "items": [
+        {
+          "title": "Sanofi bets on Sino Biopharm’s transplant drug in $1.5bn licensing deal",
+          "date": "2026-03-05",
+          "source": "Pharmaceutical Technology",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnhUZWZVOV9VTnVtaTNsWHhFcjZaWGk5MGNza2NlQk83cTFjTk5xWWtKNU11T2xsWV9TSVNKNEVnQ1VNYWFYRjhreUtDN0wtUFRoVXlqUUpTbkV6SjZzYzF3TDV0Sm8yUUgzSTFGN0NCQlhZYUh6U21oMjNhMWFiU2t5QVJ5R2daVm96X2ZiUE1pV2tpZTR1dFRscVFiOGp2eGxDVE80WXB1TUl5?oc=5",
+          "summary": "Sanofi bets on Sino Biopharm’s transplant drug in $1.5bn licensing deal Pharmaceutical Technology",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Candid Therapeutics Strikes Up Merger With Rallybio to Advance Its Autoimmune Drug Pipeline",
+          "date": "2026-03-02",
+          "source": "MedCity News",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSndrY2E3b1NYZHBnYmpwd19mZnZIdGdYUWlBLXJzX1dfTHcwNFBXU2E3SHA1ckxUN3NpOUk4VWhmQXc1X3UtRGNKZ3RXUnltdFg0UHhNZ2VfZVV3dkpfcDZNQk41SDFOWlpmWlZ2MDZnaS1VbTlsSUU4OGllVTFHVk80T00tcXpvVXR3QllxUXRmOVNURzZKckh0cjBlc3V3V2xrLXhLdUZldFY3QmlJX2thRHFrV2RtMDBsVzctWHQ?oc=5",
+          "summary": "Candid Therapeutics Strikes Up Merger With Rallybio to Advance Its Autoimmune Drug Pipeline MedCity News",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Teva And Blackstone Deal Highlights Shift Toward Higher Value Drug Pipeline",
+          "date": "2026-03-05",
+          "source": "Yahoo Finance",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWGNmU2dVUnNZSHFPT0Q3QzVlZFlMUVcwWW9YU0hTdE9FQzlNSWZGMmRRdUlDREtGbFZHXzBGYmV2QXltMUI0T0FmYl9SWGlCM3AwUi1Rcy10YnFVLTdsd25ZQ2RyX2NILVdfQkx2a200Q2ZqVFhCaGN3X282aVBJWVprb0Z0My1Vd3ZZ?oc=5",
+          "summary": "Teva And Blackstone Deal Highlights Shift Toward Higher Value Drug Pipeline Yahoo Finance",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Sanofi bets on Sino Biopharm’s transplant drug in $1.5bn licensing deal",
+          "date": "2026-03-04",
+          "source": "Yahoo Finance",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQREFvTkZOZHlaRVRpX2lUeFVMMlBDcWt0M3BYNjRJZXQydkdpS0ZhOG14Zi1fR21TYXVFUUNDY1d0eFVXYmo4bDVIdGN6T1lqV2puYk5HcUszQUxSVHZsMGpfRWNNYTJWSVJJd1ZBelhPQzV6NnJ4ZmFkdzBBbjdWM2R5Nzh0M1FvZ2c?oc=5",
+          "summary": "Sanofi bets on Sino Biopharm’s transplant drug in $1.5bn licensing deal Yahoo Finance",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Sino Biopharma signs up to $1.4 bln licensing deal with Sanofi",
+          "date": "2026-03-03",
+          "source": "Investing.com",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2NkeWRoblFySmxOdnVKRTBNd0dIUk1xRC1USWY1aFc5TV9acl9VY1R0dE9TSEcwZXVSc01fSHZOVm12QVhkekQ2SHdVZzJUOF9XRjkxdTRTY2lHcHlOcmJqdFlMZy15WFdybVpMNVozcTVINFNidnkxQlE2bnhwQWZJWmphNGxZMDBheDU1MjJYQy1UUFlGLUdTanp3SURHMDh0Sm41UGF6ZWhEMU1TRGhXaHR1WUdV?oc=5",
+          "summary": "Sino Biopharma signs up to $1.4 bln licensing deal with Sanofi Investing.com",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Sino Biopharm Inks USD1.5 Billion Drug Licensing Deal With Sanofi",
+          "date": "2026-03-04",
+          "source": "Yicai Global",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTA0ZEJRRzNwdmVhV2w5NzAybGNiS0JfcFN0V1NoN19ERHBCODNDSk1yUnFROW5NS1BpZmpwUllnWmhXTTBKcU5NaFZRZTNlNS13WG8yWjU0R0FMeDBFLVdaQmF4eHFvLVBQRDdiSERVRUhIV0tYRUZid09PY3NQeDItcGFWbm9kRzFtcDJLYWcxclBoWlpOODI0SUtpZw?oc=5",
+          "summary": "Sino Biopharm Inks USD1.5 Billion Drug Licensing Deal With Sanofi Yicai Global",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Truist initiates Vanda Pharmaceuticals stock at buy on drug pipeline By Investing.com",
+          "date": "2026-03-05",
+          "source": "Investing.com Nigeria",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORnJMQmNwWUlPelVUV3BLMGhQN1JUaU5IclV1MS00UGtnR1U5bXJ1bnRyTGRNVDU0VDhyRGZMS3ozZmUtaXRUNXFaLVpxUW8taTZFS0w3blNJSTlhUG5fUkJOQ3NEbzNfbGtyYk1NTElLOHpGV2dBVU42V19PcVlCVndiWFFEVkxfeFBOSXFIR192QTU1YnRueHc1VWcwMFRyeUJ0bzlnRGFkb2plenU0QVVkTjdfMFhsWDJEakt2cUd6LU9QTHc?oc=5",
+          "summary": "Truist initiates Vanda Pharmaceuticals stock at buy on drug pipeline By Investing.com Investing.com Nigeria",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Sanofi strikes $1.5B global licensing deal for Sino Biopharm's first-in-class JAK/ROCK asset",
+          "date": "2026-03-04",
+          "source": "Fierce Pharma",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVpfcDNiUGZnelozQmZqTjd6aGxPZXBKa2s0cHVQa055WUthRGJab2pzTVZqVjNhLUxhQUJocmZLQVF6aVNtNXJJR1pXeWRhTEp1NkhqYVpXenBMMkViN3pYd3E5OEJ0SEpXM3ktaUFYZE9Wd3YyX0llSGhKNmhCX3phZ2NmUWpBYVNYZjQ5OGhQLWh5Y0RsQnFJUnM0enZFWTlTYkhUS0NLendHclJvRERn?oc=5",
+          "summary": "Sanofi strikes $1.5B global licensing deal for Sino Biopharm's first-in-class JAK/ROCK asset Fierce Pharma",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Oncology Drug Pipeline Is Poised to Offer Potential New Therapies in the Next Year",
+          "date": "2026-02-27",
+          "source": "Pharmacy Times",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2hVNUZ6QURwdVNDRklhcHRITVhuMUFYOGdCVkJmYUxlZU4yOVJwV3VxZ1pTZVNObFh2MjBhZmt6ajdzcDM4YkFFTmVFZmFObDFHdndDTFlCVS14TGtNQ1pFbGdFUlJuT2VNYV8tclBtbDRsRS0xQzJNNzZXUVZsZFNoMENlbklGV2VKbkRYQ29Ba1dCR296WTA4SXdBYUZTeHVDRzZIaWZ3UkJKcFE0VTIzVWJHXzIz?oc=5",
+          "summary": "Oncology Drug Pipeline Is Poised to Offer Potential New Therapies in the Next Year Pharmacy Times",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        },
+        {
+          "title": "Sanofi Signs $1.5 Billion Licensing Deal with Sino Biopharmaceutical for Dual-Target GVHD Drug",
+          "date": "2026-03-04",
+          "source": "geneonline.com",
+          "platform": "Google News RSS",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFFlREo1ZHpfc1g2d0FPaFZmakNCMFJhdkh0MklZUV8wNjNTT21BNnFoejRhRUFtYmtsc1g5Tmw5SDcwYzF5cEtnZXh2bmEtUWczaFBFMjQ4VlRZbGxBZVEzcEFIOUlWZC1yQ2NDbnhVTkNIeW1DaDlRakc4dTNvekk4QmR3akhZdWRjVUlsR0p1R3JQY3hfVE1MNlhRcE9YX1pmRVJqaWZoNndMY3FMVnhDNlpFbFBWbEZ2UFhR?oc=5",
+          "summary": "Sanofi Signs $1.5 Billion Licensing Deal with Sino Biopharmaceutical for Dual-Target GVHD Drug geneonline.com",
+          "tags": [
+            "industry research",
+            "innovative drug"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "WeChat Official Accounts",
+      "url": "https://weixin.qq.com/",
+      "type": "social_media"
+    },
+    {
+      "name": "Toutiao",
+      "url": "https://www.toutiao.com/",
+      "type": "social_media"
+    },
+    {
+      "name": "Weibo",
+      "url": "https://weibo.com/",
+      "type": "social_media"
+    },
+    {
+      "name": "Zhihu",
+      "url": "https://www.zhihu.com/",
+      "type": "social_media"
+    },
+    {
+      "name": "Xiaohongshu",
+      "url": "https://www.xiaohongshu.com/",
+      "type": "social_media"
+    },
+    {
+      "name": "People's Daily",
+      "url": "http://www.people.com.cn/",
+      "type": "news_media"
+    },
+    {
+      "name": "Xinhua News Agency",
+      "url": "http://www.news.cn/",
+      "type": "news_media"
+    },
+    {
+      "name": "The Economist",
+      "url": "https://www.economist.com/",
+      "type": "news_media"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/",
+      "type": "news_media"
+    },
+    {
+      "name": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "type": "academic_database"
+    }
+  ],
+  "fetch": {
+    "window_days": 7,
+    "pubmed": {
+      "query": "(\"drug therapy\"[Majr] OR \"pharmaceutical preparations\"[Majr] OR \"innovative drug\"[Title/Abstract] OR \"first-in-class\"[Title/Abstract] OR \"clinical trial\"[Title/Abstract] OR \"new molecular entity\"[Title/Abstract])",
+      "count": 18,
+      "error": null
+    },
+    "google_news": {
+      "daily_query": "\"innovative drug\" OR biotech OR \"clinical trial\" OR \"trial readout\" OR FDA OR NMPA OR \"drug approval\"",
+      "daily_count": 18,
+      "daily_error": null,
+      "industry_query": "\"biotech deal\" OR \"licensing deal\" OR \"pharma M&A\" OR \"drug pipeline\" OR \"industry report\" OR \"biotech financing\"",
+      "industry_count": 10,
+      "industry_error": null
+    },
+    "yuanbao": {
+      "enabled": true,
+      "model": "hunyuan-turbos-latest",
+      "error": null,
+      "search_info_count": 0
+    },
+    "fallback": {
+      "daily_news_used_previous": false,
+      "latest_research_used_previous": false,
+      "industry_research_used_previous": false
+    }
+  }
+}

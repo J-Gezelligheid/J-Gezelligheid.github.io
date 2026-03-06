@@ -1,0 +1,48 @@
+/* Site-wide font override: English -> Times New Roman, Chinese -> FangSong */
+
+@font-face {
+  font-family: "SiteText";
+  src: local("Times New Roman"), local("TimesNewRomanPSMT");
+  unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+20A0-20CF;
+}
+
+@font-face {
+  font-family: "SiteText";
+  src: local("FangSong"), local("仿宋"), local("STFangsong"), local("FangSong_GB2312");
+  unicode-range: U+2E80-2EFF, U+2F00-2FDF, U+3000-303F, U+31C0-31EF, U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF, U+FF00-FFEF;
+}
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+a,
+blockquote,
+figcaption,
+label,
+button,
+input,
+select,
+textarea,
+.site-name,
+.top-navigation,
+.navigation-wrapper,
+.toc li,
+.holder {
+  font-family: "SiteText", "Times New Roman", "FangSong", "仿宋", serif !important;
+}
+
+code,
+pre,
+kbd,
+samp,
+tt,
+.highlight {
+  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace !important;
+}
