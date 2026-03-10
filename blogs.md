@@ -4,6 +4,10 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
+## Featured Tools
+
+- [FDU Food Rating Leaderboard 复旦周边美食评分排行榜](/blogs/fdu-food-ranking/)
+
 ## Chinese Blogs 中文博客
 
 ### 2025

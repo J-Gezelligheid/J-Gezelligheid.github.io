@@ -1,0 +1,43 @@
+{
+  "updated_at": "2026-03-10T00:00:00Z",
+  "areas": [
+    {
+      "id": "guoquan-road",
+      "name": "国权路",
+      "shops": [
+        {
+          "id": "guoquan-sample",
+          "name": "示例店铺（可修改）",
+          "note": "可直接在页面里继续新增真实店铺。"
+        }
+      ]
+    },
+    {
+      "id": "sanhao-bay",
+      "name": "三号湾",
+      "shops": [
+        {
+          "id": "sanhao-sample",
+          "name": "示例店铺（可修改）",
+          "note": "可直接在页面里继续新增真实店铺。"
+        }
+      ]
+    },
+    {
+      "id": "wujiaochang",
+      "name": "五角场",
+      "shops": [
+        {
+          "id": "wujiaochang-sample",
+          "name": "示例店铺（可修改）",
+          "note": "可直接在页面里继续新增真实店铺。"
+        }
+      ]
+    }
+  ],
+  "firebase": {
+    "enabled": false,
+    "database_url": "",
+    "data_root": "fdu_food_ranking"
+  }
+}
