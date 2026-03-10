@@ -1,0 +1,80 @@
+.rankings-hub-shell {
+  --hub-bg: #f6f8fb;
+  --hub-card: #ffffff;
+  --hub-border: #d7deea;
+  --hub-accent: #0f4a7b;
+  --hub-muted: #5a6474;
+  color: #1f2937;
+}
+
+.rankings-hub-meta {
+  margin-bottom: 1rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--hub-border);
+  border-radius: 12px;
+  background: linear-gradient(135deg, #f8fbff 0%, #eef5ff 100%);
+}
+
+.rankings-hub-note {
+  color: var(--hub-muted);
+}
+
+.rankings-hub-toc {
+  margin: 0 0 1.2rem 0;
+  padding: 0.8rem 1rem;
+  border: 1px dashed var(--hub-border);
+  border-radius: 12px;
+  background: var(--hub-bg);
+}
+
+.rankings-hub-toc h3 {
+  margin: 0 0 0.4rem 0;
+  font-size: 1rem;
+}
+
+.rankings-hub-toc ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.rankings-hub-section {
+  margin-bottom: 2rem;
+  scroll-margin-top: 1rem;
+}
+
+.rankings-hub-submeta {
+  margin: 0.2rem 0 0.2rem 0;
+  color: var(--hub-muted);
+}
+
+.rankings-hub-link {
+  margin: 0 0 0.55rem 0;
+}
+
+.rankings-hub-table-wrap {
+  border: 1px solid var(--hub-border);
+  border-radius: 12px;
+  overflow-x: auto;
+  background: var(--hub-card);
+}
+
+.rankings-hub-table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+}
+
+.rankings-hub-table thead {
+  background: #e9f0fb;
+}
+
+.rankings-hub-table th,
+.rankings-hub-table td {
+  padding: 0.6rem 0.7rem;
+  text-align: left;
+  border-bottom: 1px solid #e8edf5;
+}
+
+.rankings-hub-table tbody tr:nth-child(even) {
+  background: #fbfdff;
+}

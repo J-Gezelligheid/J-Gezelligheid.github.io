@@ -6,9 +6,7 @@ title: Blogs
 
 ## Featured Tools
 
-- [FDU Food Rating Leaderboard 复旦周边美食评分排行榜](/blogs/fdu-food-ranking/)
-- [FDU Coffee Rating Leaderboard 复旦周边咖啡评分排行榜](/blogs/fdu-coffee-ranking/)
-- [FDU Bookstore Rating Leaderboard 复旦周边书店评分排行榜](/blogs/fdu-bookstore-ranking/)
+- [FDU Rating Hub 复旦周边评分系统总榜（美食/咖啡/书店）](/blogs/fdu-rankings/)
 
 ## Chinese Blogs 中文博客
 
