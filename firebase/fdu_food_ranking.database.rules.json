@@ -1,17 +1,17 @@
 {
   "rules": {
-    "fdu_food_ranking": {
-      ".read": true,
+    "$boardId": {
+      ".read": "$boardId === 'fdu_food_ranking' || $boardId === 'fdu_coffee_ranking' || $boardId === 'fdu_bookstore_ranking'",
       "shops": {
         "$shopId": {
-          ".write": "auth != null && !data.exists()",
+          ".write": "auth != null && !data.exists() && ($boardId === 'fdu_food_ranking' || $boardId === 'fdu_coffee_ranking' || $boardId === 'fdu_bookstore_ranking')",
           ".validate": "newData.hasChildren(['id', 'name', 'area_id', 'created_at']) && newData.child('id').isString() && newData.child('id').val() === $shopId && newData.child('name').isString() && newData.child('name').val().length > 0 && newData.child('name').val().length <= 40 && newData.child('area_id').isString() && (newData.child('area_id').val() === 'guoquan-road' || newData.child('area_id').val() === 'sanhao-bay' || newData.child('area_id').val() === 'wujiaochang') && (!newData.child('note').exists() || (newData.child('note').isString() && newData.child('note').val().length <= 100)) && (!newData.child('created_by').exists() || (newData.child('created_by').isString() && newData.child('created_by').val().length <= 30)) && (!newData.child('created_by_uid').exists() || (newData.child('created_by_uid').isString() && newData.child('created_by_uid').val().length <= 50)) && newData.child('created_at').isString() && newData.child('created_at').val().length <= 40"
         }
       },
       "ratings": {
         "$ratingId": {
-          ".write": "auth != null && !data.exists()",
-          ".validate": "newData.hasChildren(['id', 'shop_id', 'score', 'created_at']) && newData.child('id').isString() && newData.child('id').val() === $ratingId && newData.child('shop_id').isString() && root.child('fdu_food_ranking/shops/' + newData.child('shop_id').val()).exists() && newData.child('score').isNumber() && newData.child('score').val() >= 1 && newData.child('score').val() <= 5 && newData.child('score').val() % 1 === 0 && (!newData.child('reviewer').exists() || (newData.child('reviewer').isString() && newData.child('reviewer').val().length <= 30)) && (!newData.child('reviewer_uid').exists() || (newData.child('reviewer_uid').isString() && newData.child('reviewer_uid').val().length <= 50)) && newData.child('created_at').isString() && newData.child('created_at').val().length <= 40"
+          ".write": "auth != null && !data.exists() && ($boardId === 'fdu_food_ranking' || $boardId === 'fdu_coffee_ranking' || $boardId === 'fdu_bookstore_ranking')",
+          ".validate": "newData.hasChildren(['id', 'shop_id', 'score', 'created_at']) && newData.child('id').isString() && newData.child('id').val() === $ratingId && newData.child('shop_id').isString() && root.child($boardId + '/shops/' + newData.child('shop_id').val()).exists() && newData.child('score').isNumber() && newData.child('score').val() >= 1 && newData.child('score').val() <= 5 && newData.child('score').val() % 1 === 0 && (!newData.child('reviewer').exists() || (newData.child('reviewer').isString() && newData.child('reviewer').val().length <= 30)) && (!newData.child('reviewer_uid').exists() || (newData.child('reviewer_uid').isString() && newData.child('reviewer_uid').val().length <= 50)) && newData.child('created_at').isString() && newData.child('created_at').val().length <= 40"
         }
       }
     }

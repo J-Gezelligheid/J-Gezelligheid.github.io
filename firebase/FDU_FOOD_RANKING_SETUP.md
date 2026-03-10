@@ -1,4 +1,4 @@
-# FDU Food Ranking Firebase 上线步骤
+# FDU Ranking Firebase 上线步骤（美食/咖啡/书店）
 
 ## 1. 创建 Firebase 项目
 
@@ -19,7 +19,13 @@
 
 ## 4. 写入站点配置
 
-编辑 `_data/fdu_food_ranking.json` 的 `firebase` 节点：
+分别编辑以下三个配置文件的 `firebase` 节点：
+
+- `_data/fdu_food_ranking.json`
+- `_data/fdu_coffee_ranking.json`
+- `_data/fdu_bookstore_ranking.json`
+
+示例：
 
 ```json
 "firebase": {
@@ -42,3 +48,4 @@
 1. 用两个不同浏览器或无痕窗口打开 `/blogs/fdu-food-ranking/`。
 2. A 端新增店铺或评分。
 3. B 端应在 15 秒内自动同步出更新，且总榜均值同步变化。
+4. 对 `/blogs/fdu-coffee-ranking/` 与 `/blogs/fdu-bookstore-ranking/` 重复同样测试。

@@ -1,18 +1,18 @@
 ---
 layout: page
-permalink: /blogs/fdu-food-ranking/index.html
-title: 复旦周边美食评分排行榜
+permalink: /blogs/fdu-bookstore-ranking/index.html
+title: 复旦周边书店评分排行榜
 ---
 
 <link rel="stylesheet" href="/assets/css/fdu-food-ranking.css">
 <script src="/assets/js/fdu-food-ranking.js" defer></script>
 
-{% assign board = site.data.fdu_food_ranking %}
+{% assign board = site.data.fdu_bookstore_ranking %}
 
 <div class="food-board-shell">
   <section class="food-board-meta">
     <p><strong>更新时间：</strong> `{{ board.updated_at }}` (UTC)</p>
-    <p class="food-board-note">支持国权路、三号湾、五角场三个区域。你可以自行新增店铺，所有已记录评分按均值自动更新总榜。</p>
+    <p class="food-board-note">支持国权路、三号湾、五角场三个区域。你可以自行新增书店，所有已记录评分按均值自动更新总榜。</p>
     <p class="food-board-note">榜单切换：<a href="/blogs/fdu-food-ranking/">美食榜</a> | <a href="/blogs/fdu-coffee-ranking/">咖啡榜</a> | <a href="/blogs/fdu-bookstore-ranking/">书店榜</a></p>
     <p id="food-board-store-mode" class="food-board-mode"></p>
   </section>
@@ -29,7 +29,7 @@ title: 复旦周边美食评分排行榜
   </nav>
 
   <section id="food-board-ranking" class="food-board-section">
-    <h2>总榜（按均值排序）</h2>
+    <h2>书店总榜（按均值排序）</h2>
     <div class="food-table-wrap">
       <table class="food-ranking-table">
         <thead>
@@ -49,7 +49,7 @@ title: 复旦周边美食评分排行榜
   <section id="food-board-rate" class="food-board-section">
     <h2>我要评分</h2>
     <form id="food-rating-form" class="food-board-form">
-      <label for="food-rating-shop">店铺</label>
+      <label for="food-rating-shop">书店</label>
       <select id="food-rating-shop" required></select>
 
       <label for="food-rating-score">评分（1-5）</label>
@@ -70,13 +70,13 @@ title: 复旦周边美食评分排行榜
   </section>
 
   <section id="food-board-add-shop" class="food-board-section">
-    <h2>添加店铺</h2>
+    <h2>添加书店</h2>
     <form id="food-add-shop-form" class="food-board-form">
       <label for="food-add-shop-area">所属区域</label>
       <select id="food-add-shop-area" required></select>
 
-      <label for="food-add-shop-name">店铺名</label>
-      <input id="food-add-shop-name" type="text" maxlength="40" placeholder="例如：某某小馆" required>
+      <label for="food-add-shop-name">书店名</label>
+      <input id="food-add-shop-name" type="text" maxlength="40" placeholder="例如：某某书店" required>
 
       <label for="food-add-shop-owner">提交人（可选）</label>
       <input id="food-add-shop-owner" type="text" maxlength="30" placeholder="方便后续追踪可填写">
@@ -95,11 +95,8 @@ title: 复旦周边美食评分排行榜
     <h2>维护说明</h2>
     <ol>
       <li>已启用 Firebase 共享模式；若配置不完整，页面会自动回退到本地模式。</li>
-      <li>配置文件：<code>_data/fdu_food_ranking.json</code>（美食）、<code>_data/fdu_coffee_ranking.json</code>（咖啡）、<code>_data/fdu_bookstore_ranking.json</code>（书店）。</li>
-      <li>Firebase Console 中需开启 Realtime Database 与 Anonymous Authentication。</li>
-      <li>将 <code>firebase/fdu_food_ranking.database.rules.json</code> 的规则粘贴到 Realtime Database Rules 页面后发布。</li>
-      <li>完整上线步骤见仓库文档：<code>firebase/FDU_FOOD_RANKING_SETUP.md</code>。</li>
-      <li>共享模式下，页面会把新增店铺与评分写入 Firebase 的 <code>data_root</code> 节点，并自动按所有评分均值聚合。</li>
+      <li>配置文件：<code>_data/fdu_bookstore_ranking.json</code>。</li>
+      <li>数据库规则文件与美食榜共用：<code>firebase/fdu_food_ranking.database.rules.json</code>。</li>
     </ol>
   </section>
 </div>

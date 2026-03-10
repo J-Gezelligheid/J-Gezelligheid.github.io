@@ -1,9 +1,9 @@
 (function () {
-  const seedEl = document.getElementById("food-ranking-seed");
+  const seedEl =
+    document.getElementById("ranking-seed") ||
+    document.getElementById("food-ranking-seed");
   if (!seedEl) return;
 
-  const LOCAL_STORAGE_KEY = "fdu_food_ranking_state_v1";
-  const FIREBASE_REFRESH_KEY = "fdu_food_ranking_refresh_token_v1";
   const DEFAULT_SYNC_INTERVAL_MS = 15000;
   const MIN_SYNC_INTERVAL_MS = 5000;
   const MAX_SYNC_INTERVAL_MS = 60000;
@@ -38,6 +38,10 @@
   } catch (_) {
     seed = {};
   }
+
+  const storageRoot = resolveStorageRoot(seed);
+  const boardLocalStorageKey = storageRoot + "_state_v1";
+  const boardRefreshTokenKey = storageRoot + "_refresh_token_v1";
 
   const areas = normalizeAreas(seed.areas);
   const areaMap = {};
@@ -79,7 +83,10 @@
 
     if (firebase.enabled) {
       remoteConfig = firebase;
-      authClient = createFirebaseAuthClient(firebase.apiKey);
+      authClient = createFirebaseAuthClient(
+        firebase.apiKey,
+        boardRefreshTokenKey
+      );
       storeMode = "remote";
       storeModeMessage = "共享模式（Firebase）：连接中...";
 
@@ -89,13 +96,18 @@
         persisted = await ensureRemoteSeedShops(persisted);
         storeModeMessage = "共享模式（Firebase）：所有访客评分实时共享。";
         startRemoteSync(firebase.syncIntervalMs);
-      } catch (_) {
+      } catch (error) {
         storeMode = "local";
         remoteConfig = null;
         authClient = null;
         persisted = readLocalState();
         storeModeMessage =
-          "Firebase 连接失败，已回退到本地模式（仅当前浏览器可见）。";
+          "Firebase 连接失败（" +
+          explainFirebaseError(error) +
+          "），已回退到本地模式（仅当前浏览器可见）。";
+        // Keep detailed diagnostics in console for setup troubleshooting.
+        // eslint-disable-next-line no-console
+        console.error("[FDU Food Ranking] Firebase init failed:", error);
       }
     } else {
       persisted = readLocalState();
@@ -237,7 +249,18 @@
     }
 
     if (!response.ok) {
-      throw new Error("Firebase request failed with status " + response.status);
+      let detail = "";
+      try {
+        detail = await response.text();
+      } catch (_) {
+        detail = "";
+      }
+      const compactDetail = sanitizeFirebaseErrorDetail(detail);
+      throw new Error(
+        "Firebase request failed with status " +
+          response.status +
+          (compactDetail ? " (" + compactDetail + ")" : "")
+      );
     }
 
     return response;
@@ -257,7 +280,7 @@
     );
   }
 
-  function createFirebaseAuthClient(apiKey) {
+  function createFirebaseAuthClient(apiKey, refreshStorageKey) {
     let idToken = "";
     let refreshToken = "";
     let userId = "";
@@ -275,7 +298,7 @@
 
       if (refreshToken) {
         try {
-          localStorage.setItem(FIREBASE_REFRESH_KEY, refreshToken);
+          localStorage.setItem(refreshStorageKey, refreshToken);
         } catch (_) {
           // Ignore storage write errors.
         }
@@ -297,7 +320,19 @@
         }
       );
       if (!response.ok) {
-        throw new Error("Anonymous auth failed.");
+        let detail = "";
+        try {
+          detail = await response.text();
+        } catch (_) {
+          detail = "";
+        }
+        throw new Error(
+          "Anonymous auth failed" +
+            " (status " +
+            response.status +
+            (detail ? ", " + sanitizeFirebaseErrorDetail(detail) : "") +
+            ")"
+        );
       }
 
       const payload = await response.json();
@@ -308,7 +343,7 @@
       let token = refreshToken;
       if (!token) {
         try {
-          token = String(localStorage.getItem(FIREBASE_REFRESH_KEY) || "");
+          token = String(localStorage.getItem(refreshStorageKey) || "");
         } catch (_) {
           token = "";
         }
@@ -401,7 +436,7 @@
 
   function readLocalState() {
     try {
-      const raw = localStorage.getItem(LOCAL_STORAGE_KEY);
+      const raw = localStorage.getItem(boardLocalStorageKey);
       if (!raw) return { shops: [], ratings: [] };
       const parsed = JSON.parse(raw);
       return {
@@ -416,7 +451,7 @@
   function saveLocalState() {
     try {
       localStorage.setItem(
-        LOCAL_STORAGE_KEY,
+        boardLocalStorageKey,
         JSON.stringify({
           shops: state.shops,
           ratings: state.ratings,
@@ -945,5 +980,47 @@
           target.scrollIntoView({ behavior: "smooth", block: "start" });
         });
       });
+  }
+
+  function sanitizeFirebaseErrorDetail(text) {
+    if (!text || typeof text !== "string") return "";
+    const compact = text.replace(/\s+/g, " ").trim();
+    return compact.slice(0, 220);
+  }
+
+  function explainFirebaseError(error) {
+    const raw = String((error && error.message) || "");
+    const upper = raw.toUpperCase();
+
+    if (upper.indexOf("OPERATION_NOT_ALLOWED") !== -1) {
+      return "Anonymous 登录未开启";
+    }
+    if (upper.indexOf("API_KEY_INVALID") !== -1) {
+      return "api_key 无效";
+    }
+    if (upper.indexOf("PERMISSION_DENIED") !== -1) {
+      return "数据库规则拒绝访问";
+    }
+    if (upper.indexOf("STATUS 401") !== -1 || upper.indexOf("STATUS 403") !== -1) {
+      return "鉴权或规则拦截(401/403)";
+    }
+    if (upper.indexOf("FAILED TO FETCH") !== -1) {
+      return "网络请求失败";
+    }
+    return "初始化请求失败";
+  }
+
+  function resolveStorageRoot(seedData) {
+    const dataRoot =
+      seedData &&
+      seedData.firebase &&
+      typeof seedData.firebase.data_root === "string"
+        ? seedData.firebase.data_root
+        : "fdu_food_ranking";
+    const normalized = String(dataRoot)
+      .trim()
+      .replace(/[^a-zA-Z0-9_-]/g, "_")
+      .replace(/^_+|_+$/g, "");
+    return normalized || "fdu_food_ranking";
   }
 })();
