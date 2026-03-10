@@ -86,6 +86,7 @@
       try {
         await authClient.getIdToken();
         persisted = await readRemoteState();
+        persisted = await ensureRemoteSeedShops(persisted);
         storeModeMessage = "共享模式（Firebase）：所有访客评分实时共享。";
         startRemoteSync(firebase.syncIntervalMs);
       } catch (_) {
@@ -103,6 +104,46 @@
     }
 
     applyPersistedState(persisted);
+  }
+
+  async function ensureRemoteSeedShops(persisted) {
+    const remoteShops = normalizeRemoteCollection(persisted.shops, true)
+      .map(function (shop) {
+        return normalizeShop(shop, shop && shop.area_id);
+      })
+      .filter(Boolean);
+
+    const remoteShopIds = new Set(
+      remoteShops.map(function (shop) {
+        return shop.id;
+      })
+    );
+
+    const missingSeedShops = seedShops.filter(function (shop) {
+      return !remoteShopIds.has(shop.id);
+    });
+
+    if (!missingSeedShops.length) {
+      return persisted;
+    }
+
+    for (let i = 0; i < missingSeedShops.length; i += 1) {
+      const shop = Object.assign({}, missingSeedShops[i], {
+        created_by: missingSeedShops[i].created_by || "system-seed",
+        created_by_uid: missingSeedShops[i].created_by_uid || "system-seed",
+      });
+      try {
+        await writeRemoteItem("shops", shop);
+      } catch (_) {
+        // Ignore per-item conflicts and continue.
+      }
+    }
+
+    try {
+      return await readRemoteState();
+    } catch (_) {
+      return persisted;
+    }
   }
 
   function normalizeFirebaseConfig(raw) {

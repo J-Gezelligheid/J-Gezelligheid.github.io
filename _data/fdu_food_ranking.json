@@ -37,8 +37,8 @@
   ],
   "firebase": {
     "enabled": true,
-    "database_url": "https://REPLACE_WITH_YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
-    "api_key": "REPLACE_WITH_YOUR_FIREBASE_WEB_API_KEY",
+    "database_url": "https://fdu-food-ranking-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "api_key": "AIzaSyBc2OMFAKT4j4ao4G8IuArGP44tAw1fgqk",
     "data_root": "fdu_food_ranking",
     "sync_interval_ms": 15000
   }
