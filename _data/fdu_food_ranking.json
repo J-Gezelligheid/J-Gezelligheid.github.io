@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T00:00:00Z",
+  "updated_at": "2026-03-10T12:00:00Z",
   "areas": [
     {
       "id": "guoquan-road",
@@ -36,8 +36,10 @@
     }
   ],
   "firebase": {
-    "enabled": false,
-    "database_url": "",
-    "data_root": "fdu_food_ranking"
+    "enabled": true,
+    "database_url": "https://REPLACE_WITH_YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
+    "api_key": "REPLACE_WITH_YOUR_FIREBASE_WEB_API_KEY",
+    "data_root": "fdu_food_ranking",
+    "sync_interval_ms": 15000
   }
 }
