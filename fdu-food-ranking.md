@@ -93,9 +93,12 @@ title: 复旦周边美食评分排行榜
   <section id="food-board-manage" class="food-board-section">
     <h2>维护说明</h2>
     <ol>
-      <li>默认是本地模式（每位访客仅保存在自己的浏览器）。</li>
-      <li>如需“全站共享评分均值”，请在 <code>_data/fdu_food_ranking.json</code> 填写 Firebase Realtime Database 的 <code>database_url</code>，并将 <code>enabled</code> 设为 <code>true</code>。</li>
-      <li>共享模式下，页面会把新增店铺与评分写入 Firebase 的 <code>data_root</code> 节点并自动聚合均值。</li>
+      <li>已启用 Firebase 共享模式；若配置不完整，页面会自动回退到本地模式。</li>
+      <li>请在 <code>_data/fdu_food_ranking.json</code> 填写真实 <code>database_url</code> 与 <code>api_key</code>（不要保留 <code>REPLACE_WITH_*</code> 占位符）。</li>
+      <li>Firebase Console 中需开启 Realtime Database 与 Anonymous Authentication。</li>
+      <li>将 <code>firebase/fdu_food_ranking.database.rules.json</code> 的规则粘贴到 Realtime Database Rules 页面后发布。</li>
+      <li>完整上线步骤见仓库文档：<code>firebase/FDU_FOOD_RANKING_SETUP.md</code>。</li>
+      <li>共享模式下，页面会把新增店铺与评分写入 Firebase 的 <code>data_root</code> 节点，并自动按所有评分均值聚合。</li>
     </ol>
   </section>
 </div>
