@@ -1,4 +1,26 @@
-# J-Gezelligheid.github.io
+# Personal Homepage — Caiqi Jin
+
+金才淇（Caiqi Jin / William）的个人主页维护仓库，基于现有 Jekyll / GitHub Pages 站点完整复制。
+
+## 开始维护
+
+- [当前状态](STATE.md)、[任务列表](TASKS.md)、[变更记录](CHANGELOG.md)
+- [仓库结构与维护流程](docs/maintenance.md)
+- [Drug Watch 数据与更新入口](docs/drug_watch.md)
+- [Frontier 数据与更新入口](docs/frontier.md)
+- [Gmail / TopSight 接入计划与状态](docs/source_integration.md)
+- [整理与检查报告](docs/audit_20261013.md)
+- [原 README](docs/original_readme.md)
+
+优先更新 Drug Watch 与 Frontier：研究者指定前者拟接入 Gmail，后者拟接入 TopSight。现有页面、数据、导航和公开 URL 保留，接入方案见后续维护记录。
+
+```powershell
+python scripts/validate_site.py
+```
+
+离线校验无需第三方依赖，不会抓取或改写数据。抓取脚本所需依赖列在 `requirements.txt`；详细运行和备份步骤见维护指南。
+
+## 原项目说明
 
 Here is **Caiqi Jin (William, 金才淇)**. This is the repository for my personal website.
 

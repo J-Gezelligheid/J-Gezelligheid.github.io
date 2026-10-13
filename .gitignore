@@ -1,0 +1,21 @@
+# Local runtimes and build output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/bundle/
+node_modules/
+
+# Private configuration and local update snapshots
+.env
+.env.*
+!.env.example
+.local/
+*.log
+.DS_Store
+Thumbs.db

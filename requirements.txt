@@ -1,0 +1,5 @@
+# Dependencies imported by the existing updater scripts.
+# Versions are not locked: resolve and verify before an online update.
+requests
+beautifulsoup4
+lxml

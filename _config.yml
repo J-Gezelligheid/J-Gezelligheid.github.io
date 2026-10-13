@@ -88,6 +88,6 @@ disqus:
   shortname: lancecai
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace", "README.md", "AGENTS.md", "STATE.md", "TASKS.md", "CHANGELOG.md", "docs", "scripts", "tests", "requirements.txt", ".local", ".venv", ".env", ".env.example"]
 
 # Latest update in 2025/1/5 by Caiqi Jin.
