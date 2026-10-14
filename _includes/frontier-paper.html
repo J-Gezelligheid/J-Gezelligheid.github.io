@@ -1,0 +1,18 @@
+{% assign paper = include.paper %}
+<article class="frontier-paper" data-frontier-paper data-topic="{{ include.topic | escape }}">
+  <h4 class="frontier-paper-en-title">{% if paper.url and paper.url != '' %}<a href="{{ paper.url | escape }}" rel="noopener">{{ paper.title_en | escape }}</a>{% else %}{{ paper.title_en | escape }}{% endif %}</h4>
+  {% if paper.title_zh and paper.title_zh != '' %}<p class="frontier-paper-cn-title" lang="zh-CN">{{ paper.title_zh | escape }}</p>{% endif %}
+  {% if paper.source == 'TopSight' %}
+  <p class="frontier-citation">{{ paper.authors | join: ', ' | escape }}<br>{{ paper.journal | escape }} · {{ paper.year | escape }}{% if paper.source_id != '' %} · {{ paper.source_id | escape }}{% endif %}</p>
+  <p class="frontier-source">来源：TopSight · {% if paper.source_lane == 'working' %}工作论文{% elsif paper.source_lane == 'external_authority' %}外部期刊通道{% else %}正式期刊通道{% endif %}{% if paper.url == '' %} · 原文链接暂缺，可按题名或编号查找{% endif %}</p>
+  {% endif %}
+  {% if paper.summary_zh and paper.summary_zh != '' %}
+  <details class="frontier-abstract"><summary>中文导读 · TopSight 提供</summary><p lang="zh-CN">{{ paper.summary_zh | escape }}</p></details>
+  {% endif %}
+  {% if paper.abstract_en and paper.abstract_en != '' %}
+  <details class="frontier-abstract"><summary>Abstract · 英文摘要</summary><p lang="en">{{ paper.abstract_en | escape }}</p></details>
+  {% else %}<p class="frontier-source">来源未提供英文摘要。</p>{% endif %}
+  {% if paper.abstract_zh and paper.abstract_zh != '' %}
+  <details class="frontier-abstract"><summary>中文摘要 · 历史机器译文</summary><p lang="zh-CN">{{ paper.abstract_zh | escape }}</p></details>
+  {% endif %}
+</article>

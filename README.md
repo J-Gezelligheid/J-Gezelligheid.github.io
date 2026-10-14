@@ -12,7 +12,7 @@
 - [整理与检查报告](docs/audit_20261013.md)
 - [原 README](docs/original_readme.md)
 
-优先更新 Drug Watch 与 Frontier：研究者指定前者拟接入 Gmail，后者拟接入 TopSight。现有页面、数据、导航和公开 URL 保留，接入方案见后续维护记录。
+Frontier 已接入 TopSight，提供综合经济学主题选读，并设置每月 1 日 09:00（北京时间）更新并自动发布；操作与失败保护见栏目维护说明。Drug Watch 后续接入 Gmail，尚未读取邮件。公开 URL 保留。
 
 ```powershell
 python scripts/validate_site.py

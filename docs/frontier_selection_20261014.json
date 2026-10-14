@@ -1,0 +1,16 @@
+{
+  "reviewed": true,
+  "review_basis": "按返回的英文摘要检查主题相关性；未核验全文。排除仅因泛词命中、偏离主题的结果；中文导读保留 TopSight 来源标记。",
+  "topics": {
+    "labor": ["0acc085b5c57457f1e002b55a81120a3", "05ff754997e39e96aa84340bf79f5b02"],
+    "trade": ["edf9394e86319bb6986088f4d6c9cfa0", "9e166abc7474bfef2d1c9ed51f407c0d"],
+    "macro": ["02a5cdc4c7da3907e205f41530c4a16c", "01d3c2a95c590c7e97ff815f8a8bec1b", "0225d3f758d4e34be614f8bdb817da73"],
+    "development": ["0363eaa40485ea6fd9cebe4b3b7e61d2", "05146f0140aa87a7944fcca5af70f687"],
+    "io": ["c9d337b5998f8d44fe0d7ff3664f6f19", "aed7fb123f077e25c8ce6e7a037fc7de"],
+    "public": ["f660209e7aec2ca691c649789893df76", "8504b0b51f539677db5d080ca57491e1"],
+    "methods": ["93cff2410cf5ccb8ef0fc71c955f92b9", "c8e2afa203d308183071cc0303639ee2"],
+    "theory": ["34b5de0d1962632af8751256a7afe2b9", "c555c2cdba7bf1bbadc976e0bf81b2f8"],
+    "behavior": ["7afe446ba52d4f2277d0dd3e4fdcf87c", "f0157f86d10c1bab973cfa9588571443", "c7e2b4c23c9f1cd0790f146c47838c56"]
+  },
+  "journals": {}
+}

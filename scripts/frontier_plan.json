@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {"id":"labor","label":"劳动与不平等","term":"labor"},
+    {"id":"trade","label":"国际贸易","term":"international trade"},
+    {"id":"macro","label":"宏观与货币","term":"monetary policy"},
+    {"id":"development","label":"发展与政治经济学","term":"development"},
+    {"id":"io","label":"产业组织与能源","term":"industrial organization"},
+    {"id":"public","label":"公共经济学","term":"public finance"},
+    {"id":"methods","label":"计量方法","term":"econometrics"},
+    {"id":"theory","label":"微观理论","term":"game theory"},
+    {"id":"behavior","label":"行为与家庭金融","term":"behavioral economics"}
+  ],
+  "journals": ["American Economic Review", "Journal of Political Economy", "Quarterly Journal of Economics", "Review of Economic Studies", "Econometrica"],
+  "journal_terms": ["monetary policy", "market power", "economic growth", "international trade", "causal inference"],
+  "limit_per_corpus": 5
+}

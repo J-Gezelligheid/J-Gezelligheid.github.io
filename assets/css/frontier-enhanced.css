@@ -2,6 +2,30 @@
   margin-bottom: 1.2rem;
 }
 
+[hidden] { display: none !important; }
+.frontier-hero { border-top: 4px solid #163a4b; padding: 1.4rem 0 1.6rem; }
+.frontier-eyebrow { color: #527581; font-size: .78rem; letter-spacing: .14em; }
+.frontier-hero h1 { font-size: 2.35rem; margin: .45rem 0 .8rem; color: #163a4b; }
+.frontier-lead { font-size: 1.1rem; line-height: 1.8; }
+.frontier-hero p, .frontier-tools p, .frontier-source, .frontier-citation { text-indent: 0 !important; }
+.frontier-jumps { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.1rem 0; }
+.frontier-jumps a { background: #edf3f3; border: 1px solid #d8e3e5; border-radius: 4px; padding: .45rem .7rem; }
+.frontier-tools { padding: 1rem; border: 1px solid #d8e3e5; border-radius: 8px; background: #f5f8f8; margin: 1.5rem 0; }
+.frontier-tools label { display: block; margin: .6rem 0 .35rem; font-weight: 600; }
+.frontier-tools input, .frontier-tools select { box-sizing: border-box; width: 100%; max-width: 100%; padding: .65rem; background: white; color: #222; border: 1px solid #aebfc4; border-radius: 4px; font-size: 1rem; }
+.frontier-tools input:focus, .frontier-tools select:focus, .frontier-abstract summary:focus-visible { outline: 2px solid #2f6d81; outline-offset: 3px; }
+.frontier-topic-section { margin: 2rem 0; scroll-margin-top: 1rem; }
+.frontier-count { font-size: .8rem; font-weight: normal; color: #56727b; padding-left: .5rem; }
+.frontier-citation, .frontier-source { font-size: .85rem; color: #56656b; line-height: 1.6; overflow-wrap: anywhere; }
+.frontier-paper-cn-title { color: #24566b; font-weight: 500; }
+.frontier-abstract { margin: .45rem 0; border-left: 2px solid #d8e3e5; padding-left: .8rem; }
+.frontier-abstract summary, .frontier-issue > summary, .frontier-method summary { cursor: pointer; padding: .45rem 0; color: #24566b; }
+.frontier-abstract p { line-height: 1.85; margin-top: .7rem !important; overflow-wrap: anywhere; }
+.frontier-issue > summary { font-weight: 600; margin-bottom: 1rem; }
+.frontier-notice { padding: .9rem 1rem; background: #fcf8ed; border-left: 3px solid #b89746; text-indent: 0 !important; line-height: 1.8; }
+.frontier-method { border-top: 1px solid #d8e3e5; margin-top: 2rem; padding-top: 1rem; }
+@media (max-width: 600px) { .frontier-hero h1 { font-size: 1.9rem; } .frontier-jumps a { font-size: .85rem; } }
+
 .frontier-note {
   color: #555;
 }
@@ -51,8 +75,8 @@
 }
 
 .frontier-paper-cn-title {
-  color: #c00000;
-  font-weight: 700;
+  color: #24566b;
+  font-weight: 500;
 }
 
 .frontier-paper p {

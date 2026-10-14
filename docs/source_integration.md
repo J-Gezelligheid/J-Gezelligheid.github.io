@@ -1,6 +1,6 @@
 # 下一阶段数据源接入
 
-2026-10-13 研究者指定：Drug Watch 通过 Gmail 更新，Frontier 依托 TopSight 更新。2026-10-14 已完成 TopSight MCP 安装与配置；栏目数据转换尚未完成。
+2026-10-13 研究者指定：Drug Watch 通过 Gmail 更新，Frontier 依托 TopSight 更新。2026-10-14 已完成 TopSight MCP 安装与配置；Frontier 已完成 TopSight 主题选文转换，Drug Watch 待接入。
 
 ## Gmail → Drug Watch
 
@@ -39,3 +39,6 @@
 3. 外部失败或空结果不能静默清空已发布内容。
 4. 更新页面的来源与更新时间口径，运行校验和 Jekyll 预览。
 5. 确认 Git diff 仅含可公开内容，按研究者要求发布。
+## 2026-10-14 会话验证与 Frontier 接入更新
+
+TopSight MCP 已在 Codex 会话内成功查询额度、检索及读取单篇论文。Frontier 已通过 `scripts/update_frontier_topsight.py` 转换经摘要相关性检查的结果，中文导读与历史机器译文分开标注。五大期刊未取得可收录的新记录，原站快照保持原日期；没有用其他来源冒充 TopSight 补齐。当前流程见 `frontier.md`。

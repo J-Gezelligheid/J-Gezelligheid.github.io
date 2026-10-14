@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06 06:01:31",
+  "updated_at": "2026-10-14T02:07:24.770Z",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
@@ -20,80 +20,94 @@
           "title_zh": "临时解雇、召回损失与周期性失业动态",
           "url": "https://doi.org/10.1257/aer.20220749",
           "abstract_en": "We revisit the role of temporary layoffs in the business cycle. While some have emphasized a stabilizing effect due to recall hiring, we quantify from the data an important countercyclical destabilizing effect due to “loss-of-recall,” whereby workers in temporary-layoff unemployment lose their job permanently. We develop a quantitative model allowing for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment. The model captures both pre- and post-pandemic unemployment dynamics, including the contractionary role of loss-of-recall. We use our structural model to show that the Paycheck Protection Program generated sizable employment gains, in part by significantly reducing loss-of-recall. (JEL E24, E32, I12, J41, J63, J64)",
-          "abstract_zh": "我们重新审视了临时裁员在商业周期中的作用。尽管有些人强调了召回雇佣的稳定效应，我们从数据中量化了一个重要的反周期的破坏稳定效应，即“失去召回”，在这种情况下，临时裁员失业的工人永久失去了工作。我们开发了一个定量模型，允许工人在就业和临时裁员失业以及无业失业之间进行内生流动。该模型捕捉了大流行前后的失业动态，包括失去召回的收缩作用。我们使用我们的结构模型来展示，工资保护计划产生了相当大的就业增长，部分是通过显著减少失去召回。（JEL E24，E32，I12，J41，J63，J64）"
+          "abstract_zh": "我们重新审视了临时裁员在商业周期中的作用。尽管有些人强调了召回雇佣的稳定效应，我们从数据中量化了一个重要的反周期的破坏稳定效应，即“失去召回”，在这种情况下，临时裁员失业的工人永久失去了工作。我们开发了一个定量模型，允许工人在就业和临时裁员失业以及无业失业之间进行内生流动。该模型捕捉了大流行前后的失业动态，包括失去召回的收缩作用。我们使用我们的结构模型来展示，工资保护计划产生了相当大的就业增长，部分是通过显著减少失去召回。（JEL E24，E32，I12，J41，J63，J64）",
+          "is_research": true
         },
         {
           "title_en": "Equal Pay for Similar Work",
           "title_zh": "同工同酬",
           "url": "https://doi.org/10.1257/aer.20230832",
           "abstract_en": "Equal pay laws increasingly require that workers with different group identities doing “similar” work are paid equal wages within firm. We study such “equal pay for similar work” (EPSW) policies theoretically and test our models’ predictions empirically using evidence from a 2009 gender-based Chilean EPSW. Under EPSW, firms segregate their workforce by gender. When there are more men than women in a labor market, EPSW increases the gender wage gap. (JEL J16, J31, J38, K31, O15)",
-          "abstract_zh": "同工同酬法律越来越要求在公司内部对从事“相似”工作的具有不同群体身份的工人支付同等工资。我们从理论上研究这种“同工同酬”（EPSW）政策，并使用2009年基于性别的智利EPSW的证据来实证检验我们模型的预测。在EPSW下，公司按性别隔离其劳动力。当劳动力市场中男性多于女性时，EPSW会增加性别工资差距。（JEL J16, J31, J38, K31, O15）"
+          "abstract_zh": "同工同酬法律越来越要求在公司内部对从事“相似”工作的具有不同群体身份的工人支付同等工资。我们从理论上研究这种“同工同酬”（EPSW）政策，并使用2009年基于性别的智利EPSW的证据来实证检验我们模型的预测。在EPSW下，公司按性别隔离其劳动力。当劳动力市场中男性多于女性时，EPSW会增加性别工资差距。（JEL J16, J31, J38, K31, O15）",
+          "is_research": true
         },
         {
           "title_en": "Front Matter",
           "title_zh": "前言",
           "url": "https://doi.org/10.1257/aer.116.3.i",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": false
         },
         {
           "title_en": "Immigration, Innovation, and Growth",
           "title_zh": "移民、创新与增长",
           "url": "https://doi.org/10.1257/aer.20211601",
           "abstract_en": "We propose a novel identification strategy to isolate exogenous immigration shocks across US counties, by interacting quasi-random variations in the composition of ancestry across counties with the contemporaneous inflow of migrants from different countries. We show a positive causal impact of immigration on local innovation and wages at the five-year horizon. The positive dynamic impact of immigration on innovation and wages dominates the short-run negative impact of increased labor supply. A structural estimation of a model of endogenous growth and migrations suggests the increased immigration to the United States since 1965 may have increased innovation and wages by 5 percent. (JEL J15, J22, J31, J61, O31, R11, R23)",
-          "abstract_zh": "我们提出了一种新的识别策略，通过将美国各县的血统组成中的准随机变化与不同国家移民的同时流入相交互，来分离外生移民冲击。我们展示了移民对当地创新和工资在五年时间范围内的积极因果影响。移民对创新和工资的积极动态影响主导了劳动力供应增加的短期负面影响。对一个内生增长和迁移模型的结构估计表明，自1965年以来美国移民的增加可能使创新和工资提高了5%。（JEL J15, J22, J31, J61, O31, R11, R23）"
+          "abstract_zh": "我们提出了一种新的识别策略，通过将美国各县的血统组成中的准随机变化与不同国家移民的同时流入相交互，来分离外生移民冲击。我们展示了移民对当地创新和工资在五年时间范围内的积极因果影响。移民对创新和工资的积极动态影响主导了劳动力供应增加的短期负面影响。对一个内生增长和迁移模型的结构估计表明，自1965年以来美国移民的增加可能使创新和工资提高了5%。（JEL J15, J22, J31, J61, O31, R11, R23）",
+          "is_research": true
         },
         {
           "title_en": "What You Don’t Know May Be Good for You",
           "title_zh": "你不知道的可能对你有好处",
           "url": "https://doi.org/10.1257/aer.20250053",
           "abstract_en": "We consider an economy in which long-lived experts are matched with short-lived clients. Experts choose the type of client with whom they match, unobserved by the market. The interaction outcome depends on both the expert’s and the client’s type. We study the effects of supplying information about otherwise unobservable outcomes, such as “medical report cards,” to help clients identify better experts. Such information can lead to inefficient matches, as experts reject risky clients to build their reputation. Hence, information can reduce welfare. Withholding information can mitigate these perverse incentives at the cost of misallocating experts known to be inept. (JEL C78, D82, D83)",
-          "abstract_zh": "我们考虑一个经济体，其中长寿的专家与短命的客户相匹配。专家选择与他们匹配的客户类型，而市场无法观察到这一点。互动结果取决于专家和客户的类型。我们研究提供关于否则无法观察到的结果（如“医疗报告卡”）的信息，以帮助客户识别更好的专家。这些信息可能导致效率低下的匹配，因为专家为了建立声誉而拒绝风险客户。因此，信息可能会降低福利。保留信息可以减少这些不良激励，但代价是错误分配已知无能的专家。（JEL C78, D82, D83）"
+          "abstract_zh": "我们考虑一个经济体，其中长寿的专家与短命的客户相匹配。专家选择与他们匹配的客户类型，而市场无法观察到这一点。互动结果取决于专家和客户的类型。我们研究提供关于否则无法观察到的结果（如“医疗报告卡”）的信息，以帮助客户识别更好的专家。这些信息可能导致效率低下的匹配，因为专家为了建立声誉而拒绝风险客户。因此，信息可能会降低福利。保留信息可以减少这些不良激励，但代价是错误分配已知无能的专家。（JEL C78, D82, D83）",
+          "is_research": true
         },
         {
           "title_en": "The Value of Clean Water: Experimental Evidence from Rural India",
           "title_zh": "清洁水的价值：来自印度农村的实验证据",
           "url": "https://doi.org/10.1257/aer.20250278",
           "abstract_en": "Over 2 billion people lack clean drinking water. Existing solutions face high costs (piped water) or low demand (point-of-use chlorine). Using a 60,000 household cluster-randomized experiment, we test an alternative approach: decentralized treatment and home delivery of clean water to the rural poor. At low prices, take-up exceeds 90 percent, sustained throughout the experiment. High prices reduce take-up but are privately profitable. We experimentally recover revealed-preference measures of valuation. Willingness-to-pay is several times higher than prior indirect estimates; willingness-to-accept is larger and exceeds marginal cost. Self-reported health measures improve accordingly. On a cost-per-DALY basis, free water delivery regimes appear highly cost effective. (JEL I12, O12, O13, O18, Q25, Q51, Q53)",
-          "abstract_zh": "超过20亿人缺乏清洁饮用水。现有的解决方案面临高成本（管道水）或低需求（点用氯）。我们通过一个涉及60,000户家庭的集群随机实验，测试了一种替代方法：为农村贫困人口提供分散处理和家庭配送的清洁水。在低价格下，接受率超过90%，并在整个实验期间保持。高价格降低了接受率，但具有私人盈利性。我们通过实验恢复了显示偏好的估值度量。支付意愿是先前间接估计的数倍；接受意愿更大，超过了边际成本。相应的，自报健康指标也有所改善。从每DALY成本的角度来看，免费水配送制度似乎具有很高的成本效益。（JEL I12, O12, O13, O18, Q25, Q51, Q53）"
+          "abstract_zh": "超过20亿人缺乏清洁饮用水。现有的解决方案面临高成本（管道水）或低需求（点用氯）。我们通过一个涉及60,000户家庭的集群随机实验，测试了一种替代方法：为农村贫困人口提供分散处理和家庭配送的清洁水。在低价格下，接受率超过90%，并在整个实验期间保持。高价格降低了接受率，但具有私人盈利性。我们通过实验恢复了显示偏好的估值度量。支付意愿是先前间接估计的数倍；接受意愿更大，超过了边际成本。相应的，自报健康指标也有所改善。从每DALY成本的角度来看，免费水配送制度似乎具有很高的成本效益。（JEL I12, O12, O13, O18, Q25, Q51, Q53）",
+          "is_research": true
         },
         {
           "title_en": "Sequential Cursed Equilibrium",
           "title_zh": "顺序诅咒均衡",
           "url": "https://doi.org/10.1257/aer.20230309",
           "abstract_en": "We propose an extensive-form solution concept, with players who neglect information from hypothetical events but make inferences from observed events. Our concept modifies cursed equilibrium (Eyster and Rabin 2005) and allows that players can be cursed about endogenous information. (JEL C73, D44, D71, D81, D83, D91)",
-          "abstract_zh": "我们提出了一个扩展型解决方案概念，其中参与者忽视来自假设事件的信息，但可以从观察到的事件中进行推断。我们的概念修改了诅咒均衡（Eyster和Rabin 2005年）并允许参与者对内生信息感到诅咒。（JEL C73, D44, D71, D81, D83, D91）"
+          "abstract_zh": "我们提出了一个扩展型解决方案概念，其中参与者忽视来自假设事件的信息，但可以从观察到的事件中进行推断。我们的概念修改了诅咒均衡（Eyster和Rabin 2005年）并允许参与者对内生信息感到诅咒。（JEL C73, D44, D71, D81, D83, D91）",
+          "is_research": true
         },
         {
           "title_en": "Zero-Sum Thinking and the Roots of US Political Differences",
           "title_zh": "零和思维与美国政治分歧的根源",
           "url": "https://doi.org/10.1257/aer.20240692",
           "abstract_en": "We investigate the origins and implications of zero-sum thinking: the belief that gains for one individual or group tend to come at the cost of others. Using a new survey of 20,400 US residents, we measure zero-sum thinking, political preferences, policy views, and a rich array of ancestral information spanning four generations. We find that a more zero-sum mindset is strongly associated with more support for government redistribution, race- and gender-based affirmative action, and more restrictive immigration policies. Zero-sum thinking can be traced back to the experiences of both the individual and their ancestors, encompassing factors such as the degree of intergenerational upward mobility they experienced, whether they immigrated to the United States or lived in a location with more immigrants, and whether they were enslaved or lived in a location with more enslavement. (JEL C83, D72, D91, H23, J15, J16, Z13)",
-          "abstract_zh": "我们研究了零和思维的起源和影响：即认为一个人或群体的收益往往以牺牲他人为代价的信念。利用对20400名美国居民的新调查，我们测量了零和思维、政治偏好、政策观点以及跨越四代的丰富祖源信息。我们发现，更强烈的零和心态与更支持政府再分配、基于种族和性别的平权行动以及更严格的移民政策密切相关。零和思维可以追溯到个人及其祖先的经历，包括他们经历的代际向上流动程度、是否移民到美国或生活在移民较多的地方，以及是否被奴役或生活在奴役较多的地方等因素。（JEL C83, D72, D91, H23, J15, J16, Z13）"
+          "abstract_zh": "我们研究了零和思维的起源和影响：即认为一个人或群体的收益往往以牺牲他人为代价的信念。利用对20400名美国居民的新调查，我们测量了零和思维、政治偏好、政策观点以及跨越四代的丰富祖源信息。我们发现，更强烈的零和心态与更支持政府再分配、基于种族和性别的平权行动以及更严格的移民政策密切相关。零和思维可以追溯到个人及其祖先的经历，包括他们经历的代际向上流动程度、是否移民到美国或生活在移民较多的地方，以及是否被奴役或生活在奴役较多的地方等因素。（JEL C83, D72, D91, H23, J15, J16, Z13）",
+          "is_research": true
         },
         {
           "title_en": "Dynamics of the Long-Term Housing Yield: Evidence from Natural Experiments",
           "title_zh": "长期住房收益率的动态：来自自然实验的证据",
           "url": "https://doi.org/10.1257/aer.20240513",
           "abstract_en": "Each month, a fraction of UK property leases are extended by 90 years or more. We construct a new dataset using thousands of these natural experiments since 2000 and estimate the expected long-term housing yield, y * . After remaining steady at around 5 percent, y * starts to decline when the Great Recession hits and reaches a low of 2.7 percent in 2024. The decline is steeper in inelastic markets, while y * remains higher in regions more exposed to long-run climate risk. Our estimate of y * is updated in real time using public data. (JEL E32, G12, Q54, R31, R38)",
-          "abstract_zh": "每个月，英国房产租赁中有一小部分会延长90年或更长时间。我们利用自2000年以来成千上万的这些自然实验构建了一个新的数据集，并估算了预期的长期住房收益率，y*。在大萧条来袭之前，y*一直稳定在大约5%左右，然后开始下降，在2024年降至2.7%的低点。在无弹性市场中，下降幅度更大，而在长期气候风险暴露更多的地区，y*保持较高。我们对y*的估计使用公共数据实时更新。（JEL E32, G12, Q54, R31, R38）"
+          "abstract_zh": "每个月，英国房产租赁中有一小部分会延长90年或更长时间。我们利用自2000年以来成千上万的这些自然实验构建了一个新的数据集，并估算了预期的长期住房收益率，y*。在大萧条来袭之前，y*一直稳定在大约5%左右，然后开始下降，在2024年降至2.7%的低点。在无弹性市场中，下降幅度更大，而在长期气候风险暴露更多的地区，y*保持较高。我们对y*的估计使用公共数据实时更新。（JEL E32, G12, Q54, R31, R38）",
+          "is_research": true
         },
         {
           "title_en": "The Price of War",
           "title_zh": "战争的代价",
           "url": "https://doi.org/10.1257/aer.20241355",
           "abstract_en": "We assemble a new dataset spanning 150 years and 60 countries to study the economic toll of war. A war of average intensity is associated with an output drop of close to 10 percent in the war-site economy, while consumer prices rise by approximately 20 percent. The capital stock, total factor productivity, and equity returns all decline sharply. The economic ramifications of war are not confined to the war site. The evidence points to adverse economic outcomes in other belligerent and third-party countries if they are exposed to the war site through trade linkages or share a common border. (JEL D74, E23, E32, F43, F51, N40)",
-          "abstract_zh": "我们汇集了一个涵盖150年和60个国家的新数据集，以研究战争的经济代价。一场平均强度的战争与战争地点经济产出下降近10%有关，而消费者价格上涨约20%。资本存量、全要素生产率和股本回报均大幅下降。战争的经济影响不仅限于战争现场。证据表明，如果其他交战国和第三方国家通过贸易联系暴露于战争现场或共享共同边界，它们将面临不利的经济后果。（JEL D74, E23, E32, F43, F51, N40）"
+          "abstract_zh": "我们汇集了一个涵盖150年和60个国家的新数据集，以研究战争的经济代价。一场平均强度的战争与战争地点经济产出下降近10%有关，而消费者价格上涨约20%。资本存量、全要素生产率和股本回报均大幅下降。战争的经济影响不仅限于战争现场。证据表明，如果其他交战国和第三方国家通过贸易联系暴露于战争现场或共享共同边界，它们将面临不利的经济后果。（JEL D74, E23, E32, F43, F51, N40）",
+          "is_research": true
         },
         {
           "title_en": "Why Is Workplace Sexual Harassment Underreported? The Value of Outside Options amid the Threat of Retaliation",
           "title_zh": "为什么职场性骚扰被低估了？面对报复威胁时外部选择的价值",
           "url": "https://doi.org/10.1257/aer.20221703",
           "abstract_en": "Why is workplace sexual harassment chronically underreported? We hypothesize that employers coerce victims into silence through the threat of a retaliatory firing. To test this, we estimate how two external shocks that reduce workers’ outside options—unemployment rate increases and sharp cuts to unemployment insurance benefits—affect the selectivity of sexual harassment charges filed with the Equal Employment Opportunity Commission. We find that both shocks increase selectivity, which implies an increase in underreporting. Bolstering these findings, anonymous Google searches for “sexual harassment in the workplace” (total prevalence) spike relative to charges filed (reported prevalence) during the Great Recession. (JEL J71, J78)",
-          "abstract_zh": "为什么职场性骚扰经常被低报？我们假设雇主通过威胁报复性解雇来迫使受害者保持沉默。为了测试这一点，我们估计两种外部冲击——失业率上升和失业保险福利的大幅削减——如何影响向平等就业机会委员会提交的性骚扰指控的选择性。我们发现这两种冲击都增加了选择性，这意味着低报现象的增加。支持这些发现的是，在大萧条期间，匿名谷歌搜索“职场性骚扰”（总流行率）相对于提交的指控（报告流行率）激增。（JEL J71, J78）"
+          "abstract_zh": "为什么职场性骚扰经常被低报？我们假设雇主通过威胁报复性解雇来迫使受害者保持沉默。为了测试这一点，我们估计两种外部冲击——失业率上升和失业保险福利的大幅削减——如何影响向平等就业机会委员会提交的性骚扰指控的选择性。我们发现这两种冲击都增加了选择性，这意味着低报现象的增加。支持这些发现的是，在大萧条期间，匿名谷歌搜索“职场性骚扰”（总流行率）相对于提交的指控（报告流行率）激增。（JEL J71, J78）",
+          "is_research": true
         }
       ],
-      "error": null
+      "error": null,
+      "updated_at": "2026-03-06 06:01:31",
+      "source": "Crossref / OpenAlex；原站历史快照",
+      "status": "retained"
     },
     {
       "name": "Journal of Political Economy (JPE)",
@@ -105,73 +119,86 @@
           "title_zh": "性别、自信以及对智力、竞争力和文化素养的误测",
           "url": "https://doi.org/10.1086/738345",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "Recent Referees",
           "title_zh": "近期审稿人",
           "url": "https://doi.org/10.1086/741031",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "When Is the Use of Gaussian-Inverse Wishart-Haar Priors Appropriate?",
           "title_zh": "何时使用高斯-逆Wishart-Haar先验是合适的？",
           "url": "https://doi.org/10.1086/738339",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "The Short-Run Policy Constraints of Long-Run Expectations",
           "title_zh": "长期预期的短期政策约束",
           "url": "https://doi.org/10.1086/738335",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "Screening with Persuasion",
           "title_zh": "说服性筛选",
           "url": "https://doi.org/10.1086/738342",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "Front Matter",
           "title_zh": "前言",
           "url": "https://doi.org/10.1086/741030",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": false
         },
         {
           "title_en": "Laws and Norms",
           "title_zh": "法律与规范",
           "url": "https://doi.org/10.1086/738343",
           "abstract_en": "We analyze how private decisions and optimal public policies are shaped by personal and societal preferences, material incentives, and social norms. We show how honor and stigma interact with incentives and derive optimal taxation. We then analyze the expressive role of law as embodying society’s values and identify when it calls for a weakening or a strengthening of incentives. The law should be softened when it signals agents’ general willingness to contribute to the public good and toughened when it signals social externalities. We also shed light on norms-based interventions, societies’ resistance to economists’ messages, and the avoidance of cruel and unusual punishments.",
-          "abstract_zh": "我们分析了个人和社会偏好、物质激励和社会规范如何塑造私人决策和最优公共政策。我们展示了荣誉和耻辱如何与激励相互作用，并推导出最优税收。然后，我们分析了法律作为体现社会价值观的表现性角色，并确定了何时需要削弱或加强激励。当法律表明代理人普遍愿意为公共利益做出贡献时，应放宽法律；当法律表明社会外部性时，应加强法律。我们还阐明了基于规范的干预、社会对经济学家信息的抵制，以及避免残酷和不寻常的惩罚。"
+          "abstract_zh": "我们分析了个人和社会偏好、物质激励和社会规范如何塑造私人决策和最优公共政策。我们展示了荣誉和耻辱如何与激励相互作用，并推导出最优税收。然后，我们分析了法律作为体现社会价值观的表现性角色，并确定了何时需要削弱或加强激励。当法律表明代理人普遍愿意为公共利益做出贡献时，应放宽法律；当法律表明社会外部性时，应加强法律。我们还阐明了基于规范的干预、社会对经济学家信息的抵制，以及避免残酷和不寻常的惩罚。",
+          "is_research": true
         },
         {
           "title_en": "Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock",
           "title_zh": "名义刚性下的贸易：理解中国冲击对失业和福利的影响",
           "url": "https://doi.org/10.1086/738344",
           "abstract_en": "We present a dynamic quantitative trade and migration model that incorporates downward nominal wage rigidities and show how this framework can generate changes in unemployment and labor participation that match those uncovered by the empirical literature studying the “China shock.” We find that the China shock leads to average welfare increases in most U.S. states, including many that experience unemployment during the transition. However, nominal rigidities reduce the overall U.S. gains by around two thirds. In addition, there are 18 states that experience welfare losses in the presence of downward nominal wage rigidity that would have experienced gains without it.",
-          "abstract_zh": "我们提出了一个包含名义工资向下刚性的动态定量贸易和迁移模型，并展示了这一框架如何能够产生与实证文献研究“中国冲击”所揭示的相匹配的失业和劳动参与率变化。我们发现，中国冲击导致大多数美国州的平均福利增加，包括许多在过渡期间经历失业的州。然而，名义刚性使美国的总体收益减少了约三分之二。此外，有18个州在存在名义工资向下刚性的情况下经历了福利损失，如果没有这种刚性，它们本应获得收益。"
+          "abstract_zh": "我们提出了一个包含名义工资向下刚性的动态定量贸易和迁移模型，并展示了这一框架如何能够产生与实证文献研究“中国冲击”所揭示的相匹配的失业和劳动参与率变化。我们发现，中国冲击导致大多数美国州的平均福利增加，包括许多在过渡期间经历失业的州。然而，名义刚性使美国的总体收益减少了约三分之二。此外，有18个州在存在名义工资向下刚性的情况下经历了福利损失，如果没有这种刚性，它们本应获得收益。",
+          "is_research": true
         },
         {
           "title_en": "JPE Turnaround Times",
           "title_zh": "JPE 出版周期",
           "url": "https://doi.org/10.1086/740720",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "A Case for Pay-as-Bid Auctions",
           "title_zh": "为“出价即支付”拍卖辩护",
           "url": "https://doi.org/10.1086/738341",
           "abstract_en": "Pay-as-bid (or discriminatory or multiple-price) auctions are used to sell homogenous goods such as treasury securities and commodities.We prove the uniqueness of their pure-strategy Bayesian Nash equilibrium and establish a tractable representation of equilibrium bids for symmetrically-informed bidders.Analyzing design, we show that supply transparency and full disclosure are revenue-maximizing in pay as bid, though not necessarily in uniform-price (or single-price) auctions, the main alternative auction format.Pay as bid raises weakly more revenue than uniform price and may lead to higher welfare.Our results provide an explanation for the revenue equivalence observed in empirical studies of treasury auctions.",
-          "abstract_zh": "支付即出价（或歧视性或多重价格）拍卖被用来出售同质商品，如国债和大宗商品。我们证明了它们的纯策略贝叶斯纳什均衡的唯一性，并为信息对称的竞拍者建立了一个可行的均衡出价表示。通过分析设计，我们展示了在支付即出价中，供应透明度和完全披露是收入最大化的，尽管在统一价格（或单一价格）拍卖中并非必然如此，后者是主要的替代拍卖形式。支付即出价比统一价格至少能提高收入，并且可能导致更高的福利。我们的结果为国债拍卖实证研究中观察到的收入等价性提供了解释。"
+          "abstract_zh": "支付即出价（或歧视性或多重价格）拍卖被用来出售同质商品，如国债和大宗商品。我们证明了它们的纯策略贝叶斯纳什均衡的唯一性，并为信息对称的竞拍者建立了一个可行的均衡出价表示。通过分析设计，我们展示了在支付即出价中，供应透明度和完全披露是收入最大化的，尽管在统一价格（或单一价格）拍卖中并非必然如此，后者是主要的替代拍卖形式。支付即出价比统一价格至少能提高收入，并且可能导致更高的福利。我们的结果为国债拍卖实证研究中观察到的收入等价性提供了解释。",
+          "is_research": true
         }
       ],
-      "error": null
+      "error": null,
+      "updated_at": "2026-03-06 06:01:31",
+      "source": "Crossref / OpenAlex；原站历史快照",
+      "status": "retained"
     },
     {
       "name": "Quarterly Journal of Economics (QJE)",
@@ -183,87 +210,102 @@
           "title_zh": "谁害怕最低工资？利用匹配的美国税务申报表衡量对独立企业的影响",
           "url": "https://doi.org/10.1093/qje/qjaf053",
           "abstract_en": "Abstract A common concern surrounding minimum wage policies is their impact on independent businesses, which are often feared to be less able to bear or pass on cost increases. We examine how these typically small and medium-size firms accommodate minimum wage increases along product and labor market margins using a matched owner-firm-worker panel data set drawn from the universe of U.S. tax records over a 10-year period, and using state minimum wage changes as identifying variation. We find that on average, firms in highly exposed industries do not substantially reduce employment—they do not lay off workers but moderately reduce part-time hiring. Instead, these firms are able to fully finance the new labor costs with new revenues, leaving average owner profits unchanged. Higher wage floors, however, forestall entry, particularly for less productive firms, reducing the number of independent firms operating in these industries by roughly 2%. Yet these industries do not shrink; instead, incumbent responses and strong positive selection among entrants reshape industries that rely heavily on low-wage workers, yielding fewer but more productive firms after the cost shock. We also take a worker-level perspective to examine how potentially vulnerable individuals are affected by minimum wage increases. Using panels of low-earning and young workers, we find that their average earnings rise substantially with the minimum wage, while they are no less likely to be employed. Worker transitions indicate that minimum wage increases boost retention and that worker reallocation from independent firms toward corporations buffers disemployment impacts from reduced hiring at independent firms.",
-          "abstract_zh": "摘要：围绕最低工资政策的一个普遍担忧是它们对独立企业的影响，人们通常担心这些企业承受或转嫁成本增加的能力较弱。我们利用来自美国税收记录的匹配所有者-企业-工人面板数据集，以及10年期间的州最低工资变化作为识别变化，研究这些通常规模较小和中等的公司如何在产品和劳动市场边际上适应最低工资增长。我们发现，平均而言，高度暴露行业的企业并没有大幅减少就业——它们没有解雇工人，但适度减少了兼职招聘。相反，这些企业能够用新收入完全支付新的劳动力成本，使得平均所有者利润保持不变。然而，更高的工资底线阻碍了进入，特别是对生产率较低的企业，减少了这些行业中独立企业的数量，大约减少了2%。然而，这些行业并没有萎缩；相反，现有企业的回应和新进入者的强烈正向选择重塑了严重依赖低工资工人的行业，在成本冲击后产生了更少但生产率更高的企业。我们还从工人层面的角度出发，研究可能处于弱势的个体如何受到最低工资增长的影响。利用低收入和年轻工人的面板数据，我们发现他们的平均收入随着最低工资的增长而大幅上升，而他们的就业可能性并没有降低。工人的转变表明，最低工资的增长提高了留存率，而工人从独立企业向公司的重新分配缓冲了独立企业减少招聘带来的失业影响。"
+          "abstract_zh": "摘要：围绕最低工资政策的一个普遍担忧是它们对独立企业的影响，人们通常担心这些企业承受或转嫁成本增加的能力较弱。我们利用来自美国税收记录的匹配所有者-企业-工人面板数据集，以及10年期间的州最低工资变化作为识别变化，研究这些通常规模较小和中等的公司如何在产品和劳动市场边际上适应最低工资增长。我们发现，平均而言，高度暴露行业的企业并没有大幅减少就业——它们没有解雇工人，但适度减少了兼职招聘。相反，这些企业能够用新收入完全支付新的劳动力成本，使得平均所有者利润保持不变。然而，更高的工资底线阻碍了进入，特别是对生产率较低的企业，减少了这些行业中独立企业的数量，大约减少了2%。然而，这些行业并没有萎缩；相反，现有企业的回应和新进入者的强烈正向选择重塑了严重依赖低工资工人的行业，在成本冲击后产生了更少但生产率更高的企业。我们还从工人层面的角度出发，研究可能处于弱势的个体如何受到最低工资增长的影响。利用低收入和年轻工人的面板数据，我们发现他们的平均收入随着最低工资的增长而大幅上升，而他们的就业可能性并没有降低。工人的转变表明，最低工资的增长提高了留存率，而工人从独立企业向公司的重新分配缓冲了独立企业减少招聘带来的失业影响。",
+          "is_research": true
         },
         {
           "title_en": "Marginal Returns to Public Universities",
           "title_zh": "公共大学的边际回报",
           "url": "https://doi.org/10.1093/qje/qjaf055",
           "abstract_en": "Abstract This article studies the returns to enrolling in U.S. public universities by comparing the long-term outcomes of barely admitted versus barely rejected applicants. I use administrative admission records spanning all 35 public universities in Texas, which collectively enroll 10% of all American public university students, to systematically identify and employ decentralized cutoffs in SAT/ACT scores that generate discontinuities in admission and enrollment. The typical marginally admitted student gains an additional year of education in the four-year sector, becomes 12 percentage points more likely to ever earn a bachelor’s degree, and eventually earns 8% more than their marginally rejected but otherwise identical counterpart. Marginally admitted students pay no additional tuition costs thanks to offsetting grant aid; cost-benefit calculations show internal rates of return of 26% for the marginal students themselves, 16% for society (which must pay for the additional education), and 7% for the government budget. Earnings gains are similar across admitting institutions of varying selectivity, but smaller for students from low-income families, who spend more time enrolled but complete fewer degrees and major in less lucrative fields. Finally, I develop a method to separately identify effects for students on the extensive margin of attending any university versus those on the margin of attending a more selective one, revealing larger effects on the extensive margin.",
-          "abstract_zh": "摘要 本文通过比较勉强被录取与勉强被拒绝的申请者的长期结果，研究了在美国公立大学就读的回报。我使用了涵盖德克萨斯州所有35所公立大学的行政录取记录，这些大学共同招收了所有美国公立大学生的10%，系统地识别并利用分散的SAT/ACT分数截止点，这些截止点在录取和入学中产生了不连续性。典型的勉强被录取的学生在四年制部门额外获得一年的教育，获得学士学位的可能性比勉强被拒绝但其他方面相同的学生高出12个百分点，最终收入比他们高出8%。勉强被录取的学生由于抵消的助学金而无需支付额外的学费；成本效益计算显示，边际学生的内部回报率为26%，社会（必须支付额外教育费用）为16%，政府预算为7%。不同选择性的录取机构的收益增长相似，但来自低收入家庭的学生收益较小，他们注册时间更长，但完成学位较少，主修领域利润较低。最后，我开发了一种方法，分别识别在广泛边际上参加任何大学的学生与在边际上参加更具选择性的大学的学生的效果，揭示了在广泛边际上更大的影响。"
+          "abstract_zh": "摘要 本文通过比较勉强被录取与勉强被拒绝的申请者的长期结果，研究了在美国公立大学就读的回报。我使用了涵盖德克萨斯州所有35所公立大学的行政录取记录，这些大学共同招收了所有美国公立大学生的10%，系统地识别并利用分散的SAT/ACT分数截止点，这些截止点在录取和入学中产生了不连续性。典型的勉强被录取的学生在四年制部门额外获得一年的教育，获得学士学位的可能性比勉强被拒绝但其他方面相同的学生高出12个百分点，最终收入比他们高出8%。勉强被录取的学生由于抵消的助学金而无需支付额外的学费；成本效益计算显示，边际学生的内部回报率为26%，社会（必须支付额外教育费用）为16%，政府预算为7%。不同选择性的录取机构的收益增长相似，但来自低收入家庭的学生收益较小，他们注册时间更长，但完成学位较少，主修领域利润较低。最后，我开发了一种方法，分别识别在广泛边际上参加任何大学的学生与在边际上参加更具选择性的大学的学生的效果，揭示了在广泛边际上更大的影响。",
+          "is_research": true
         },
         {
           "title_en": "Enlightenment Ideals and Belief in Progress in the Run-up to the Industrial Revolution: A Textual Analysis",
           "title_zh": "启蒙理想与工业革命前夕的进步信仰：文本分析",
           "url": "https://doi.org/10.1093/qje/qjaf054",
           "abstract_en": "Abstract We trace the evolution of the language of science, religion, and political economy in the centuries leading to the British Industrial Revolution. Using textual analysis of 264,443 works printed in England between 1500 and 1900, we test whether British culture manifested a belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the languages of science and religion beginning in the mid-eighteenth century. Second, volumes using language at the nexus of science and political economy became more progress-oriented during the Enlightenment. Third, volumes using industrial language—especially those at the science-political economy nexus—were more progress-oriented beginning in the eighteenth century.",
-          "abstract_zh": "摘要 我们追溯了英国工业革命前几个世纪科学、宗教和政治经济学语言的演变。通过对1500年至1900年间在英格兰印刷的264,443部作品进行文本分析，我们测试了英国文化是否表现出与科学和工业相关的进步信念。我们的分析得出三个主要发现。首先，从18世纪中叶开始，科学和宗教的语言出现了分离。其次，在启蒙时期，使用科学和政治经济学交汇处语言的卷册变得更加以进步为导向。第三，从18世纪开始，使用工业语言的卷册——特别是那些在科学和政治经济学交汇处的卷册——变得更加以进步为导向。"
+          "abstract_zh": "摘要 我们追溯了英国工业革命前几个世纪科学、宗教和政治经济学语言的演变。通过对1500年至1900年间在英格兰印刷的264,443部作品进行文本分析，我们测试了英国文化是否表现出与科学和工业相关的进步信念。我们的分析得出三个主要发现。首先，从18世纪中叶开始，科学和宗教的语言出现了分离。其次，在启蒙时期，使用科学和政治经济学交汇处语言的卷册变得更加以进步为导向。第三，从18世纪开始，使用工业语言的卷册——特别是那些在科学和政治经济学交汇处的卷册——变得更加以进步为导向。",
+          "is_research": true
         },
         {
           "title_en": "Republican Support and Economic Hardship: The Enduring Effects of the Opioid Epidemic",
           "title_zh": "共和党支持与经济困难：阿片类药物流行病的持久影响",
           "url": "https://doi.org/10.1093/qje/qjaf051",
           "abstract_en": "Abstract In this article, we establish a causal connection between two of the most salient social developments in the United States over the past decades: the opioid epidemic and the political realignment between the Republican and Democratic parties. Drawing on unsealed records from litigation against Purdue Pharma, we uncover rich geographic variation in the marketing of prescription opioids that serves as a quasi-exogenous source of exposure to the epidemic. We use this variation to document significant increases in drug-related mortality and greater reliance on public transfer programs. This induced economic hardship led to substantial changes in the political landscape of the communities most affected by the opioid epidemic. We estimate that from the mid-2000s to 2022, exposure to the opioid epidemic continuously increased the Republican vote share in House, presidential, and gubernatorial elections. By the 2022 House elections, a one-standard-deviation increase in our measure of exposure led to a 4.5 percentage point increase in the Republican vote share. From 2012 until 2022, this increase in the House vote share translated into Republicans winning additional seats.",
-          "abstract_zh": "摘要 在本文中，我们建立了美国过去几十年中两个最显著社会发展之间的因果关系：阿片类药物流行和共和党与民主党之间的政治重新结盟。我们利用针对普渡制药诉讼的未封存记录，揭示了处方阿片类药物营销中丰富的地理变化，这作为流行病暴露的准外生来源。我们利用这种变化来记录与药物相关的死亡率显著增加和对公共转移计划的更大依赖。这种诱导的经济困难导致了受阿片类药物流行影响最大的社区政治格局的实质性变化。我们估计，从2000年代中期到2022年，阿片类药物流行暴露持续增加了众议院、总统和州长选举中共和党的投票份额。到2022年众议院选举时，我们衡量暴露的一标准差增加导致了共和党投票份额增加了4.5个百分点。从2012年到2022年，众议院投票份额的这种增加转化为共和党赢得了额外的席位。"
+          "abstract_zh": "摘要 在本文中，我们建立了美国过去几十年中两个最显著社会发展之间的因果关系：阿片类药物流行和共和党与民主党之间的政治重新结盟。我们利用针对普渡制药诉讼的未封存记录，揭示了处方阿片类药物营销中丰富的地理变化，这作为流行病暴露的准外生来源。我们利用这种变化来记录与药物相关的死亡率显著增加和对公共转移计划的更大依赖。这种诱导的经济困难导致了受阿片类药物流行影响最大的社区政治格局的实质性变化。我们估计，从2000年代中期到2022年，阿片类药物流行暴露持续增加了众议院、总统和州长选举中共和党的投票份额。到2022年众议院选举时，我们衡量暴露的一标准差增加导致了共和党投票份额增加了4.5个百分点。从2012年到2022年，众议院投票份额的这种增加转化为共和党赢得了额外的席位。",
+          "is_research": true
         },
         {
           "title_en": "Permanent Capital Losses after Banking Crises",
           "title_zh": "银行危机后的永久性资本损失",
           "url": "https://doi.org/10.1093/qje/qjaf052",
           "abstract_en": "Abstract We study the mechanisms driving bank losses across historical banking crises in 46 economies and the effectiveness of policy interventions in restoring bank capitalization. We find that bank stocks experience large, permanent declines at the onset of crises. These losses predict commensurate long-term declines in banks’ earnings and dividends, rather than elevated future equity returns. Bank losses are primarily driven by write-downs of nonperforming assets, not asset sales during panics. Forceful liquidity-based interventions during crises predict only small, temporary increases in bank market value. Overall, these results suggest that bank losses during crises are not primarily due to temporary price dislocations. Early liquidity interventions can avert banking crises, but only under specific conditions. Once large bank equity declines have occurred, policy responses have historically failed to prevent persistent undercapitalization in the banking sector.",
-          "abstract_zh": "摘要 我们研究了46个经济体历史上银行危机中导致银行损失的机制，以及政策干预在恢复银行资本化方面的有效性。我们发现，在危机爆发时，银行股票会经历大幅度、永久性的下降。这些损失预测了银行长期收益和股息的相应长期下降，而不是未来股本回报的提高。银行损失主要是由不良资产减记驱动的，而不是在恐慌期间的资产出售。在危机期间，强有力的基于流动性的干预只预测了银行市场价值的小幅、暂时性增加。总体而言，这些结果表明，危机期间的银行损失并非主要由临时价格错位引起。早期流动性干预可以避免银行危机，但只有在特定条件下。一旦发生大规模银行股本下降，历史上的政策响应未能防止银行业持续资本不足。"
+          "abstract_zh": "摘要 我们研究了46个经济体历史上银行危机中导致银行损失的机制，以及政策干预在恢复银行资本化方面的有效性。我们发现，在危机爆发时，银行股票会经历大幅度、永久性的下降。这些损失预测了银行长期收益和股息的相应长期下降，而不是未来股本回报的提高。银行损失主要是由不良资产减记驱动的，而不是在恐慌期间的资产出售。在危机期间，强有力的基于流动性的干预只预测了银行市场价值的小幅、暂时性增加。总体而言，这些结果表明，危机期间的银行损失并非主要由临时价格错位引起。早期流动性干预可以避免银行危机，但只有在特定条件下。一旦发生大规模银行股本下降，历史上的政策响应未能防止银行业持续资本不足。",
+          "is_research": true
         },
         {
           "title_en": "Diversifying Society’s Leaders? The Determinants and Causal Effects of Admission to Highly Selective Private Colleges",
           "title_zh": "多元化社会的领导者？进入高度选择性私立大学的录取决定因素和因果效应",
           "url": "https://doi.org/10.1093/qje/qjaf050",
           "abstract_en": "Abstract We use anonymized admissions data from several colleges linked to income tax records and SAT and ACT test scores to study the determinants and causal effects of attending Ivy-Plus colleges (Ivy League, Stanford, MIT, Duke, and Chicago). Children from families in the top 1% are more than twice as likely to attend an Ivy-Plus college as those from middle-class families with comparable SAT/ACT scores. Two-thirds of this gap is due to higher admission rates for students with comparable test scores from high-income families; the remaining third is due to differences in rates of application and matriculation. In contrast, children from high-income families have no admissions advantage at flagship public colleges. The high-income admissions advantage at Ivy-Plus colleges is driven by three factors: (i) preferences for children of alumni, (ii) weight placed on nonacademic credentials, and (iii) athletic recruitment. Using a new research design that isolates idiosyncratic variation in admissions decisions for waitlisted applicants, we show that attending an Ivy-Plus college instead of the average flagship public college increases students’ chances of reaching the top 1% of the earnings distribution by 50%, nearly doubles their chances of attending an elite graduate school, and almost triples their chances of working at a prestigious firm. The three factors that give children from high-income families an admissions advantage are uncorrelated or negatively correlated with postcollege outcomes, whereas academic credentials such as SAT/ACT scores are highly predictive of postcollege success.",
-          "abstract_zh": "摘要 我们利用与所得税记录和SAT及ACT考试成绩相联系的几所学院的匿名录取数据，研究了就读常春藤加大学（常春藤盟校、斯坦福、麻省理工、杜克和芝加哥大学）的决定因素和因果效应。来自家庭收入前1%的儿童，与来自中产阶级家庭且具有可比SAT/ACT成绩的儿童相比，就读常春藤加大学的可能性是后者的两倍多。这一差距的三分之二是由于来自高收入家庭的学生具有可比考试成绩的更高录取率；剩下的三分之一是由于申请和入学率的差异。相比之下，来自高收入家庭的儿童在旗舰公立学院没有录取优势。常春藤加大学对高收入录取优势是由三个因素驱动的：（i）对校友子女的偏好，（ii）对非学术资质的重视，以及（iii）体育招生。我们使用一种新的研究设计，该设计隔离了候补申请者的录取决定中的特殊变化，表明与就读平均旗舰公立学院相比，就读常春藤加大学可以增加学生进入收入分布前1%的机会50%，几乎使他们就读精英研究生院的机会翻倍，以及几乎使他们在知名公司工作的机会增加两倍。给予高收入家庭儿童录取优势的三个因素与大学后结果不相关或负相关，而学术资质如SAT/ACT成绩则高度预测大学后的成功。"
+          "abstract_zh": "摘要 我们利用与所得税记录和SAT及ACT考试成绩相联系的几所学院的匿名录取数据，研究了就读常春藤加大学（常春藤盟校、斯坦福、麻省理工、杜克和芝加哥大学）的决定因素和因果效应。来自家庭收入前1%的儿童，与来自中产阶级家庭且具有可比SAT/ACT成绩的儿童相比，就读常春藤加大学的可能性是后者的两倍多。这一差距的三分之二是由于来自高收入家庭的学生具有可比考试成绩的更高录取率；剩下的三分之一是由于申请和入学率的差异。相比之下，来自高收入家庭的儿童在旗舰公立学院没有录取优势。常春藤加大学对高收入录取优势是由三个因素驱动的：（i）对校友子女的偏好，（ii）对非学术资质的重视，以及（iii）体育招生。我们使用一种新的研究设计，该设计隔离了候补申请者的录取决定中的特殊变化，表明与就读平均旗舰公立学院相比，就读常春藤加大学可以增加学生进入收入分布前1%的机会50%，几乎使他们就读精英研究生院的机会翻倍，以及几乎使他们在知名公司工作的机会增加两倍。给予高收入家庭儿童录取优势的三个因素与大学后结果不相关或负相关，而学术资质如SAT/ACT成绩则高度预测大学后的成功。",
+          "is_research": true
         },
         {
           "title_en": "Bargaining and Inequality in the Labor Market",
           "title_zh": "劳动市场中的讨价还价与不平等",
           "url": "https://doi.org/10.1093/qje/qjaf049",
           "abstract_en": "Abstract We use novel surveys of firms and workers, linked to administrative employer-employee data, to study the prevalence and importance of individual bargaining in wage determination. We show that simple survey questions accurately elicit firms’ bargaining strategies. Using the elicited strategies for 772 German firms, we document that the majority of firms are willing to engage in individual wage bargaining. Labor market factors predict firms’ strategies better than firm characteristics. Survey responses from nearly 10,000 full-time workers indicate that most workers provide their salary expectations before they receive a job offer. Most outside offers are rejected, with the worker remaining at the incumbent firm. There is substantial heterogeneity in workers’ bargaining behavior, which translates into within-firm wage inequality. Firms that set pay via individual bargaining have a 3 percentage point higher gender wage gap.",
-          "abstract_zh": "摘要 我们利用与行政雇主-雇员数据关联的企业和工人的新调查，研究个体谈判在工资决定中的普遍性和重要性。我们展示了简单的调查问题能够准确引出企业的谈判策略。利用772家德国企业的引出策略，我们记录了大多数企业愿意进行个体工资谈判。劳动力市场因素比企业特征更能预测企业的策略。来自近10,000名全职工人的调查回应表明，大多数工人在收到工作邀请之前会提供他们的薪资期望。大多数外部报价被拒绝，工人留在现任公司。工人的谈判行为存在相当大的异质性，这转化为企业内部的工资不平等。通过个体谈判设定薪酬的企业，性别工资差距高出3个百分点。"
+          "abstract_zh": "摘要 我们利用与行政雇主-雇员数据关联的企业和工人的新调查，研究个体谈判在工资决定中的普遍性和重要性。我们展示了简单的调查问题能够准确引出企业的谈判策略。利用772家德国企业的引出策略，我们记录了大多数企业愿意进行个体工资谈判。劳动力市场因素比企业特征更能预测企业的策略。来自近10,000名全职工人的调查回应表明，大多数工人在收到工作邀请之前会提供他们的薪资期望。大多数外部报价被拒绝，工人留在现任公司。工人的谈判行为存在相当大的异质性，这转化为企业内部的工资不平等。通过个体谈判设定薪酬的企业，性别工资差距高出3个百分点。",
+          "is_research": true
         },
         {
           "title_en": "Digital Distractions with Peer Influence: The Impact of Mobile App Usage on Academic and Labor Market Outcomes",
           "title_zh": "数字干扰与同伴影响：移动应用使用对学术和劳动市场结果的影响",
           "url": "https://doi.org/10.1093/qje/qjaf048",
           "abstract_en": "Abstract Concerns about excessive mobile phone use among youth are mounting. We present estimates of behavioral and contextual peer effects, along with comprehensive evidence on how students’ own and their peers’ app usage affect academic performance, physical health, and labor market outcomes. Our analysis draws on administrative data from a Chinese university covering three student cohorts over four years. We exploit random roommate assignments, differential exposure to a policy shock (gaming restrictions for minors), and differential exposure to a discrete event (the introduction of a blockbuster video game) for identification. App usage is contagious: a one s.d. increase in roommates’ in-college app usage raises own usage by 5.8%. High app usage is harmful across all measured outcomes. A one s.d. increase in app usage reduces GPAs by 36.2% of a within-cohort-major s.d. and lowers wages by 2.3%. Roommates’ app usage reduces a student’s GPA and wages through both disruptions and behavioral spillovers, generating a total negative effect that exceeds half the magnitude of the impact from the student’s own app usage. Extending China’s three-hour-per-week gaming restriction for minors to college students would boost their initial wages by 0.9%. High-frequency GPS and app usage data show that heavy app users spend less time in study halls, are more frequently late or absent from class, and get less sleep.",
-          "abstract_zh": "摘要 对青少年过度使用手机的担忧日益增加。我们提供了行为和情境同伴效应的估计，以及关于学生自己和同伴应用使用如何影响学业表现、身体健康和劳动市场结果的全面证据。我们的分析基于中国一所大学覆盖三个学生队列四年的行政数据。我们利用随机室友分配、对政策冲击（未成年人游戏限制）的不同暴露以及对离散事件（一款热门视频游戏的推出）的不同暴露进行识别。应用使用具有传染性：室友在大学期间应用使用的一标准差增加，会使自己的使用增加5.8%。高应用使用对所有测量结果都是有害的。应用使用的一标准差增加，会使GPA降低36.2%的队列内专业标准差，并使工资降低2.3%。室友的应用使用通过干扰和行为溢出效应降低学生的GPA和工资，产生的总负面影响超过了学生自己应用使用影响的一半。将中国针对未成年人的每周三小时游戏限制扩展到大学生，将使他们的初始工资提高0.9%。高频GPS和应用使用数据显示，重度应用用户在自习室花费的时间较少，上课迟到或缺席的频率更高，睡眠时间也更少。"
+          "abstract_zh": "摘要 对青少年过度使用手机的担忧日益增加。我们提供了行为和情境同伴效应的估计，以及关于学生自己和同伴应用使用如何影响学业表现、身体健康和劳动市场结果的全面证据。我们的分析基于中国一所大学覆盖三个学生队列四年的行政数据。我们利用随机室友分配、对政策冲击（未成年人游戏限制）的不同暴露以及对离散事件（一款热门视频游戏的推出）的不同暴露进行识别。应用使用具有传染性：室友在大学期间应用使用的一标准差增加，会使自己的使用增加5.8%。高应用使用对所有测量结果都是有害的。应用使用的一标准差增加，会使GPA降低36.2%的队列内专业标准差，并使工资降低2.3%。室友的应用使用通过干扰和行为溢出效应降低学生的GPA和工资，产生的总负面影响超过了学生自己应用使用影响的一半。将中国针对未成年人的每周三小时游戏限制扩展到大学生，将使他们的初始工资提高0.9%。高频GPS和应用使用数据显示，重度应用用户在自习室花费的时间较少，上课迟到或缺席的频率更高，睡眠时间也更少。",
+          "is_research": true
         },
         {
           "title_en": "The Price of Housing in the United States, 1890–2006",
           "title_zh": "美国住房价格，1890-2006",
           "url": "https://doi.org/10.1093/qje/qjaf047",
           "abstract_en": "Abstract We construct the first annual market rent and home sales price series for American cities over the twentieth century using 2.7 million newspaper real estate listings. Our findings revise several stylized facts about U.S. housing markets. Real market rents did not fall during the postwar period in most cities and rose nationally by 60% from 1890 to 2006. We also document higher sales price growth between 1953 and 1987 relative to previous series. Real prices reached almost four times their 1890 level by 2006. Prices grew most in metros with high demand and low levels of construction. We find that the rent-to-price ratio fell from about 8% in the early twentieth century to 3% by 2006, consistent with declines in the cost of owning housing relative to renting. For the typical year in our period, the annual return to owning housing was 9%, driven mostly by rental returns of 7.7%, with capital gains contributing only 1.3%. While capital gains were close to zero from 1890 to 1940, they grew to nearly a third of total returns from 1970 to 2006.",
-          "abstract_zh": "摘要 我们利用270万份报纸房地产广告构建了20世纪美国城市年度市场租金和房屋销售价格序列。我们的发现修正了关于美国住房市场的一些既定事实。在大多数城市，实际市场租金在战后时期并没有下降，而是从1890年到2006年在全国范围内上升了60%。我们还记录了1953年到1987年间相对于之前序列更高的销售价格增长。到2006年，实际价格几乎达到了1890年水平的四倍。在需求高且建设水平低的大都市中，价格增长最为显著。我们发现，租金与价格比率从20世纪初的大约8%下降到2006年的3%，这与拥有住房相对于租赁成本的下降是一致的。对于我们研究期间的典型年份，拥有住房的年回报率为9%，主要由7.7%的租金回报驱动，资本收益仅贡献了1.3%。尽管从1890年到1940年资本收益接近零，但它们从1970年到2006年增长到总回报的近三分之一。"
+          "abstract_zh": "摘要 我们利用270万份报纸房地产广告构建了20世纪美国城市年度市场租金和房屋销售价格序列。我们的发现修正了关于美国住房市场的一些既定事实。在大多数城市，实际市场租金在战后时期并没有下降，而是从1890年到2006年在全国范围内上升了60%。我们还记录了1953年到1987年间相对于之前序列更高的销售价格增长。到2006年，实际价格几乎达到了1890年水平的四倍。在需求高且建设水平低的大都市中，价格增长最为显著。我们发现，租金与价格比率从20世纪初的大约8%下降到2006年的3%，这与拥有住房相对于租赁成本的下降是一致的。对于我们研究期间的典型年份，拥有住房的年回报率为9%，主要由7.7%的租金回报驱动，资本收益仅贡献了1.3%。尽管从1890年到1940年资本收益接近零，但它们从1970年到2006年增长到总回报的近三分之一。",
+          "is_research": true
         },
         {
           "title_en": "Vanguard: Black Veterans and Civil Rights After World War I",
           "title_zh": "先锋：一战后黑人退伍军人与民权",
           "url": "https://doi.org/10.1093/qje/qjaf046",
           "abstract_en": "Abstract Nearly 400,000 Black men were drafted into the National Army during World War I, where they toiled primarily as menial laborers in segregated units. Leveraging novel variation from the World War I draft lottery and millions of digitized military and NAACP records, we document the pioneering role these men played in the early civil rights movement. Relative to observably similar individuals from the same draft board, Black men randomly inducted into the Army were significantly more likely to join the nascent NAACP and become prominent community leaders in the New Negro era. We find little evidence that these effects are explained by migration or improved socioeconomic status. Rather, corroborating historical accounts about the catalyzing influence of institutional racism in the military, we show that increased civic activism was driven by soldiers who experienced the most discriminatory treatment while serving their country.",
-          "abstract_zh": "摘要：在第一次世界大战期间，近40万黑人男性被征召进入国家军队，他们主要在隔离的部队中从事苦力工作。利用第一次世界大战征兵抽签的新变化以及数百万数字化的军事和NAACP记录，我们记录了这些男性在早期民权运动中的先锋作用。与来自同一征兵委员会的可观察相似个体相比，随机被征召入伍的黑人男性更有可能加入新兴的NAACP，并在新黑人时代成为杰出的社区领袖。我们发现几乎没有证据表明这些效应可以通过迁移或改善的社会经济地位来解释。相反，我们证实了历史记载中关于军队制度性种族主义的催化影响，表明增加的公民活动是由在服役期间经历最严重歧视待遇的士兵推动的。"
+          "abstract_zh": "摘要：在第一次世界大战期间，近40万黑人男性被征召进入国家军队，他们主要在隔离的部队中从事苦力工作。利用第一次世界大战征兵抽签的新变化以及数百万数字化的军事和NAACP记录，我们记录了这些男性在早期民权运动中的先锋作用。与来自同一征兵委员会的可观察相似个体相比，随机被征召入伍的黑人男性更有可能加入新兴的NAACP，并在新黑人时代成为杰出的社区领袖。我们发现几乎没有证据表明这些效应可以通过迁移或改善的社会经济地位来解释。相反，我们证实了历史记载中关于军队制度性种族主义的催化影响，表明增加的公民活动是由在服役期间经历最严重歧视待遇的士兵推动的。",
+          "is_research": true
         },
         {
           "title_en": "Dollar Dominance and the Transmission of Monetary Policy",
           "title_zh": "美元主导与货币政策传导",
           "url": "https://doi.org/10.1093/qje/qjaf043",
           "abstract_en": "Abstract Has the dominance of the dollar in global trade rendered monetary policy ineffective? An emerging view contends that if a country invoices its exports in dollars, exchange rates cannot stabilize economic activity, as the classical expenditure-switching channel is muted. This view rests on the premise that export prices are sticky in dollars, breaking the link between export demand and depreciations. But this assumption is not borne out by the data: goods priced in dollars tend to have more flexible prices, along with higher elasticities of substitution. We propose a model with more realistic assumptions and show that even with dollar pricing, depreciating the currency by loosening monetary policy can still boost exports and activity materially. The limit to any expansion is not demand, but supply capacity. We also show that low exchange rate pass-through to dollar prices is not informative about price stickiness. The price response to exchange rates is small when demand elasticities are high, even with flexible prices: low pass-through is an equilibrium result, not evidence of a nominal friction.",
-          "abstract_zh": "摘要：美元在全球贸易中的主导地位是否使货币政策失效？一种新兴观点认为，如果一个国家用美元开具出口发票，汇率就无法稳定经济活动，因为传统的支出转换渠道被削弱了。这种观点基于出口价格在美元中粘性的前提，打破了出口需求和贬值之间的联系。但这一假设并未得到数据支持：以美元定价的商品往往价格更具灵活性，并且具有更高的替代弹性。我们提出了一个基于更现实假设的模型，并表明即使采用美元定价，通过放松货币政策使货币贬值，仍然可以显著提升出口和活动。任何扩张的极限不是需求，而是供应能力。我们还表明，低汇率传递到美元价格并不反映价格粘性。当需求弹性高时，即使价格灵活，对汇率的价格反应也很小：低传递是均衡结果，不是名义摩擦的证据。"
+          "abstract_zh": "摘要：美元在全球贸易中的主导地位是否使货币政策失效？一种新兴观点认为，如果一个国家用美元开具出口发票，汇率就无法稳定经济活动，因为传统的支出转换渠道被削弱了。这种观点基于出口价格在美元中粘性的前提，打破了出口需求和贬值之间的联系。但这一假设并未得到数据支持：以美元定价的商品往往价格更具灵活性，并且具有更高的替代弹性。我们提出了一个基于更现实假设的模型，并表明即使采用美元定价，通过放松货币政策使货币贬值，仍然可以显著提升出口和活动。任何扩张的极限不是需求，而是供应能力。我们还表明，低汇率传递到美元价格并不反映价格粘性。当需求弹性高时，即使价格灵活，对汇率的价格反应也很小：低传递是均衡结果，不是名义摩擦的证据。",
+          "is_research": true
         },
         {
           "title_en": "Failing Banks",
           "title_zh": "破产银行",
           "url": "https://doi.org/10.1093/qje/qjaf044",
           "abstract_en": "Abstract Why do banks fail? We create a panel covering most commercial banks from 1863 through 2024 to study the history of failing banks in the United States. Failing banks are characterized by rising asset losses, deteriorating solvency, and an increasing reliance on expensive noncore funding. These commonalities imply that bank failures are highly predictable using simple accounting metrics from publicly available financial statements. Failures with runs were common before deposit insurance, but these failures are strongly related to weak fundamentals, casting doubt on the importance of non-fundamental runs. Furthermore, low recovery rates on failed banks’ assets suggest that most failed banks subject to runs were fundamentally insolvent, barring large value destruction of receiverships. Altogether, our evidence suggests that the primary cause of bank failures and banking crises is almost always and everywhere a deterioration of bank fundamentals.",
-          "abstract_zh": "摘要 银行为什么会失败？我们创建了一个覆盖从1863年到2024年大多数商业银行的面板数据，以研究美国失败银行的历史。失败的银行以资产损失上升、偿债能力恶化和对昂贵非核心资金依赖增加为特征。这些共同点意味着，使用公开财务报表中的简单会计指标可以高度预测银行的失败。在存款保险之前，挤兑导致的失败很常见，但这些失败与基本面薄弱密切相关，这让人怀疑非基本面挤兑的重要性。此外，失败银行资产的低回收率表明，大多数遭受挤兑的失败银行在根本上是资不抵债的，排除了接管过程中大量价值破坏的可能性。总的来说，我们的证据表明，银行失败和银行危机的主要原因几乎总是、无处不在银行基本面的恶化。"
+          "abstract_zh": "摘要 银行为什么会失败？我们创建了一个覆盖从1863年到2024年大多数商业银行的面板数据，以研究美国失败银行的历史。失败的银行以资产损失上升、偿债能力恶化和对昂贵非核心资金依赖增加为特征。这些共同点意味着，使用公开财务报表中的简单会计指标可以高度预测银行的失败。在存款保险之前，挤兑导致的失败很常见，但这些失败与基本面薄弱密切相关，这让人怀疑非基本面挤兑的重要性。此外，失败银行资产的低回收率表明，大多数遭受挤兑的失败银行在根本上是资不抵债的，排除了接管过程中大量价值破坏的可能性。总的来说，我们的证据表明，银行失败和银行危机的主要原因几乎总是、无处不在银行基本面的恶化。",
+          "is_research": true
         }
       ],
-      "error": null
+      "error": null,
+      "updated_at": "2026-03-06 06:01:31",
+      "source": "Crossref / OpenAlex；原站历史快照",
+      "status": "retained"
     },
     {
       "name": "Review of Economic Studies (REStud)",
@@ -275,66 +317,78 @@
           "title_zh": "更正：工作置换、失业救济金和家庭暴力",
           "url": "https://doi.org/10.1093/restud/rdaf060",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "Job Displacement, Unemployment Benefits and Domestic Violence",
           "title_zh": "工作流失、失业救济和家庭暴力",
           "url": "https://doi.org/10.1093/restud/rdaf004",
           "abstract_en": "Abstract We estimate impacts of male job loss, female job loss, and male unemployment benefits on domestic violence (DV) in Brazil. We merge individual-level employment and welfare registers with different measures of DV: judicial cases brought to criminal courts, the use of public shelters by victims, and mandatory DV notifications by health providers. Leveraging mass layoffs for identification, we first show that both male and female job loss, independently, lead to large, and pervasive increases in DV. Using a regression discontinuity design, we then show that access to unemployment benefits does not reduce DV while benefits are being paid, and it leads to higher DV risk once benefits expire. Our findings can be explained by the negative income shock brought by job loss and by increased exposure of victims to perpetrators, as partners tend to spend more time together after displacement. Although unemployment benefits partially offset the income drop following job loss, they reinforce the exposure shock as they increase unemployment duration. Since our results cannot be explained by prominent DV theories, we propose a simple model formalizing these mechanisms.",
-          "abstract_zh": "摘要 我们估计了男性失业、女性失业和男性失业救济金对巴西家庭暴力（DV）的影响。我们将个人层面的就业和福利登记与不同的DV衡量指标合并：提交给刑事法院的司法案件、受害者使用公共庇护所的情况，以及卫生提供者强制报告的DV通知。利用大规模裁员进行识别，我们首先表明，男性和女性失业独立地导致DV大幅且普遍增加。然后，我们使用回归不连续设计表明，在支付失业救济金期间，获得失业救济金并不能减少DV，而在救济金到期后，会导致更高的DV风险。我们的发现可以通过失业带来的负面收入冲击以及受害者与施暴者接触增加来解释，因为伴侣在失业后往往会花更多时间在一起。尽管失业救济金部分抵消了失业后的收入下降，但它们通过增加失业持续时间来加强了接触冲击。由于我们的结果不能被突出的DV理论所解释，我们提出了一个简单的模型来形式化这些机制。"
+          "abstract_zh": "摘要 我们估计了男性失业、女性失业和男性失业救济金对巴西家庭暴力（DV）的影响。我们将个人层面的就业和福利登记与不同的DV衡量指标合并：提交给刑事法院的司法案件、受害者使用公共庇护所的情况，以及卫生提供者强制报告的DV通知。利用大规模裁员进行识别，我们首先表明，男性和女性失业独立地导致DV大幅且普遍增加。然后，我们使用回归不连续设计表明，在支付失业救济金期间，获得失业救济金并不能减少DV，而在救济金到期后，会导致更高的DV风险。我们的发现可以通过失业带来的负面收入冲击以及受害者与施暴者接触增加来解释，因为伴侣在失业后往往会花更多时间在一起。尽管失业救济金部分抵消了失业后的收入下降，但它们通过增加失业持续时间来加强了接触冲击。由于我们的结果不能被突出的DV理论所解释，我们提出了一个简单的模型来形式化这些机制。",
+          "is_research": true
         },
         {
           "title_en": "A Theory of Cash Flow-Based Financing with Distress Resolution",
           "title_zh": "基于现金流的融资与困境解决理论",
           "url": "https://doi.org/10.1093/restud/rdaf009",
           "abstract_en": "Abstract We develop a dynamic contracting theory of asset- and cash flow-based financing that demonstrates how firm, intermediary, and capital market characteristics jointly shape firms’ financing constraints. A firm with imperfect access to equity financing covers financing needs through costly sources: an intermediary and retained cash. The firm’s financing capacity is endogenously determined by either the liquidation value of assets (asset-based) or the intermediary’s going-concern valuation of the firm’s cash flows (cash flow-based). The optimal contract is implemented with defaultable debt—specifically unsecured credit lines and senior-secured debt—and features risk-sharing via bankruptcy. When the firm does well, it repays its debt in full. When it does poorly, distress resolution mirrors U.S. bankruptcy procedures (Chapters 7 and 11). Secured and unsecured debt are complements because risk-sharing via unsecured debt increases secured debt capacity. Debt and equity are dynamic complements because future access to equity financing increases current debt capacity.",
-          "abstract_zh": "摘要 我们发展了一个基于资产和现金流融资的动态契约理论，该理论展示了公司、中介机构和资本市场特征如何共同塑造公司的融资约束。一个无法完全获得股权融资的公司通过成本高昂的来源来满足融资需求：中介机构和留存现金。公司的融资能力由资产的清算价值（基于资产）或中介机构对公司现金流的持续经营估值（基于现金流）来内生地决定。最优契约通过可违约债务实施——特别是无担保信贷额度和高级担保债务——并通过破产实现风险共担。当公司表现良好时，它会全额偿还债务。当公司表现不佳时，困境解决反映了美国的破产程序（第7章和第11章）。担保债务和无担保债务是互补的，因为通过无担保债务的风险共担增加了担保债务的容量。债务和股权是动态互补的，因为未来获得股权融资的能力增加了当前的债务容量。"
+          "abstract_zh": "摘要 我们发展了一个基于资产和现金流融资的动态契约理论，该理论展示了公司、中介机构和资本市场特征如何共同塑造公司的融资约束。一个无法完全获得股权融资的公司通过成本高昂的来源来满足融资需求：中介机构和留存现金。公司的融资能力由资产的清算价值（基于资产）或中介机构对公司现金流的持续经营估值（基于现金流）来内生地决定。最优契约通过可违约债务实施——特别是无担保信贷额度和高级担保债务——并通过破产实现风险共担。当公司表现良好时，它会全额偿还债务。当公司表现不佳时，困境解决反映了美国的破产程序（第7章和第11章）。担保债务和无担保债务是互补的，因为通过无担保债务的风险共担增加了担保债务的容量。债务和股权是动态互补的，因为未来获得股权融资的能力增加了当前的债务容量。",
+          "is_research": true
         },
         {
           "title_en": "Industrial Policy Implementation: Empirical Evidence from China’s Shipbuilding Industry",
           "title_zh": "产业政策实施：来自中国造船业的实证证据",
           "url": "https://doi.org/10.1093/restud/rdaf011",
           "abstract_en": "Abstract Industrial policies are widely used across the world. In practice, designing and implementing these policies is a complicated task. In this paper, we assess the long-term performance of different industrial policy instruments, which include production subsidies, investment subsidies, entry subsidies, and consolidation policies. To do so, we examine a recent industrial policy in China aiming to propel the country’s shipbuilding industry to the largest globally. Using firm-level data from 1998 to 2014 and a dynamic model of firm entry, exit, investment, and production, we find that (i) the policy boosted China’s domestic investment, entry, and international market share dramatically, but delivered low returns and led to fragmentation, idle capacity, as well as depressed world ship prices; (ii) the effectiveness of different policy instruments is mixed: production and investment subsidies can be justified by market share considerations, while entry subsidies are wasteful; (iii) counter-cyclical policies, firm-targeting, and shortening the intervention horizon can substantially reduce distortions. Our results highlight the critical role of firm heterogeneity, business cycles, and firms’ cost structure in policy design. Finally, when exploring potential rationales, we find support for nonclassical considerations, such as reducing freight rates to boost Chinese trade.",
-          "abstract_zh": "摘要：产业政策在全球范围内被广泛使用。在实践中，设计和实施这些政策是一项复杂的任务。本文评估了不同产业政策工具的长期绩效，包括生产补贴、投资补贴、进入补贴和整合政策。为此，我们考察了中国最近的一项产业政策，旨在推动该国造船业成为全球最大的产业。利用1998年至2014年的企业级数据和企业进入、退出、投资和生产的动态模型，我们发现：（i）该政策极大地促进了中国的国内投资、进入和国际市场份额，但回报率低，并导致了市场分割、产能闲置以及世界船舶价格低迷；（ii）不同政策工具的有效性参差不齐：生产和投资补贴可以根据市场份额考虑来证明其合理性，而进入补贴则是浪费；（iii）反周期政策、针对企业的措施和缩短干预时间范围可以大幅减少扭曲。我们的结果强调了企业异质性、商业周期和企业成本结构在政策设计中的关键作用。最后，在探讨潜在理由时，我们发现支持非经典考虑的证据，例如降低货运费率以促进中国贸易。"
+          "abstract_zh": "摘要：产业政策在全球范围内被广泛使用。在实践中，设计和实施这些政策是一项复杂的任务。本文评估了不同产业政策工具的长期绩效，包括生产补贴、投资补贴、进入补贴和整合政策。为此，我们考察了中国最近的一项产业政策，旨在推动该国造船业成为全球最大的产业。利用1998年至2014年的企业级数据和企业进入、退出、投资和生产的动态模型，我们发现：（i）该政策极大地促进了中国的国内投资、进入和国际市场份额，但回报率低，并导致了市场分割、产能闲置以及世界船舶价格低迷；（ii）不同政策工具的有效性参差不齐：生产和投资补贴可以根据市场份额考虑来证明其合理性，而进入补贴则是浪费；（iii）反周期政策、针对企业的措施和缩短干预时间范围可以大幅减少扭曲。我们的结果强调了企业异质性、商业周期和企业成本结构在政策设计中的关键作用。最后，在探讨潜在理由时，我们发现支持非经典考虑的证据，例如降低货运费率以促进中国贸易。",
+          "is_research": true
         },
         {
           "title_en": "Affiliated Common Value Auctions with Costly Entry",
           "title_zh": "关联共同价值拍卖与昂贵的进入成本",
           "url": "https://doi.org/10.1093/restud/rdaf015",
           "abstract_en": "Abstract Many auctions and procurement contests entail non-trivial bidding costs, which makes the bidders’ participation decisions endogenous to the auction design. We analyse the effect of different auction rules on potential bidders’ incentives to participate. We focus on first-price auctions with affiliated common values and a large pool of potential bidders. Our main interest is on auctions where the realized number of bidders is unknown at the bidding stage. In contrast to the standard case, both participation and bidding decisions are often non-monotonic in the symmetric equilibrium of our model. The expected revenue to the seller is often higher in the auction where the realized number of participating bidders is not disclosed.",
-          "abstract_zh": "摘要 许多拍卖和采购竞赛涉及非微不足道的投标成本，这使得竞标者的参与决策内生于拍卖设计。我们分析了不同拍卖规则对潜在竞标者参与激励的影响。我们重点关注具有关联共同价值和大量潜在竞标者的第一价格拍卖。我们的主要兴趣在于在投标阶段未知实际竞标者数量的拍卖。与标准情况不同，在我们的模型的对称均衡中，参与和投标决策通常都是非单调的。在不披露实际参与竞标者数量的拍卖中，卖家的预期收入往往更高。"
+          "abstract_zh": "摘要 许多拍卖和采购竞赛涉及非微不足道的投标成本，这使得竞标者的参与决策内生于拍卖设计。我们分析了不同拍卖规则对潜在竞标者参与激励的影响。我们重点关注具有关联共同价值和大量潜在竞标者的第一价格拍卖。我们的主要兴趣在于在投标阶段未知实际竞标者数量的拍卖。与标准情况不同，在我们的模型的对称均衡中，参与和投标决策通常都是非单调的。在不披露实际参与竞标者数量的拍卖中，卖家的预期收入往往更高。",
+          "is_research": true
         },
         {
           "title_en": "Voting on a Trade Agreement: Firm Networks and Attitudes Towards Openness",
           "title_zh": "对贸易协定的投票：企业网络与对开放性的态度",
           "url": "https://doi.org/10.1093/restud/rdaf005",
           "abstract_en": "Abstract We exploit a unique event to study the extent to which popular attitudes towards trade are driven by economic fundamentals. In 2007, Costa Rica put a free trade agreement (FTA) to a national referendum. With a single question on the ballot, 59% of Costa Rican adult citizens cast a vote on whether they wanted an FTA with the U.S. to be ratified or not. We merge disaggregated referendum results, which break new ground on anonymity-compatible voting data, with employer–employee, customs, and firm-to-firm transactions data, and data on household composition and expenditures. We document that a firm’s exposure to the FTA, directly and via input–output linkages, significantly influences the voting behaviour of its employees. This effect dominates that of sector-level exposure and is greater for voters aligned with pro-FTA political candidates. We also show that citizens considered the expected decrease in consumer prices when exercising their vote. Overall, economic factors explain 7% of the variation in voting patterns, which cannot be accounted for by non-economic factors such as political ideology, and played a pivotal role in this vote.",
-          "abstract_zh": "摘要 我们利用一个独特的事件来研究对贸易的普遍态度在多大程度上是由经济基础驱动的。2007年，哥斯达黎加就自由贸易协定（FTA）进行了全国公投。在选票上只有一个问题，59%的哥斯达黎加成年公民投票决定他们是否希望批准与美国的FTA。我们将分层次的公投结果（这在匿名兼容的投票数据上是开创性的）与雇主-雇员、海关和公司间交易数据以及家庭构成和支出数据合并。我们记录了一家公司对FTA的直接和通过投入-产出联系的暴露显著影响其雇员的投票行为。这种效应主导了行业层面的暴露效应，并且对于与支持FTA的政治候选人一致的选民来说更大。我们还展示了公民在行使投票权时考虑了预期的消费者价格下降。总体而言，经济因素解释了投票模式变化的7%，这不能由政治意识形态等非经济因素来解释，并在这次投票中发挥了关键作用。"
+          "abstract_zh": "摘要 我们利用一个独特的事件来研究对贸易的普遍态度在多大程度上是由经济基础驱动的。2007年，哥斯达黎加就自由贸易协定（FTA）进行了全国公投。在选票上只有一个问题，59%的哥斯达黎加成年公民投票决定他们是否希望批准与美国的FTA。我们将分层次的公投结果（这在匿名兼容的投票数据上是开创性的）与雇主-雇员、海关和公司间交易数据以及家庭构成和支出数据合并。我们记录了一家公司对FTA的直接和通过投入-产出联系的暴露显著影响其雇员的投票行为。这种效应主导了行业层面的暴露效应，并且对于与支持FTA的政治候选人一致的选民来说更大。我们还展示了公民在行使投票权时考虑了预期的消费者价格下降。总体而言，经济因素解释了投票模式变化的7%，这不能由政治意识形态等非经济因素来解释，并在这次投票中发挥了关键作用。",
+          "is_research": true
         },
         {
           "title_en": "Wealth Inequality and Asset Prices",
           "title_zh": "财富不平等与资产价格",
           "url": "https://doi.org/10.1093/restud/rdaf008",
           "abstract_en": "Abstract Wealthy households disproportionately invest in equity, causing equity returns to generate large and persistent fluctuations in top wealth inequality. Motivated by this observation, I study the joint dynamics of asset prices and wealth inequality in a model where a subset of agents (entrepreneurs) hold levered positions on the economy. In the model, as in the data, the wealth distribution is stochastic and it exhibits a Pareto tail, with a tail index that depends on the logarithmic average return of top households. The model features a feedback loop between asset prices and wealth inequality, which amplifies the effect of aggregate shocks on the economy. The model, calibrated to the U.S. data, can account for a substantial portion of the fluctuations in asset prices and top wealth shares over the 20th century.",
-          "abstract_zh": "摘要：富裕家庭过度投资于股票，导致股票回报产生大且持续的顶部财富不平等波动。受此观察启发，我研究了一个模型中资产价格和财富不平等的联合动态，其中一部分代理人（企业家）持有经济的杠杆头寸。在模型中，与数据一样，财富分布是随机的，并且呈现出帕累托尾部，尾部指数取决于富裕家庭的对数平均回报。模型具有资产价格和财富不平等之间的反馈循环，放大了总体冲击对经济的影响。该模型校准到美国数据，可以解释20世纪资产价格和顶部财富份额的大部分波动。"
+          "abstract_zh": "摘要：富裕家庭过度投资于股票，导致股票回报产生大且持续的顶部财富不平等波动。受此观察启发，我研究了一个模型中资产价格和财富不平等的联合动态，其中一部分代理人（企业家）持有经济的杠杆头寸。在模型中，与数据一样，财富分布是随机的，并且呈现出帕累托尾部，尾部指数取决于富裕家庭的对数平均回报。模型具有资产价格和财富不平等之间的反馈循环，放大了总体冲击对经济的影响。该模型校准到美国数据，可以解释20世纪资产价格和顶部财富份额的大部分波动。",
+          "is_research": true
         },
         {
           "title_en": "A Network Formation Model Based on Subgraphs",
           "title_zh": "基于子图的网络形成模型",
           "url": "https://doi.org/10.1093/restud/rdaf013",
           "abstract_en": "Abstract We develop a new class of random graph models for the statistical estimation of network formation—subgraph generated models (SUGMs). Various subgraphs—e.g. links, triangles, cliques, stars—are generated and their union results in a network. We show that SUGMs are identified and establish the consistency and asymptotic distribution of parameter estimators in empirically relevant cases. We show that a simple four-parameter SUGM matches basic patterns in empirical networks more closely than four standard models (with many more dimensions): (1) stochastic block models; (2) models with node-level unobserved heterogeneity; (3) latent space models; and (4) exponential random graphs. We illustrate the framework’s value via several applications using networks from rural India. We study whether network structure helps enforce risk-sharing and whether cross-caste interactions are more likely to be private. We also develop a new central limit theorem for correlated random variables, which is required to prove our results and is of independent interest.",
-          "abstract_zh": "摘要 我们开发了一类新的随机图模型，用于统计估计网络形成——子图生成模型（SUGMs）。各种子图（例如链接、三角形、团、星形）被生成，它们的并集结果是一个网络。我们展示了SUGMs的识别性，并在实证相关案例中建立了参数估计器的一致性和渐近分布。我们展示了一个简单的四参数SUGM比四个标准模型（具有更多维度）更紧密地匹配实证网络中的基本模式：（1）随机块模型；（2）具有节点级未观察异质性的模型；（3）潜在空间模型；以及（4）指数随机图。我们通过使用来自印度农村的网络的几个应用来说明框架的价值。我们研究网络结构是否有助于执行风险共担，以及跨种姓互动是否更可能是私密的。我们还为相关随机变量开发了一个新的中心极限定理，这是证明我们结果所必需的，并且具有独立的兴趣。"
+          "abstract_zh": "摘要 我们开发了一类新的随机图模型，用于统计估计网络形成——子图生成模型（SUGMs）。各种子图（例如链接、三角形、团、星形）被生成，它们的并集结果是一个网络。我们展示了SUGMs的识别性，并在实证相关案例中建立了参数估计器的一致性和渐近分布。我们展示了一个简单的四参数SUGM比四个标准模型（具有更多维度）更紧密地匹配实证网络中的基本模式：（1）随机块模型；（2）具有节点级未观察异质性的模型；（3）潜在空间模型；以及（4）指数随机图。我们通过使用来自印度农村的网络的几个应用来说明框架的价值。我们研究网络结构是否有助于执行风险共担，以及跨种姓互动是否更可能是私密的。我们还为相关随机变量开发了一个新的中心极限定理，这是证明我们结果所必需的，并且具有独立的兴趣。",
+          "is_research": true
         },
         {
           "title_en": "Institutions, Comparative Advantage, and the Environment",
           "title_zh": "制度、比较优势与环境",
           "url": "https://doi.org/10.1093/restud/rdaf012",
           "abstract_en": "Abstract This paper proposes that strong institutions provide comparative advantage in clean industries, and thereby improve a country’s environmental quality. I study financial, judicial, and labour market institutions. Five complementary tests evaluate and assess implications of this hypothesis. First, industries that depend on institutions are clean. Second, strong institutions increase relative exports in clean industries. Third, an industry’s complexity helps explain the link between institutions and clean goods. Fourth, cross-country differences in the composition of output between clean and dirty industries explain an important share of the global distribution of emissions. Fifth, a quantitative general equilibrium model indicates that strengthening a country’s institutions decreases its pollution through relocating dirty industries abroad, though increases pollution in other countries. The comparative advantage that strong institutions provide in clean industries gives one under-explored reason why developing countries have relatively high pollution levels.",
-          "abstract_zh": "摘要 本文提出，强大的制度为清洁产业提供比较优势，从而提高一个国家的环保质量。我研究了金融、司法和劳动市场制度。五个互补的测试评估和评估了这一假设的含义。首先，依赖制度的产业是清洁的。其次，强大的制度增加了清洁产业的相对出口。第三，一个产业的复杂性有助于解释制度与清洁商品之间的联系。第四，国家间清洁与污染产业产出组成的差异解释了全球排放分布的重要份额。第五，定量一般均衡模型表明，加强一个国家的制度通过将污染产业转移到国外来减少其污染，尽管增加了其他国家的污染。强大的制度在清洁产业中提供的比较优势，为发展中国家相对高污染水平提供了一个未充分探索的原因。"
+          "abstract_zh": "摘要 本文提出，强大的制度为清洁产业提供比较优势，从而提高一个国家的环保质量。我研究了金融、司法和劳动市场制度。五个互补的测试评估和评估了这一假设的含义。首先，依赖制度的产业是清洁的。其次，强大的制度增加了清洁产业的相对出口。第三，一个产业的复杂性有助于解释制度与清洁商品之间的联系。第四，国家间清洁与污染产业产出组成的差异解释了全球排放分布的重要份额。第五，定量一般均衡模型表明，加强一个国家的制度通过将污染产业转移到国外来减少其污染，尽管增加了其他国家的污染。强大的制度在清洁产业中提供的比较优势，为发展中国家相对高污染水平提供了一个未充分探索的原因。",
+          "is_research": true
         }
       ],
-      "error": null
+      "error": null,
+      "updated_at": "2026-03-06 06:01:31",
+      "source": "Crossref / OpenAlex；原站历史快照",
+      "status": "retained"
     },
     {
       "name": "Econometrica",
@@ -346,87 +400,102 @@
           "title_zh": "计量经济学会年度报告 秘书报告",
           "url": "https://doi.org/10.3982/ecta941sec",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "The Econometric Society Annual Reports Report of the Treasurer",
           "title_zh": "计量经济学会年度报告：财务报告",
           "url": "https://doi.org/10.3982/ecta941treas",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data",
           "title_zh": "《搭便车指南：评估金融数据中的标记估计》",
           "url": "https://doi.org/10.3982/ecta22733",
           "abstract_en": "Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.",
-          "abstract_zh": "宏观经济结果取决于企业间及随时间变化的加成率分布，这使得企业层面的加成率估计对宏观经济分析至关重要。获取这些估计值的方法需要企业收费价格的数据。然而，具有广泛覆盖范围的企业层面数据主要来自财务报表，这些报表缺乏价格信息。我们使用一个分析框架来展示，即使使用这些数据，也可以很好地测量加成率随时间的趋势或企业间的分散程度。测量加成率的平均水平确实需要定价数据，我们为此提出了一个一致的估计器。我们通过模拟一个定量宏观经济模型来验证分析结果，并提供来自企业层面行政生产和定价数据的支持证据。我们的分析支持使用财务数据来测量总体加成率的趋势。"
+          "abstract_zh": "宏观经济结果取决于企业间及随时间变化的加成率分布，这使得企业层面的加成率估计对宏观经济分析至关重要。获取这些估计值的方法需要企业收费价格的数据。然而，具有广泛覆盖范围的企业层面数据主要来自财务报表，这些报表缺乏价格信息。我们使用一个分析框架来展示，即使使用这些数据，也可以很好地测量加成率随时间的趋势或企业间的分散程度。测量加成率的平均水平确实需要定价数据，我们为此提出了一个一致的估计器。我们通过模拟一个定量宏观经济模型来验证分析结果，并提供来自企业层面行政生产和定价数据的支持证据。我们的分析支持使用财务数据来测量总体加成率的趋势。",
+          "is_research": true
         },
         {
           "title_en": "Subgroup Decomposition of the Gini Coefficient: A New Solution to an Old Problem",
           "title_zh": "基尼系数的子群分解：一个老问题的全新解决方案",
           "url": "https://doi.org/10.3982/ecta22145",
           "abstract_en": "We derive a novel decomposition of the Gini coefficient into within‐ and between‐group inequality terms that sum to the aggregate Gini coefficient. This decomposition is derived from a set of axioms that ensure desirable behavior for the within‐ and between‐group inequality terms. The decomposition of the Gini coefficient is unique given our axioms, easy to compute, and can be interpreted geometrically.",
-          "abstract_zh": "我们推导出一个新的基尼系数分解方法，将其分解为组内和组间不平等项，这些项的总和等于总体基尼系数。这种分解是基于一组公理得出的，这些公理确保了组内和组间不平等项的期望行为。在给定我们的公理下，基尼系数的分解是唯一的，易于计算，并且可以从几何上进行解释。"
+          "abstract_zh": "我们推导出一个新的基尼系数分解方法，将其分解为组内和组间不平等项，这些项的总和等于总体基尼系数。这种分解是基于一组公理得出的，这些公理确保了组内和组间不平等项的期望行为。在给定我们的公理下，基尼系数的分解是唯一的，易于计算，并且可以从几何上进行解释。",
+          "is_research": true
         },
         {
           "title_en": "Submission of Manuscripts to the Econometric Society Monograph Series",
           "title_zh": "向计量经济学会专著系列提交手稿",
           "url": "https://doi.org/10.3982/ecta941sum",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "The Econometric Society Annual Reports Econometrica Referees 2024–2025",
           "title_zh": "计量经济学会年度报告 2024-2025 年《计量经济学》审稿人",
           "url": "https://doi.org/10.3982/ecta941ref",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "Equilibrium Existence in First‐Price Auctions With Private Values",
           "title_zh": "具有私人价值的第一价格拍卖中的均衡存在",
           "url": "https://doi.org/10.3982/ecta22570",
           "abstract_en": "We provide sufficient conditions for equilibrium existence in first‐price auctions with private values that accommodate non quasi‐linear utilities and value‐distributions that contain atoms and exhibit positive or negative correlation. These conditions show that equilibrium existence often turns on properties of a single statistic of the joint distribution of values, namely, the minimum value in the support of the high‐value distribution (the mHV). We also show that modifying the standard tie‐breaking rule only at the mHV is enough to guarantee equilibrium existence without our sufficient conditions. Our results also apply to Bertrand price competition when each firm's constant marginal cost is private information.",
-          "abstract_zh": "我们为具有私人价值的第一价格拍卖中的均衡存在提供了充分的条件，这些条件可以容纳非准线性效用以及包含原子和表现出正相关或负相关的价值分布。这些条件表明，均衡存在往往取决于价值联合分布的一个单一统计量的性质，即高价值分布支撑中的最小值（mHV）。我们还展示了，仅在mHV处修改标准平局决胜规则就足以保证在没有我们充分条件的情况下均衡存在。我们的结果也适用于贝特朗价格竞争，当每个公司的恒定边际成本是私有信息时。"
+          "abstract_zh": "我们为具有私人价值的第一价格拍卖中的均衡存在提供了充分的条件，这些条件可以容纳非准线性效用以及包含原子和表现出正相关或负相关的价值分布。这些条件表明，均衡存在往往取决于价值联合分布的一个单一统计量的性质，即高价值分布支撑中的最小值（mHV）。我们还展示了，仅在mHV处修改标准平局决胜规则就足以保证在没有我们充分条件的情况下均衡存在。我们的结果也适用于贝特朗价格竞争，当每个公司的恒定边际成本是私有信息时。",
+          "is_research": true
         },
         {
           "title_en": "A Framework for Geoeconomics",
           "title_zh": "地理经济学框架",
           "url": "https://doi.org/10.3982/ecta23206",
           "abstract_en": "Governments use their countries' economic strength from financial and trade relationships to achieve geopolitical and economic goals. We provide a model of the sources of geoeconomic power and how it is wielded. The source of this power is the ability of a hegemonic country to coordinate threats across disparate economic relationships as a means of enforcement on foreign entities. The hegemon wields this power to demand costly actions out of the targeted entities, including mark‐ups, import restrictions, tariffs, and political concessions. The hegemon uses its power to change targeted entities' activities to manipulate the global equilibrium in its favor and increase its power. A sector is strategic either in helping the hegemon form threats or in manipulating the world equilibrium via input‐output amplification. The hegemon acts a global enforcer, thus adding value to the world economy, but destroys value by distorting the equilibrium in its favor.",
-          "abstract_zh": "政府利用其国家在金融和贸易关系中的经济实力来实现地缘政治和经济目标。我们提供了一个关于地缘经济权力来源及其运用方式的模型。这种权力的来源是一个霸权国家协调不同经济关系中的威胁的能力，作为一种对外国实体的执行手段。霸权国家运用这种权力要求目标实体采取代价高昂的行动，包括加价、进口限制、关税和政治让步。霸权国家利用其权力改变目标实体的活动，操纵全球均衡以利于自己，并增加其权力。一个部门之所以具有战略性，要么是因为它帮助霸权国家形成威胁，要么是因为它通过投入产出放大来操纵世界均衡。霸权国家充当全球执法者，从而为世界经济增加价值，但通过扭曲均衡以利于自己而破坏价值。"
+          "abstract_zh": "政府利用其国家在金融和贸易关系中的经济实力来实现地缘政治和经济目标。我们提供了一个关于地缘经济权力来源及其运用方式的模型。这种权力的来源是一个霸权国家协调不同经济关系中的威胁的能力，作为一种对外国实体的执行手段。霸权国家运用这种权力要求目标实体采取代价高昂的行动，包括加价、进口限制、关税和政治让步。霸权国家利用其权力改变目标实体的活动，操纵全球均衡以利于自己，并增加其权力。一个部门之所以具有战略性，要么是因为它帮助霸权国家形成威胁，要么是因为它通过投入产出放大来操纵世界均衡。霸权国家充当全球执法者，从而为世界经济增加价值，但通过扭曲均衡以利于自己而破坏价值。",
+          "is_research": true
         },
         {
           "title_en": "Multidimensional Screening With Precise Seller Information",
           "title_zh": "多维筛选与精确卖家信息",
           "url": "https://doi.org/10.3982/ecta23622",
           "abstract_en": "A multi‐product monopolist faces a buyer who is privately informed about his valuations for the goods. As is well known, optimal mechanisms are in general complicated, while simple mechanisms—such as pure bundling or separate sales—can be far from optimal and do not admit clear‐cut comparisons. We show that this changes if the monopolist has sufficiently precise information about the buyer's valuations: Now, pure bundling always outperforms separate sales; moreover, there is a sense in which pure bundling performs essentially as well as the optimal mechanism. To formalize this, we characterize how fast the corresponding revenues converge to the first‐best revenue as the monopolist's information grows precise: Pure bundling achieves the same convergence rate to the first‐best as optimal mechanisms; in contrast, the convergence rate under separate sales is suboptimal.",
-          "abstract_zh": "一个多产品垄断者面对的买家对自己的商品估值有私人信息。众所周知，最优机制通常很复杂，而简单的机制——比如纯粹的捆绑销售或单独销售——可能远非最优，并且不允许明确的比较。我们展示，如果垄断者对买家的估值有足够精确的信息，情况就会改变：现在，纯粹的捆绑销售总是优于单独销售；此外，从某种意义上说，纯粹的捆绑销售的表现基本上和最优机制一样好。为了形式化这一点，我们描述了随着垄断者信息变得更加精确，相应收入收敛到第一最佳收入的速度：纯粹的捆绑销售实现与最优机制相同的收敛速度；相比之下，单独销售下的收敛速度是次优的。"
+          "abstract_zh": "一个多产品垄断者面对的买家对自己的商品估值有私人信息。众所周知，最优机制通常很复杂，而简单的机制——比如纯粹的捆绑销售或单独销售——可能远非最优，并且不允许明确的比较。我们展示，如果垄断者对买家的估值有足够精确的信息，情况就会改变：现在，纯粹的捆绑销售总是优于单独销售；此外，从某种意义上说，纯粹的捆绑销售的表现基本上和最优机制一样好。为了形式化这一点，我们描述了随着垄断者信息变得更加精确，相应收入收敛到第一最佳收入的速度：纯粹的捆绑销售实现与最优机制相同的收敛速度；相比之下，单独销售下的收敛速度是次优的。",
+          "is_research": true
         },
         {
           "title_en": "Frontmatter of Econometrica 94 Iss. 1",
           "title_zh": "《计量经济学》94年第1期的前言部分",
           "url": "https://doi.org/10.3982/ecta941fm",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         },
         {
           "title_en": "Coordination and Commitment in International Climate Action: Evidence From Palm Oil",
           "title_zh": "国际气候行动中的协调与承诺：来自棕榈油的证据",
           "url": "https://doi.org/10.3982/ecta20608",
           "abstract_en": "Weak environmental regulation has global consequences. When domestic regulation fails, the international community can target emitters with trade policy. I develop a dynamic empirical framework for evaluating trade policy as a substitute for domestic regulation, and I apply the framework to the market for palm oil, a major driver of deforestation and global CO 2 emissions. Relative to business as usual, a domestic production tax of 50% reduces CO 2 emissions by 7.4 Gt from 1988 to 2016, amounting to 0.26 Gt annually. Coordinated, committed import tariffs of similar magnitude reduce emissions by 5.4 Gt over the same period. The cost of these import tariffs is only $15 per ton of CO 2 , even accounting for compensating transfers that recognize welfare losses for producing countries. Without coordination and commitment, import tariffs have more limited effects. Alternative policies include domestic export taxes, which are fiscally appealing independent of emission concerns, and a carbon border adjustment mechanism, which encourages domestic regulation.",
-          "abstract_zh": "薄弱的环境规制具有全球性后果。当国内规制失败时，国际社会可以用贸易政策来针对排放者。我开发了一个动态实证框架，用以评估贸易政策作为国内规制的替代品，并将该框架应用于棕榈油市场，这是导致森林砍伐和全球二氧化碳排放的主要驱动力。与照常营业相比，50%的国内生产税从1988年到2016年减少了7.4千兆吨二氧化碳排放，相当于每年减少0.26千兆吨。协调一致、承诺的进口关税在同期减少了5.4千兆吨排放。即使考虑到对生产国福利损失的补偿转移，这些进口关税的成本仅为每吨二氧化碳15美元。没有协调和承诺，进口关税的效果更加有限。其他政策包括国内出口税，无论是否考虑排放问题，从财政角度来看都很吸引人；以及碳边境调整机制，这鼓励了国内规制。"
+          "abstract_zh": "薄弱的环境规制具有全球性后果。当国内规制失败时，国际社会可以用贸易政策来针对排放者。我开发了一个动态实证框架，用以评估贸易政策作为国内规制的替代品，并将该框架应用于棕榈油市场，这是导致森林砍伐和全球二氧化碳排放的主要驱动力。与照常营业相比，50%的国内生产税从1988年到2016年减少了7.4千兆吨二氧化碳排放，相当于每年减少0.26千兆吨。协调一致、承诺的进口关税在同期减少了5.4千兆吨排放。即使考虑到对生产国福利损失的补偿转移，这些进口关税的成本仅为每吨二氧化碳15美元。没有协调和承诺，进口关税的效果更加有限。其他政策包括国内出口税，无论是否考虑排放问题，从财政角度来看都很吸引人；以及碳边境调整机制，这鼓励了国内规制。",
+          "is_research": true
         },
         {
           "title_en": "The Econometric Society Annual Reports Report of the Editors of the Monograph Series",
           "title_zh": "计量经济学会年度报告：专著系列编辑报告",
           "url": "https://doi.org/10.3982/ecta941mono",
           "abstract_en": "",
-          "abstract_zh": ""
+          "abstract_zh": "",
+          "is_research": true
         }
       ],
-      "error": null
+      "error": null,
+      "updated_at": "2026-03-06 06:01:31",
+      "source": "Crossref / OpenAlex；原站历史快照",
+      "status": "retained"
     }
   ],
   "nber": {
@@ -677,6 +746,898 @@
         "abstract_zh": "本文探讨了两个基本的宏观经济问题。首先，宏观冲击是否足够大，以至于能够改变经济的走向？其次，它们是否足够大，以至于对经济福利产生实质性影响？卢卡斯和许多其他人已经讨论了这些问题，但主要是在"
       }
     ],
-    "error": null
-  }
+    "error": null,
+    "updated_at": "2026-03-06 06:01:31"
+  },
+  "schema_version": 2,
+  "checked_at": "2026-10-14T02:07:24.770Z",
+  "working": {
+    "source": "TopSight",
+    "topics": [
+      {
+        "id": "labor",
+        "label": "劳动与不平等",
+        "papers": [
+          {
+            "paper_key": "0acc085b5c57457f1e002b55a81120a3",
+            "title_en": "Company Wage Policy in a Low-Wage Labor Market",
+            "title_zh": "低工资劳动力市场中的公司工资政策",
+            "authors": [
+              "Giulia Giupponi",
+              "Stephen Machin"
+            ],
+            "journal": "CEPR工作论文",
+            "year": 2026,
+            "date": "2026-03-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CEPR:21345",
+            "source_lane": "working",
+            "abstract_en": "We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labor market.",
+            "summary_zh": "这篇论文研究的是企业在法律允许按年龄定薪的情况下，如何给员工定工资。作者利用英国一项针对特定年龄的最低工资调整，25岁及以上工人的最低工资提高了，但更年轻工人的最低工资没变。他们用英国低薪行业的雇主-雇员匹配数据发现，25岁以下工人的工资也出现了大幅上涨，这种溢出效应来自公司内部的工资政策。作者认为，最简洁的解释是公司内部存在“同工同酬”的公平观念。这种效应在英国其他低薪行业也同样存在。",
+            "topic": "labor",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "05ff754997e39e96aa84340bf79f5b02",
+            "title_en": "Inequality, Informality, and Optimal Progressivity",
+            "title_zh": "不平等、非正规经济与最优累进税制",
+            "authors": [
+              "Oscar Becerra",
+              "Luigi-Maria Briglia",
+              "John Leon-Diaz",
+              "Óscar Valencia",
+              "Ralph Luetticke"
+            ],
+            "journal": "CEPR工作论文",
+            "year": 2026,
+            "date": "2026-02-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CEPR:21229",
+            "source_lane": "working",
+            "abstract_en": "How should governments design progressive labor-income taxes when workers can shift labor supply into untaxed informal work? Using household surveys for Brazil, Colombia, Mexico, and Peru, we document steep gradients in informality, employment, and unemployment across the income distribution. We analyze non-linear tax schedules in a heterogeneous-agent model with search frictions, savings, and an endogenous formal â€” informal labor-supply margin. Progressivity operates through an inclusion margin at the bottom-negative income taxes increase formal attachment â€” and an evasion margin at the top, where higher marginal tax rates shift labor supply into the untaxed sector. These opposing forces imply that both welfare and formality are hump-shaped in progressivity; in a calibration to Mexico, the welfare-maximizing degree of progressivity is about five times the current level.",
+            "summary_zh": "这篇论文研究的是：当工人可以把劳动时间转移到不交税的“地下经济”（即非正规部门）时，政府该怎么设计累进的劳动所得税。作者用了巴西、哥伦比亚、墨西哥和秘鲁的家庭调查数据，发现收入越高的人，在非正规部门就业、正式就业和失业的比例差异很大。他们建了一个包含搜索摩擦、储蓄和内生选择正规或非正规工作的异质性代理人模型，来分析非线性税率。累进税在两头起作用：对低收入者，负所得税能让他们更愿意进入正规部门（这叫“包容效应”）；对高收入者，高边际税率会逼他们把劳动转到不交税的非正规部门（这叫“逃税效应”）。这两个相反的力量导致社会福利和正规就业率都随着累进程度呈“倒U型”变化。作者用墨西哥的数据校准模型后发现，能让福利最大化的累进程度，大约是当前水平的五倍。",
+            "topic": "labor",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "trade",
+        "label": "国际贸易",
+        "papers": [
+          {
+            "paper_key": "edf9394e86319bb6986088f4d6c9cfa0",
+            "title_en": "International Trade in an Uncertain World",
+            "title_zh": "不确定世界中的国际贸易",
+            "authors": [
+              "Benny Kleinman",
+              "Ernest Liu",
+              "Stephen Redding",
+              "David Xu"
+            ],
+            "journal": "NBER工作论文",
+            "year": 2026,
+            "date": "2026-07-01",
+            "doi": "10.3386/w35416",
+            "url": "https://doi.org/10.3386/w35416",
+            "source_id": "W7167460166",
+            "source_lane": "working",
+            "abstract_en": "We develop a tractable quantitative model of international trade in which agents make bilateral investments in resilience under general equilibrium uncertainty.Under both complete and incomplete financial markets, we show that these bilateral investments solve a portfolio problem of choosing trade partners.Countries' risk profiles become determinants of trade flows, income and welfare, whose first moments are affected by the second moments of productivity and trade costs.Changes in global economic uncertainty have heterogeneous effects across countries, depending on how they affect real hedging opportunities.The opening of trade can raise or reduce income volatility, but is revealed-preferred to autarky.",
+            "summary_zh": "作者构建了一个可量化的国际贸易模型，核心是研究在一般均衡存在不确定性的情况下，企业如何对贸易伙伴进行双边“韧性投资”。作者发现，无论金融市场是否完善，这种双边投资本质上都是在解决一个选择贸易伙伴的资产组合问题。因此，国家的风险特征成了影响贸易流、收入和福利的关键因素，这些变量的平均水平（一阶矩）会受到生产率和贸易成本的波动性（二阶矩）影响。全球不确定性的变化对不同国家的影响并不相同，这取决于它们能否借此获得真实的避险机会。贸易开放可能增加也可能降低收入波动，但从显示性偏好来看，各国仍更倾向于开放而非自给自足。",
+            "topic": "trade",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "9e166abc7474bfef2d1c9ed51f407c0d",
+            "title_en": "Information, Social Media and International Trade Theory and Evidence Using Twenty Million Online Postings",
+            "title_zh": "信息、社交媒体与国际贸易：基于两千万条在线帖子的理论与证据",
+            "authors": [
+              "George Cui",
+              "Kailin Gao"
+            ],
+            "journal": "IMF工作论文",
+            "year": 2026,
+            "date": "2026-04-01",
+            "doi": "10.5089/9798229044035.001",
+            "url": "https://doi.org/10.5089/9798229044035.001",
+            "source_id": "W7153274688",
+            "source_lane": "working",
+            "abstract_en": "We employ novel data and theoretical frameworks to investigate how a social media platform facilitates information exchange among firms. Our analysis is based on an extensive dataset comprising over 20 million firm-to-firm online interactions on a prominent social platform where participants share information about international trade. We document four empirical patterns. First, we find that firms’ exports grow significantly after the firm begins using the social media platform. Second, firms located geographically closer exchange more information. Third, firms in sectors that have stronger production network relationships interact more on the platform. Finally, firms in more developed regions are more likely to adopt the social media platform. Motivated by these empirical patterns, we develop a quantitative general equilibrium trade model with information frictions and endogenous learning and information sharing.",
+            "summary_zh": "这篇论文研究的是社交媒体如何帮助企业在国际贸易中互通信息。作者用了2000多万条企业间的在线互动数据，这些数据来自一个专门分享国际贸易信息的社交平台。他们发现了四个规律：第一，企业开始用这个平台后，出口明显增长；第二，地理位置越近的企业，信息交流越多；第三，产业链关系越紧密的行业，企业在平台上互动越频繁；第四，经济发达地区的企业更愿意用这个平台。基于这些发现，作者建了一个量化的一般均衡贸易模型，把信息障碍、企业主动学习和信息共享这些因素都考虑进去了。",
+            "topic": "trade",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "macro",
+        "label": "宏观与货币",
+        "papers": [
+          {
+            "paper_key": "02a5cdc4c7da3907e205f41530c4a16c",
+            "title_en": "Monetary Policy in an AI-Driven Two-Speed Economy",
+            "title_zh": "人工智能驱动的双速经济中的货币政策",
+            "authors": [
+              "Joshua Brault",
+              "Maryam Haghighi",
+              "Jing Yang"
+            ],
+            "journal": "加拿大央行工作论文",
+            "year": 2026,
+            "date": "2026-07-24",
+            "doi": "10.34989/swp-2026-27",
+            "url": "https://doi.org/10.34989/swp-2026-27",
+            "source_id": "BOC:2026-27",
+            "source_lane": "working",
+            "abstract_en": "We study the monetary policy response to AI adoption in a two-sector New Keynesian model with a task-based microfoundation, sticky prices, and downward nominal wage rigidity. We distinguish between two forms of AI-driven technological change: augmentation, which raises the productivity of labor within existing tasks, and automation, which displaces labor by reallocating tasks from workers to machines, contracting the set of tasks requiring human input. In the short run, both shocks lower labor demand on net, and with downward nominal wage rigidity, unemployment emerges unless monetary policy provides accommodation. But because monetary policy operates through aggregate demand and cannot target sectors differentially, accommodation that reduces unemployment in the AI-affected sector raises inflationary pressure in the unaffected one, opening a sectoral wedge between the policy rates required to clear the two labor markets. Since, for output-equivalent shocks, automation generates a larger decline in labor demand, the associated wedge is wider and the Phillips curve lies above and to the right of the curve for augmentation---restoring full employment comes at a greater cost of inflation. In addition to the nature of the shock, the aggregate inflationary consequences depend on the breadth of AI adoption across the economy. Under augmentation, as the AI-affected sector grows, its falling sectoral price increasingly offsets the inflation generated elsewhere by monetary accommodation---making aggregate inflation an unreliable signal of the underlying trade-off. For automation both sectoral prices rise and no such offset exists. In our framework, sector-specific AI adoption poses an unambiguous short-run labor market stabilization problem, while its implications for aggregate inflation depend on the nature of technological change, the breadth of adoption, and the response of monetary policy.",
+            "summary_zh": "作者研究人工智能采用 对货币政策意味着什么。模型是两部门新凯恩斯框架，微观基础是任务分配，价格粘性，名义工资向下刚性。作者区分两种技术变化：增强型提高现有任务中劳动生产率；自动化型把任务从人转给机器，压缩需要人力的任务范围。短期两种冲击都净压低劳动需求，工资降不下去就出现失业，除非货币政策宽松。但货币政策只管总需求，没法分部门精准发力，给受AI冲击部门降失业的宽松会在另一部门推高通胀，两个劳动力市场出清所需政策利率之间出现部门楔子。产出等价冲击下，自动化对劳动需求打压更大，楔子更宽，菲利普斯曲线位于增强型之上且偏右，恢复充分就业要付更高通胀代价。通胀后果还取决于AI采用的广度：增强型下受冲击部门变大，其价格下降会抵消别处通胀，总通胀成了不可靠信号；自动化下两部门价格都涨，没有这种抵消。",
+            "topic": "macro",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "01d3c2a95c590c7e97ff815f8a8bec1b",
+            "title_en": "The Employment Concentration Channel of Monetary Policy",
+            "title_zh": "货币政策的就业集中度传导机制",
+            "authors": [
+              "Guido Ascari",
+              "Andrea Colciago",
+              "Marco Membretti"
+            ],
+            "journal": "CEPR工作论文",
+            "year": 2026,
+            "date": "2026-04-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CEPR:21391",
+            "source_lane": "working",
+            "abstract_en": "Under monetary tightenings, employment at small, high-churn firms contracts more than at large incumbents, raising the employment share of large firms. A mixed-frequency BVAR on U.S. data (1982â€“2018) shows that tightenings reduce firm entry and new-entrant hiring, severing inflows into small firms, while higher exit destroys small-firm employment. Large incumbents are comparatively insulated, rarely exiting and exhibiting weak sensitivity to entry conditions. This mechanism raises employment concentration, defining an employment concentration channel of monetary policy. An estimated structural model with heterogeneous firms, endogenous entry and exit, and equilibrium unemployment matches this effect, showing that the concentration channel is quantitatively important in accounting for the empirical output-inflation trade-off.",
+            "summary_zh": "这篇论文研究的是货币政策如何通过影响不同规模企业的就业变动，最终改变整个经济的就业集中度。作者发现，当央行收紧货币政策（比如加息）时，小企业（尤其是那些员工流动率高的）的就业收缩幅度比大企业大得多，结果大企业的就业占比反而上升了。 作者用美国1982到2018年的数据，采用混合频率的贝叶斯向量自回归模型（BVAR）进行分析。结果显示，货币紧缩会抑制新企业成立和新企业招人，导致小企业的新增就业断流；同时，更多小企业倒闭，进一步削减了它们的就业。相比之下，大企业很少倒闭，也不太受新企业进入情况的影响，因此相对稳定。这种机制推高了就业集中度，作者称之为货币政策的“就业集中渠道”。 作者还构建了一个包含异质性企业、企业自由进入退出和均衡失业的结构模型，模拟结果与数据吻合，并表明这个就业集中渠道在解释产出与通胀之间的权衡关系时，作用相当显著。",
+            "topic": "macro",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "0225d3f758d4e34be614f8bdb817da73",
+            "title_en": "Is Monetary Policy Transmission Heterogeneous across Euro Area Countries and over Time? A Reassessment",
+            "title_zh": "欧元区各国货币政策传导是否具有异质性且随时间变化？再评估",
+            "authors": [
+              "Agnès Bénassy-Quéré",
+              "Matthieu Bussière",
+              "Thaïs Masseï",
+              "Arthur Saint-Guilhem"
+            ],
+            "journal": "法国央行工作论文",
+            "year": 2026,
+            "date": "2026-01-01",
+            "doi": "",
+            "url": "",
+            "source_id": "BDF:1062",
+            "source_lane": "working",
+            "abstract_en": "We assess the degree of heterogeneity in monetary policy transmission (MPT) across euro area countries for the period 2000–2025. Using monthly local projections, we estimate the effects of monetary policy on a broad set of transmission variables at both euro area and national levels. First, we find limited heterogeneity of output and inflation responses to monetary policy shocks, despite asymmetric responses of mortgage market-related variables. Second, key structural differences, such as households’ indebtedness, debt maturity, interest rate rigidity and sectoral composition, do shape heterogeneities in MPT across euro area countries, according to our results. Considered jointly, though, these differences partly offset one another, leading to a relatively homogeneous transmission of monetary policy. Third, a monthly FAVAR estimation confirms and broadens our local projections results: asymmetry remains contained for output and inflation, but it is higher for sovereign spreads, food prices, credit variables and our consumption proxy. Finally, a rolling-window estimation of the FAVAR model shows that time-varying heterogeneity in MPT is characterized by temporary and crisis-driven divergences that consistently revert to a low baseline, reflecting key monetary policy interventions rather than deeper structural economic divergences. Unconventional monetary policies play a central role in this pattern: they tend to reduce country divergences during crisis periods, impacting more strongly the countries most affected, hence operating, by design, as a heterogeneous policy shock according to our main metric.",
+            "summary_zh": "作者用2000到2025年的月度数据，评估欧元区各国货币政策传导的差异程度。方法上采用局部投影法，在欧元区和国家层面估计政策对一系列变量的影响。结果发现，产出和通胀对货币政策的反应差异有限，尽管房贷相关变量反应不对称。结构性差异，如家庭负债、债务期限、利率粘性和行业构成，确实影响传导，但这些差异相互抵消，整体传导相对一致。进一步用月度FAVAR模型验证并扩展了结果：产出和通胀的不对称性仍小，但主权利差、食品价格、信贷和消费代理变量的差异更大。滚动窗口估计显示，传导异质性随时间呈临时性、危机驱动的分化，随后回归低基线，反映政策干预而非深层结构分歧。非常规货币政策在危机期间减少国家间分化，对受影响最重的国家影响更强，因此按作者指标，它本身是一种异质性政策冲击。",
+            "topic": "macro",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "development",
+        "label": "发展与政治经济学",
+        "papers": [
+          {
+            "paper_key": "0363eaa40485ea6fd9cebe4b3b7e61d2",
+            "title_en": "Technology Adoption and Women’s Rights: Evidence from Switzerland",
+            "title_zh": "技术采纳与女性权利：来自瑞士的证据",
+            "authors": [
+              "Bjorn Brey",
+              "Edoardo Cefala",
+              "Cecilia García-Peñalosa"
+            ],
+            "journal": "CEPR工作论文",
+            "year": 2026,
+            "date": "2026-03-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CEPR:21271",
+            "source_lane": "working",
+            "abstract_en": "Gender equality and economic growth have historically tended to move together yet identifying causal effects has been difficult. This paper uses data on the support for female suffrage in Switzerland in order to explore the impact of technology adoption on gender norms. We argue that the early adoption of electricity was conducive to local economic development, which in turn led to more egalitarian views on gender. To identify causality, we exploit geographic differences in the potential to generate electricity from waterpower. Our results show that early electricity adoption (by the 1910s) had a lasting impact on municipality vote shares in support of female suffrage in the ground-breaking 1959 referendum. We complement this finding with Cantonal referendums on female voting rights and federal electoral results to show that higher support for female political participation is observed in the data since the 1920s. We then examine how technology may have shaped gender attitudes and find that increased educational investment explains part of the shift. Fertility appears to respond to changing gender norms and reinforce them, but is unlikely the key mechanism in the causal chain.",
+            "summary_zh": "这篇论文研究的是技术普及如何影响性别观念。作者用瑞士的数据，看早期通电（1910年代）是否让当地人对女性投票权更支持。因为水电潜力不同，有些地方通电早，有些晚，这就像个自然实验。作者发现，通电早的乡镇，在1959年那场关键的女性投票权公投中，支持票比例更高，而且这种影响持续了几十年。他们还查了1920年代以来的州级公投和联邦选举数据，发现通电早的地方，女性政治参与的支持度一直更高。至于原因，作者认为，通电推动了经济发展，进而增加了教育投入，这改变了性别观念。生育率虽然也跟着变了，但作者觉得它不是主因，更像是结果。总之，技术普及通过经济和教育，慢慢撬动了性别平等观念。",
+            "topic": "development",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "05146f0140aa87a7944fcca5af70f687",
+            "title_en": "Violence, Political Selection, and State Formation: Evidence from Post-Unification Italy",
+            "title_zh": "暴力、政治精英筛选与国家形成：来自意大利统一后的证据",
+            "authors": [
+              "Paolo Buonanno",
+              "Giampaolo Lecce",
+              "Laura Ogliari",
+              "Giacomo Plevani"
+            ],
+            "journal": "CEPR工作论文",
+            "year": 2026,
+            "date": "2026-04-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CEPR:21428",
+            "source_lane": "working",
+            "abstract_en": "We study how violence reshapes electoral competition and political selection during state formation. Using new district-level data on brigandage, elections, and political elites in post-unification Southern Italy, we show that violence reduced turnout, especially where it increased the risks of accessing polling stations. Beyond participation, brigandage also altered the supply side of politics: exposed districts experienced fewer contested elections and fewer new candidates. At the same time, political representation shifted away from aristocratic deputies and toward more locally embedded elites with administrative experience, while candidate pools also moved away from court-linked elite profiles. We provide evidence that these shifts were also reflected in parliamentary activity, with locally embedded representatives placing relatively greater emphasis on territorially targeted claims. Consistent with this pattern, districts more exposed to violence experienced greater expansion of the road network, but not railways, precisely where conflict induced a stronger shift toward local representation. These findings point to a political-representation channel through which violence shapes development, by altering who competes for office and how public resources are allocated.",
+            "summary_zh": "这篇论文研究的是国家形成过程中，暴力如何改变选举竞争和政治精英的选拔。作者利用意大利统一后南部地区的新数据，包括匪患、选举和政治精英的详细资料，发现暴力降低了投票率，尤其是在那些去投票站风险更高的地方。更关键的是，匪患还影响了政治供给端：受暴力影响严重的地区，竞争性选举和新候选人数量都减少了。同时，政治代表从贵族议员转向了更扎根于当地、有行政经验的精英，候选人的背景也远离了与宫廷有联系的群体。作者还发现，这些变化在议会活动中也有体现，当地代表更关注本地区的事务。与此一致的是，受暴力影响大的地区，道路网络（而非铁路）扩张得更快，而这恰恰发生在冲突导致地方代表力量增强的地方。这些发现揭示了一个“政治代表渠道”：暴力通过改变谁参选、公共资源如何分配，来影响发展。",
+            "topic": "development",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "io",
+        "label": "产业组织与能源",
+        "papers": [
+          {
+            "paper_key": "c9d337b5998f8d44fe0d7ff3664f6f19",
+            "title_en": "Powering the Energy Transition: Progress and Challenges",
+            "title_zh": "推动能源转型：进展与挑战",
+            "authors": [
+              "Natalia Fabra",
+              "Mar Reguant"
+            ],
+            "journal": "CEPR工作论文",
+            "year": 2026,
+            "date": "2026-09-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CEPR:21899",
+            "source_lane": "working",
+            "abstract_en": "The energy transition has advanced rapidly, but unevenly. The costs of wind, solar, and battery technologies have fallen sharply, driving record investments, while electrification of transport, heating, and industry continues to lag, weakening the revenues needed to sustain further clean investment. We review the Industrial Organization literature on the market-design questions raised by this mismatch. On the supply side, we discuss why long-term contracts are essential for financing clean assets and how their design and the auctions that allocate them shape efficiency and the scale of investments; investments in transmission, storage, and demand-response policies are also needed to help power systems accommodate intermittency across space and time. On the demand side, we examine why electrification remains sluggish despite declining clean-electricity costs. An overarching theme is the social acceptance and distributional consequences of the transition, as well as the policies designed to address them. Further research in this area could play an important role in informing ongoing policy design.",
+            "summary_zh": "能源转型推进很快，但很不均衡。风电、光伏和电池成本大幅下降，带动投资创下纪录，可交通、供暖和工业的电气化却一直跟不上，削弱了维持后续清洁投资所需的收入。作者梳理产业组织文献，讨论这种供需错配带来的市场设计问题。供给侧，作者说明长期合同为何对清洁资产融资不可或缺，合同设计和分配合同的拍卖如何影响效率与投资规模，还指出输电、储能和需求响应政策也得跟上，帮电力系统消化清洁电源在时间和空间上的间歇性。需求侧，作者追问：清洁电力成本都降了，电气化为何仍然迟缓。一个贯穿全文的主题是转型的社会接受度和分配后果，以及针对这些问题的政策。作者认为，这一领域的后续研究能为政策设计提供参考。",
+            "topic": "io",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "aed7fb123f077e25c8ce6e7a037fc7de",
+            "title_en": "The “Value Principle” in Management Practices, Organizational Design and Industrial Organization",
+            "title_zh": "管理实践、组织设计与产业组织中的“价值原则”",
+            "authors": [
+              "Patrick Legros",
+              "Andrew Newman"
+            ],
+            "journal": "CEPR工作论文",
+            "year": 2025,
+            "date": "2025-09-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CEPR:20627",
+            "source_lane": "working",
+            "abstract_en": "The value principle in organizational economics states that the net market value of the goods that a firm sells is a key determinant of its organizational design. We survey and extend some recent developments in the theoretical literature at the nexus of organizational and industrial economics, focusing on this precept as the unifying theme. Under perfect competition, we study how market price influences the use of scarce professional management and the degree of organizational heterogeneity in an industry. In a more general setting, we show how changes in demand influence not only the use of professional management, but also the size and the market power of firms. And we show how prices can affect the internal control structure of firms, sometimes in highly distorted ways. We discuss applications to comparative industrial organization and to technological diffusion.",
+            "summary_zh": "这篇论文讲的是组织经济学里的一个核心观点，“价值原则”。简单说，就是一家企业卖的产品在市场上的净价值，会直接影响它内部怎么管、怎么设计组织架构。作者梳理并拓展了组织经济学和产业经济学交叉领域的一些最新理论，把“价值原则”作为主线串起来。 在完全竞争市场下，作者分析了市场价格如何影响企业雇佣专业管理人员的多少，以及行业内企业组织形式的差异。放到更一般的情况里，作者又展示了需求变化不仅影响专业管理人员的配置，还会改变企业规模和它在市场上的议价能力。更有意思的是，价格还会扭曲企业内部的管控结构，有时扭曲得还很厉害。最后，作者还聊了这些理论在比较产业组织和技术扩散上的应用。",
+            "topic": "io",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "public",
+        "label": "公共经济学",
+        "papers": [
+          {
+            "paper_key": "f660209e7aec2ca691c649789893df76",
+            "title_en": "Public Finance in the Age of AI: A Primer",
+            "title_zh": "人工智能时代的公共财政：入门指南",
+            "authors": [
+              "Anton Korinek",
+              "Lee Lockwood"
+            ],
+            "journal": "NBER工作论文",
+            "year": 2026,
+            "date": "2026-02-01",
+            "doi": "10.3386/w34873",
+            "url": "https://doi.org/10.3386/w34873",
+            "source_id": "W7131081601",
+            "source_lane": "working",
+            "abstract_en": "Transformative artificial intelligence (TAI) -machines capable of performing virtually all economically valuable work -may gradually erode the two main tax bases that underpin modern tax systems: labor income and human consumption.We examine optimal taxation across two stages of artificial intelligence (AI)-driven transformation.First, if AI displaces human labor, we find that consumption taxation may serve as a primary revenue instrument, with differential commodity taxation gaining renewed relevance as labor distortions lose their constraining role.In the second stage, as autonomous artificial general intelligence (AGI) systems both produce most economic value and absorb a growing share of resources, taxing human consumption may become an inadequate means of raising revenue.We show that the taxation of autonomous AGI systems can be framed as an optimal harvesting problem and find that the resulting tax rate on AGI depends on the rate at which humans discount the future.Our analysis provides a theoretically grounded approach to balancing efficiency and equity in the Age of AI.We also apply our insights to evaluate specific proposals such as taxes on robots, compute, and tokens, as well as sovereign wealth funds and windfall clauses.",
+            "summary_zh": "这篇论文讨论的是人工智能时代公共财政怎么收税的问题。作者把AI分成两个阶段来看。第一阶段，AI替代人类劳动，传统的劳动所得税和消费税两大税基会慢慢萎缩。这时候，消费税可能成为主要收入来源，而且对不同商品差别征税会重新变得重要，因为劳动力扭曲不再限制税收设计。第二阶段，自主的通用人工智能系统（AGI）生产大部分经济价值并消耗越来越多资源，光靠征人类消费税就不够了。作者提出，对AGI系统征税可以看作一个最优资源开采问题，税率取决于人类对未来收益的打折程度。文章还评估了机器人税、算力税、代币税、主权财富基金和暴利条款等具体方案，给出了一套兼顾效率和公平的理论框架。",
+            "topic": "public",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "8504b0b51f539677db5d080ca57491e1",
+            "title_en": "No Taxation Without Administration: Bringing The State Back Into The Public Finance Of Developing Countries",
+            "title_zh": "无行政则无税收：将国家带回发展中国家的公共财政",
+            "authors": [
+              "Anders Hedegaard Jensen",
+              "Jonathan Weigel"
+            ],
+            "journal": "NBER工作论文",
+            "year": 2026,
+            "date": "2026-01-01",
+            "doi": "10.3386/w34729",
+            "url": "https://doi.org/10.3386/w34729",
+            "source_id": "W7125700243",
+            "source_lane": "working",
+            "abstract_en": "The empirical economics literature on taxation in developing countries has centered on the importance of third-party information for enforcement.Yet, while surely a long-run objective, leveraging such information remains out of reach in many developing countries due to largely informal economies and low state capacity.This article examines an emerging complementary literature focused on strengthening the 'sinews' of state capacity: tax administration.We argue that reforms to the organizational structure, personnel management, and task management of tax authorities have potential to raise tax capacity in developing countries.We also argue that efforts to improve the state's legitimacypopular acceptance of its right to taxcan increase capacity and may complement investments in tax administration.Our approach bridges a long-standing divide between how scholars in public finance and political economy approach tax capacity building in developing countries.",
+            "summary_zh": "作者梳理了发展中国家税收研究的两个脉络。传统文献强调第三方信息对税收执法的重要性，但许多国家经济非正规、政府能力弱，这招很难落地。因此作者转向一个新兴的互补方向：强化国家能力的“筋骨”，税收管理本身。他们认为，改革税务机构的组织结构、人事管理和任务流程，有潜力提升发展中国家的征税能力。同时，改善国家合法性（即民众认可政府有征税权）也能增强征税能力，而且与管理投入相互促进。这个分析框架把公共财政和政治经济学两派学者长期割裂的视角重新接上了。",
+            "topic": "public",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "methods",
+        "label": "计量方法",
+        "papers": [
+          {
+            "paper_key": "93cff2410cf5ccb8ef0fc71c955f92b9",
+            "title_en": "Fitting the Bivariate Mixed Poisson Regression Model by Maximum Simulated Likelihood",
+            "title_zh": "通过最大模拟似然拟合双变量混合泊松回归模型",
+            "authors": [
+              "Stephen Jenkins",
+              "Fernando Rios-Avila"
+            ],
+            "journal": "IZA工作论文",
+            "year": 2026,
+            "date": "2026-04-01",
+            "doi": "",
+            "url": "",
+            "source_id": "IZA:18606",
+            "source_lane": "working",
+            "abstract_en": "We introduce bimpoisson, a program to fit the bivariate mixed Poisson regression model by maximum simulated likelihood (MSL) as per Munkin and Trivedi (The Econometrics Journal, 1999). Options include: sampling function or standard MSL; pseudo-random uniform or Halton draws, antithetic acceleration, and a first-order bias correction. We also provide post-estimation tools to predict conditional count probabilities and expected counts. We examine bimpoissonâ€™s performance using Monte Carlo simulation analysis and provide two empirical illustrations using data from Xu and Hardin (The Stata Journal, 2016) and Munkin and Trivedi (1999). We provide practical advice about which MSL estimator and types of draws and number to use.",
+            "summary_zh": "作者开发了一个叫bimpoisson的统计软件包，用来拟合二元混合泊松回归模型。这个模型用最大模拟似然方法估计，方法来自Munkin和Trivedi1999年的论文。软件提供了多种选项：可以选择不同的抽样函数或标准MSL估计；支持伪随机均匀数或Halton序列抽样，还能用对偶加速和一级偏差校正。估计完成后，作者还提供了预测工具，可以算出条件计数概率和期望计数。为了验证效果，作者做了蒙特卡洛模拟分析，并用了Xu和Hardin（2016）以及Munkin和Trivedi（1999）的两组实际数据做例子。最后，作者给出了实用建议，告诉用户该选哪种MSL估计器、用哪种抽样方式、抽多少次比较合适。",
+            "topic": "methods",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "c8e2afa203d308183071cc0303639ee2",
+            "title_en": "Gaussian Maximum Likelihood Estimation of Static and Dynamic Factor Models",
+            "title_zh": "静态与动态因子模型的高斯最大似然估计",
+            "authors": [
+              "Peter A. Zadrozny"
+            ],
+            "journal": "CESifo工作论文",
+            "year": 2026,
+            "date": "2026-01-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CESifo:12380",
+            "source_lane": "working",
+            "abstract_en": "The paper derives and proves results of Gaussian maximum likelihood estimation of constant unknowns (coefficients, covariances) and time-varying unknowns (factors, disturbances) of static and dynamic factor models and, thereby, extends the statistics and econometrics literatures on estimation and statistical evaluation of estimates of the unknowns. The paper presents a new, general, unified, and one-step-comprehensive method for simultaneously estimating and statistically evaluating all constant and time-varying unknowns of static and dynamic factor models.",
+            "summary_zh": "这篇论文研究的是如何用高斯最大似然法同时估计静态和动态因子模型中的两类未知量：一类是固定不变的参数（比如系数和协方差），另一类是随时间变化的变量（比如因子和扰动项）。作者推导并证明了相关估计量的统计性质，从而把统计学和计量经济学中关于因子模型估计与评估的方法往前推了一步。作者提出了一套新的、通用的、统一的一步法，可以一次性完成所有未知量的估计，还能同时做统计推断。简单说，就是给因子模型找了一个更完整的估计框架，不用分步走，一步到位。",
+            "topic": "methods",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "theory",
+        "label": "微观理论",
+        "papers": [
+          {
+            "paper_key": "34b5de0d1962632af8751256a7afe2b9",
+            "title_en": "Natural Language Equilibrium I: Off-Path Conventions",
+            "title_zh": "自然语言均衡 I：路径外约定",
+            "authors": [
+              "Phil Reny"
+            ],
+            "journal": "BFI工作论文",
+            "year": 2025,
+            "date": "2025-05-07",
+            "doi": "",
+            "url": "",
+            "source_id": "BFI:a9029b37cfb0e6135988",
+            "source_lane": "working",
+            "abstract_en": "We incorporate natural language into games, focusing here on the class of signaling games. The sender, using a commonly understood language, can make cheap-talk statements about the strategy that he is using. Because the sender knows his strategy, any statement that he makes is either true according to its literal meaning or is intentionally false or deceptive. It is shown that if the receiver interprets any off-path statement by the sender as true unless it may be seen as a rational attempt to deceive, then the only outcomes of the game without language that survive the introduction of language are, generically, those that are stable in the sense of Kohlberg and Mertens (1986). Incorporating language into game theory can thus reap signiﬁcant beneﬁts, with the potential to signiﬁcantly reﬁne equilibrium predictions in ways that are more intuitive and more easily justiﬁed than when language is absent.",
+            "summary_zh": "作者把自然语言引入信号博弈。发送者用双方都懂的语言，对自己将采用的策略做无成本的廉价陈述。由于发送者清楚自己的策略，他说的话要么按字面意思为真，要么就是故意撒谎或误导。作者证明，如果接收者把发送者任何偏离均衡路径的陈述都当作真的，除非该陈述可被视为理性的欺骗企图，那么在没有语言时的博弈中，能经受住引入语言考验的结果，一般来说恰好是Kohlberg和Mertens（1986）意义上稳定的那些结果。由此作者认为，把语言纳入博弈论能带来明显好处，有望以更直观、更容易辩护的方式显著精炼均衡预测。",
+            "topic": "theory",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "c555c2cdba7bf1bbadc976e0bf81b2f8",
+            "title_en": "The Demand for Grandchildren: Children as Family Public Goods and Implications for Cooperative Bargaining",
+            "title_zh": "对孙辈的需求：作为家庭公共品的子女及其对合作讨价还价的含义",
+            "authors": [
+              "Janice Compton",
+              "Robert Pollak"
+            ],
+            "journal": "NBER工作论文",
+            "year": 2026,
+            "date": "2026-01-01",
+            "doi": "10.3386/w34741",
+            "url": "https://doi.org/10.3386/w34741",
+            "source_id": "W7125711711",
+            "source_lane": "working",
+            "abstract_en": "The title says it all.Well, almost all.To economists, the situation suggests bargaining between parents and grandparents, where the grandparents can \"bribe\" the parents to have more children or to have children sooner than they otherwise would.Because cash transfers seem inappropriate, bribes are likely to take the form of promises of child care or down payments on houses.Coasian bargaining or, more generally, cooperative bargaining models with their explicit assumption of Pareto efficiency offer accessible off-the shelf models.Larger family size (e.g., the participation of both pairs of grandparents) and family complexity (e.g., resulting from divorce and repartnering in the parents' generation or the grandparents' generation) threaten the assumption of zero or low transaction costs.Low transaction costs, explicit in the Coasian analysis and implicit in cooperative game theory's assumption of Pareto efficiency, play a crucial role.The generalization of family economics from the analysis of bargaining between spouses to include family members beyond the household will at some point require replacing Coasian and cooperative bargaining with models of noncooperative bargaining.",
+            "summary_zh": "这篇论文讲的是祖父母和父母之间关于生孩子的讨价还价。经济学家认为，祖父母想多要孙辈，就会“贿赂”父母，让他们早点生、多生几个。但直接给钱不合适，所以贿赂通常换成带娃承诺或者帮忙付买房首付。这种交易可以用科斯谈判或合作博弈模型来解释，前提是交易成本很低。不过，如果家庭规模变大，比如两边祖父母都掺和进来，或者家庭关系变复杂，比如父母或祖父母离异再婚，交易成本就会上升，合作谈判的假设就靠不住了。作者指出，未来研究家庭经济学，不能只盯着夫妻俩，还得把其他家庭成员算进来，这时候就得用非合作博弈模型来代替科斯和合作谈判那一套。",
+            "topic": "theory",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      },
+      {
+        "id": "behavior",
+        "label": "行为与家庭金融",
+        "papers": [
+          {
+            "paper_key": "7afe446ba52d4f2277d0dd3e4fdcf87c",
+            "title_en": "Behavioral Economics of AI: LLM Biases and Corrections",
+            "title_zh": "人工智能的行为经济学：大型语言模型的偏差与纠正",
+            "authors": [
+              "Pietro Bini",
+              "Lin William Cong",
+              "Xing Huang",
+              "Lawrence Jin"
+            ],
+            "journal": "NBER工作论文",
+            "year": 2026,
+            "date": "2026-01-01",
+            "doi": "10.3386/w34745",
+            "url": "https://doi.org/10.3386/w34745",
+            "source_id": "W7125677016",
+            "source_lane": "working",
+            "abstract_en": "Do generative AI models, particularly large language models (LLMs), exhibit systematic behavioral biases in economic and financial decisions?If so, how can these biases be mitigated?Drawing on the cognitive psychology and experimental economics literatures, we conduct the most comprehensive set of experiments to date-originally designed to document human biases-on prominent LLM families across model versions and scales.We document systematic patterns in LLM behavior.In preference-based tasks, responses become more human-like as models become more advanced or larger, while in belief-based tasks, advanced large-scale models frequently generate rational responses.Prompting LLMs to make rational decisions reduces biases.",
+            "summary_zh": "这篇论文研究的是，像ChatGPT这样的大语言模型，在做经济或金融决策时，会不会像人一样犯系统性的认知偏差。如果有，能不能想办法纠正。作者借鉴了认知心理学和实验经济学里用来测试人类偏差的那些经典实验，对几款主流的大模型做了最全面的测试，还比较了不同版本和参数规模。结果发现，模型的行为确实有规律：在涉及个人偏好的任务里，模型越新、参数越大，回答就越像真人；但在需要判断概率或信念的任务里，大型先进模型反而经常给出理性答案。另外，只要在提问时明确要求模型做出理性决策，就能明显减少偏差。",
+            "topic": "behavior",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "f0157f86d10c1bab973cfa9588571443",
+            "title_en": "Treatment Targeting by Scaled Behavioral Measurement",
+            "title_zh": "通过规模化行为测量进行目标治疗分配",
+            "authors": [
+              "Kevin Bauer",
+              "Andreas Grunewald",
+              "Florian Hett",
+              "Johanna Jagow",
+              "Maximilian Speicher"
+            ],
+            "journal": "CESifo工作论文",
+            "year": 2026,
+            "date": "2026-01-01",
+            "doi": "",
+            "url": "",
+            "source_id": "CESifo:12772",
+            "source_lane": "working",
+            "abstract_en": "We study how behavioral economics and machine learning can jointly construct effective treatment-targeting rules. In a large field experiment at an online fashion retailer with approximately 500,000 consumers, we test a loss-framed discount message. We elicit individual loss aversion in a nested incentivized behavioral measurement experiment (N=582) and use machine learning to impute it from digital footprints. Targeting based on scaled behavioral measurement yields statistically significant revenue gains and outperforms causal forests. The results show how scaling behavioral measurement can improve algorithmic treatment assignment relative to purely data-driven approaches, especially when pilot data are unavailable, noisy, or costly.",
+            "summary_zh": "作者研究的是怎么把行为经济学和机器学习结合起来，制定更有效的“谁该被干预”的规则。他们在一家线上时装零售商那里做了大型实地实验，涉及大约50万消费者，测试了一种“损失框架”的折扣信息。作者还嵌套了一个有激励的行为测量实验（582人参与），测出每个人的损失厌恶程度，然后用机器学习根据消费者的数字足迹来推算这个指标。结果发现，基于这种规模化行为测量来锁定干预对象，能带来统计上显著的收入增长，效果比因果森林更好。这说明，相比纯粹靠数据驱动的方法，规模化行为测量能改进算法分配干预方案，尤其是在没有试点数据、数据有噪音或成本很高的时候。",
+            "topic": "behavior",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "c7e2b4c23c9f1cd0790f146c47838c56",
+            "title_en": "Thinking versus Doing: Cognitive Capacity, Decision Making and Medical Diagnosis",
+            "title_zh": "思考与行动：认知能力、决策与医疗诊断",
+            "authors": [
+              "Benjamin Handel",
+              "Louis-Jonas Heizlsperger",
+              "Jonas Knecht",
+              "Jonathan Kolstad",
+              "Ulrike Malmendier",
+              "Filip Matějka"
+            ],
+            "journal": "NBER工作论文",
+            "year": 2026,
+            "date": "2026-04-01",
+            "doi": "10.3386/w35034",
+            "url": "https://doi.org/10.3386/w35034",
+            "source_id": "W7151104533",
+            "source_lane": "working",
+            "abstract_en": "We study how situational fluctuations in cognitive capacity shape behavior in high-stakes, real-time decision-making. Drawing on recent advances in behavioral economics that revolve around inattention, cognition and complexity, we show that cognitive load influences how physicians in emergency departments allocate mental effort and attention when making diagnostic and treatment decisions. We use quasi-random variation in patient-physician pairings, along with granular electronic medical record and audit-log data from many clinical interactions, to show that, under higher cognitive load, physicians substitute mental deliberation with more numerous but less precise diagnostic actions. Specifically, we document that higher load (i) increases the total number of orders of diagnostic tests (ii) reduces the use of targeted, but more uncommon tests (iii) increases the use of common tests and (iv) increases uncertainty in diagnostic beliefs. Cognitive load impacts downstream inpatient admission from the emergency department: a physician in the highest cognitive load decile increases admissions by 28% relative to the same physician in the lowest cognitive load decile, for the exact same kind of patient. These results offer novel field-based evidence on the dynamics of attention and belief formation, and shed light on how cognitive constraints shape diagnostic behavior in complex, real-world environments.",
+            "summary_zh": "我们研究了情境性认知能力波动如何影响高风险、实时决策中的行为。借鉴行为经济学中围绕注意力缺失、认知和复杂性的最新进展，我们表明认知负荷影响急诊科医生在做出诊断和治疗决策时如何分配心理努力和注意力。我们利用患者-医生配对中的准随机变异，以及来自许多临床交互的细粒度电子病历和审计日志数据，表明在较高认知负荷下，医生用数量更多但精确度较低的诊断行为替代心理深思。具体而言，我们记录了较高负荷（i）增加了诊断测试的总订单数量，（ii）减少了对针对性较强但较少见的测试的使用，（iii）增加了对常见测试的使用，以及（iv）增加了诊断信念的不确定性。认知负荷影响急诊科后续的住院收治：相对于同一医生在最低认知负荷十分位时，最高认知负荷十分位的医生对完全相同类型的患者的收治增加了28%。这些结果提供了关于注意力和信念形成动态的新颖实地证据，并揭示了认知约束如何在复杂的现实环境中塑造诊断行为。",
+            "topic": "behavior",
+            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "source": "TopSight",
+            "match_level": ""
+          }
+        ],
+        "updated_at": "2026-10-14T02:07:24.770Z",
+        "status": "updated"
+      }
+    ],
+    "window_note": "2025 年起的主题检索选文；非当月全部新论文"
+  },
+  "source_checks": [
+    {
+      "term": "labor",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": true
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "international trade",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "complete",
+          "count": 1,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "monetary policy",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": true
+        },
+        "formal": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": true
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "development",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": true
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "industrial organization",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "complete",
+          "count": 1,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 3,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "public finance",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": true
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "econometrics",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "game theory",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 3,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "behavioral economics",
+      "journal": "",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "complete",
+          "count": 5,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "monetary policy",
+      "journal": "American Economic Review",
+      "lanes": {
+        "external_authority": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "market power",
+      "journal": "Journal of Political Economy",
+      "lanes": {
+        "external_authority": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "economic growth",
+      "journal": "Quarterly Journal of Economics",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "international trade",
+      "journal": "Review of Economic Studies",
+      "lanes": {
+        "external_authority": {
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    },
+    {
+      "term": "causal inference",
+      "journal": "Econometrica",
+      "lanes": {
+        "external_authority": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": false
+        },
+        "formal": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": true
+        },
+        "working": {
+          "status": "empty",
+          "count": 0,
+          "error": "",
+          "bounded": false
+        }
+      },
+      "ok": true
+    }
+  ]
 }

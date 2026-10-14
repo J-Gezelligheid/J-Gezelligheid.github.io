@@ -13,7 +13,8 @@
   }
 
   function saveComments(comments) {
-    localStorage.setItem(commentsKey, JSON.stringify(comments));
+    try { localStorage.setItem(commentsKey, JSON.stringify(comments)); return true; }
+    catch (_) { return false; }
   }
 
   function renderComments() {
@@ -52,13 +53,14 @@
     const countEl = document.getElementById("frontier-like-count");
     if (!btn || !countEl) return;
 
-    let count = Number(localStorage.getItem(likeKey) || "0");
+    let count = 0;
+    try { count = Number(localStorage.getItem(likeKey) || "0"); } catch (_) { /* Storage can be disabled. */ }
     if (!Number.isFinite(count) || count < 0) count = 0;
     countEl.textContent = String(count);
 
     btn.addEventListener("click", function () {
       count += 1;
-      localStorage.setItem(likeKey, String(count));
+      try { localStorage.setItem(likeKey, String(count)); } catch (_) { /* Session-only counter. */ }
       countEl.textContent = String(count);
     });
   }
@@ -78,7 +80,10 @@
         text: text,
         time: new Date().toLocaleString(),
       });
-      saveComments(comments);
+      if (!saveComments(comments)) {
+        alert("浏览器禁止本地存储，留言未保存。请复制保留你的文字。");
+        return;
+      }
       input.value = "";
       renderComments();
     });
@@ -102,6 +107,31 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
+    const search = document.getElementById("frontier-search");
+    const topic = document.getElementById("frontier-topic");
+    const area = document.getElementById("working-papers");
+    if (search && topic && area) {
+      const papers = Array.from(area.querySelectorAll("[data-frontier-paper]"));
+      const records = papers.map(function (paper) { return { paper: paper, text: paper.textContent.toLocaleLowerCase() }; });
+      function filterPapers() {
+        const query = search.value.trim().toLocaleLowerCase();
+        let count = 0;
+        records.forEach(function (record) {
+          const show = (topic.value === "all" || record.paper.dataset.topic === topic.value) && (!query || record.text.includes(query));
+          record.paper.hidden = !show;
+          if (show) count += 1;
+        });
+        area.querySelectorAll("[data-frontier-topic]").forEach(function (group) {
+          group.hidden = !Array.from(group.querySelectorAll("[data-frontier-paper]")).some(function (paper) { return !paper.hidden; });
+        });
+        document.getElementById("frontier-result-count").textContent = "显示 " + count + " / " + papers.length + " 篇";
+        document.getElementById("frontier-no-results").hidden = count !== 0;
+      }
+      area.querySelector(".frontier-tools").hidden = false;
+      search.addEventListener("input", filterPapers);
+      topic.addEventListener("change", filterPapers);
+      filterPapers();
+    }
     if (!document.getElementById("frontier-feedback")) return;
     initLike();
     initComments();

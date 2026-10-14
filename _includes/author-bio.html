@@ -36,15 +36,16 @@
 <!-- Lastly modified by Caiqi JIN in 2024/11/11 -->
 {% if page.url contains '/frontier/' %}
 <div class="frontier-side-toc">
-  <h5>Frontier TOC</h5>
+  <h5>Frontier 导航</h5>
   <ul>
+    <li><a href="#working-papers">工作论文选读</a></li>
     {% assign journals = site.data.frontier.journals %}
     {% if journals and journals.size > 0 %}
     {% for journal in journals %}
     <li><a href="#journal-{{ forloop.index }}">{{ journal.name }}</a></li>
     {% endfor %}
     {% endif %}
-    <li><a href="#nber-weekly">NBER Weekly</a></li>
+    <li><a href="#nber-weekly">NBER 往期存档</a></li>
     <li><a href="#frontier-feedback">Like & Comment</a></li>
   </ul>
 </div>

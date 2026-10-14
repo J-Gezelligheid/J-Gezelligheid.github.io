@@ -55,7 +55,7 @@ def validate(root: Path, today: date) -> dict:
         try:
             stamp = datetime.fromisoformat(data["updated_at"].replace("Z", "+00:00"))
             age = (today - stamp.date()).days
-            if age > 7:
+            if age > (40 if name == 'frontier' else 7):
                 warn(f"{name}: snapshot is {age} days old ({stamp.date()})")
             if age < 0:
                 warn(f"{name}: future update date")
@@ -139,6 +139,33 @@ def validate(root: Path, today: date) -> dict:
     translation = obj(frontier.get("translation"), "frontier.translation")
     if translation.get("fail_count"):
         warn("frontier.translation: translation failures recorded")
+
+    if frontier.get('schema_version') == 2:
+        seen_keys = set()
+        topics = array(obj(frontier.get('working'), 'frontier.working').get('topics'), 'frontier.topics')
+        if len(topics) != 9:
+            error('frontier: expected nine topic groups')
+        for topic in topics:
+            label = 'frontier.working.' + str(topic.get('id'))
+            papers = array(topic.get('papers'), label)
+            report['counts'][label] = len(papers)
+            for p in papers:
+                if p.get('source') != 'TopSight' or p.get('source_lane') != 'working':
+                    error(label + ': incorrect provenance')
+                if not p.get('title_en') or not p.get('paper_key') or not p.get('retrieved_at'):
+                    error(label + ': missing title, identity or retrieval date')
+                if p.get('paper_key') in seen_keys:
+                    error(label + ': duplicate paper across topics')
+                seen_keys.add(p.get('paper_key'))
+                if p.get('url'):
+                    check_url(p['url'], label)
+                elif not p.get('source_id'):
+                    error(label + ': no source URL or identifier')
+                if not p.get('abstract_en') or not p.get('summary_zh'):
+                    warn(label + ': missing abstract or Chinese reading note')
+        for journal in frontier.get('journals', []):
+            if not journal.get('updated_at') or not journal.get('source'):
+                error('frontier: journal source/date missing')
 
     for name, key in (("drug-watch.md", "drug_watch"), ("frontier.md", "frontier")):
         try:
