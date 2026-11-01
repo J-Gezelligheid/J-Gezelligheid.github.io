@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T02:07:24.770Z",
+  "updated_at": "2026-11-01T09:02:59.559474+00:00",
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
@@ -750,7 +750,7 @@
     "updated_at": "2026-03-06 06:01:31"
   },
   "schema_version": 2,
-  "checked_at": "2026-10-14T02:07:24.770Z",
+  "checked_at": "2026-11-01T09:02:59.559474+00:00",
   "working": {
     "source": "TopSight",
     "topics": [
@@ -759,54 +759,72 @@
         "label": "劳动与不平等",
         "papers": [
           {
-            "paper_key": "0acc085b5c57457f1e002b55a81120a3",
-            "title_en": "Company Wage Policy in a Low-Wage Labor Market",
-            "title_zh": "低工资劳动力市场中的公司工资政策",
+            "paper_key": "fa6fff0cdc05a85155223a6a7a9984e3",
+            "title_en": "Inflexibility and the Stalled Progress of American Women in the Labor Market",
+            "title_zh": "僵化与美国女性在劳动力市场中的停滞进展",
             "authors": [
-              "Giulia Giupponi",
-              "Stephen Machin"
+              "Stefania Albanesi"
             ],
             "journal": "CEPR工作论文",
             "year": 2026,
-            "date": "2026-03-01",
+            "date": "2026-04-01",
             "doi": "",
             "url": "",
-            "source_id": "CEPR:21345",
+            "source_id": "CEPR:21426",
             "source_lane": "working",
-            "abstract_en": "We study how firms set wages for their employees when they can legally age-discriminate across workers. We exploit an age-specific minimum wage change in the UK, which raised the minimum applying to workers aged 25 and over, leaving unchanged the minima for younger workers. Using matched employer-employee data on a low-paying sector, we show large, positive wage spillovers on workers aged under 25, which arise within firms from company wage policy. Pay equity norms offer the most parsimonious explanation for the emergence of spillovers. The effects that we document also operate in other low-paying sectors of the UK labor market.",
-            "summary_zh": "这篇论文研究的是企业在法律允许按年龄定薪的情况下，如何给员工定工资。作者利用英国一项针对特定年龄的最低工资调整，25岁及以上工人的最低工资提高了，但更年轻工人的最低工资没变。他们用英国低薪行业的雇主-雇员匹配数据发现，25岁以下工人的工资也出现了大幅上涨，这种溢出效应来自公司内部的工资政策。作者认为，最简洁的解释是公司内部存在“同工同酬”的公平观念。这种效应在英国其他低薪行业也同样存在。",
+            "abstract_en": "Care responsibilities constrain women's labor supply, particularly when labor markets lack flexibility. This chapter examines how workplace inflexibility has shaped women's employment in the United States. I document two sources of inflexibility that contributed to the stagnation of women's labor force participation since the 1990s: changes in the earnings structure that penalize reduced work hours, and the absence of supportive family policies. The COVID-19 pandemic provides a natural experiment to assess the importance of flexibility. I show that the widespread adoption of remote work relaxed flexibility constraints, and employment growth during 2019â€“2023 was strongly associated with occupational flexibility for both men and women. However, as return-to-office mandates intensified after 2023, inflexibility became a significant predictor of employment declines only for women. This gender-specific pattern is consistent with women's greater care responsibilities and suggests that the availability of flexible work arrangements is a key determinant of their labor market outcomes.",
+            "summary_zh": "这篇论文研究的是美国女性劳动力参与率自1990年代起停滞不前的原因。作者认为，核心问题出在劳动力市场缺乏灵活性。具体来说，作者指出了两个导致僵化的因素：一是收入结构变化，让减少工作时间的人在经济上吃亏；二是缺乏支持家庭的政策，比如带薪育儿假。作者利用新冠疫情作为一次自然实验，发现远程办公普及后，灵活性约束被放松，2019到2023年间，无论男女，职业灵活性越高，就业增长就越快。但2023年后，随着公司要求员工回办公室上班，灵活性不足只对女性的就业下降产生了显著影响。作者认为，这跟女性承担更多照顾家庭的责任有关，说明灵活的工作安排是决定女性职场处境的关键因素。",
             "topic": "labor",
-            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
             "source": "TopSight",
             "match_level": ""
           },
           {
-            "paper_key": "05ff754997e39e96aa84340bf79f5b02",
-            "title_en": "Inequality, Informality, and Optimal Progressivity",
-            "title_zh": "不平等、非正规经济与最优累进税制",
+            "paper_key": "eb815fec6590ce1dfdb60b7a26a09073",
+            "title_en": "Taxing Labor: Firm R&D, Automation and the Labor Share",
+            "title_zh": "对劳动征税：企业研发、自动化与劳动份额",
             "authors": [
-              "Oscar Becerra",
-              "Luigi-Maria Briglia",
-              "John Leon-Diaz",
-              "Óscar Valencia",
-              "Ralph Luetticke"
+              "Hyejin Ku",
+              "Uta Schönberg",
+              "Ragnhild Schreiner"
             ],
             "journal": "CEPR工作论文",
             "year": 2026,
-            "date": "2026-02-01",
+            "date": "2026-07-01",
             "doi": "",
             "url": "",
-            "source_id": "CEPR:21229",
+            "source_id": "CEPR:21695",
             "source_lane": "working",
-            "abstract_en": "How should governments design progressive labor-income taxes when workers can shift labor supply into untaxed informal work? Using household surveys for Brazil, Colombia, Mexico, and Peru, we document steep gradients in informality, employment, and unemployment across the income distribution. We analyze non-linear tax schedules in a heterogeneous-agent model with search frictions, savings, and an endogenous formal â€” informal labor-supply margin. Progressivity operates through an inclusion margin at the bottom-negative income taxes increase formal attachment â€” and an evasion margin at the top, where higher marginal tax rates shift labor supply into the untaxed sector. These opposing forces imply that both welfare and formality are hump-shaped in progressivity; in a calibration to Mexico, the welfare-maximizing degree of progressivity is about five times the current level.",
-            "summary_zh": "这篇论文研究的是：当工人可以把劳动时间转移到不交税的“地下经济”（即非正规部门）时，政府该怎么设计累进的劳动所得税。作者用了巴西、哥伦比亚、墨西哥和秘鲁的家庭调查数据，发现收入越高的人，在非正规部门就业、正式就业和失业的比例差异很大。他们建了一个包含搜索摩擦、储蓄和内生选择正规或非正规工作的异质性代理人模型，来分析非线性税率。累进税在两头起作用：对低收入者，负所得税能让他们更愿意进入正规部门（这叫“包容效应”）；对高收入者，高边际税率会逼他们把劳动转到不交税的非正规部门（这叫“逃税效应”）。这两个相反的力量导致社会福利和正规就业率都随着累进程度呈“倒U型”变化。作者用墨西哥的数据校准模型后发现，能让福利最大化的累进程度，大约是当前水平的五倍。",
+            "abstract_en": "This paper provides new micro-level evidence on how labor taxation shapes firm behavior, exploiting an EU-mandated payroll tax reform in Norway. Combining administrative and survey data, we find that firms facing larger tax increases sharply cut employment but also increased R&D spending, implemented labor cost-saving innovations, and adopted more automation. While these responses led to improvements in labor and total factor productivity within the firm, the firmâ€™s labor share fell. These effects persisted even after the tax hike was unexpectedly reversed three years later, suggesting a lasting shift toward more capital-intensive production in response to higher labor costs.",
+            "summary_zh": "作者利用挪威一场由欧盟指令推动的工资税改革，结合行政和调查数据，考察劳动税负变化如何影响企业行为。结果显示，税负增加幅度越大的企业，就业明显收缩，但研发投入反而增多，还会采取节约劳动力的创新并引入更多自动化设备。这些调整使企业内部的劳动生产率与全要素生产率有所提升，但企业的劳动收入份额随之下降。三年后这项加税意外被取消，这些效应依然没有消失，说明更高的劳动成本可能使企业持久转向资本密集型生产方式。",
             "topic": "labor",
-            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
+            "source": "TopSight",
+            "match_level": ""
+          },
+          {
+            "paper_key": "ce418895f5f30a113efb8db3f4c4f11b",
+            "title_en": "The Role of Composition in Assessing Labor Market Power: Evidence from a Retail Pharmacy Merger",
+            "title_zh": "构成在评估劳动力市场势力中的作用：来自零售药房合并的证据",
+            "authors": [
+              "Tomás Guanziroli"
+            ],
+            "journal": "BFI工作论文",
+            "year": 2026,
+            "date": "2026-07-03",
+            "doi": "",
+            "url": "",
+            "source_id": "BFI:05c2fdbed84311311754",
+            "source_lane": "working",
+            "abstract_en": "I use a merger event between two large retail pharmacy chains to detect labor market power within firms. Initially, I establish that variations in labor force com-position within establishments are common across the economy over time. This motivates an empirical strategy that controls for changes in composition by con-sidering both observable and unobservable worker characteristics. The results indi-cate that increased concentration reduces wages for salespeople (low-skill) but has no significant impact on pharmacists (high-skill). Notably, these findings change considerably if changes in composition are not accounted for, underscoring the im-portance of such considerations in studies tracking establishments over time and serving as a cautionary note for other researchers in the field.",
+            "summary_zh": "作者用两家大型连锁药店的合并事件，考察企业内部是否存在劳动力市场势力。作者先说明，药店门店内部员工构成随时间变化是普遍现象，因此设计了一套同时控制可观测和不可观测员工特征、以剔除构成变化的实证策略。结果发现，市场集中度上升压低了销售人员这类低技能员工的工资，但对药剂师这类高技能员工没有显著影响。作者特别提醒，如果不控制员工构成变化，结论会明显不同，这说明在追踪门店动态的研究中处理构成问题十分关键，也给同行提了个醒。",
+            "topic": "labor",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
             "source": "TopSight",
             "match_level": ""
           }
         ],
-        "updated_at": "2026-10-14T02:07:24.770Z",
+        "updated_at": "2026-11-01T09:02:59.559474+00:00",
         "status": "updated"
       },
       {
@@ -861,84 +879,81 @@
           }
         ],
         "updated_at": "2026-10-14T02:07:24.770Z",
-        "status": "updated"
+        "status": "retained"
       },
       {
         "id": "macro",
         "label": "宏观与货币",
         "papers": [
           {
-            "paper_key": "02a5cdc4c7da3907e205f41530c4a16c",
-            "title_en": "Monetary Policy in an AI-Driven Two-Speed Economy",
-            "title_zh": "人工智能驱动的双速经济中的货币政策",
+            "paper_key": "fe5de0b10927080e1258244721f286eb",
+            "title_en": "Innovation, financial frictions, and persistent effects of monetary policy",
+            "title_zh": "创新、金融摩擦与货币政策的持久效应",
             "authors": [
-              "Joshua Brault",
-              "Maryam Haghighi",
-              "Jing Yang"
+              "Aydan Dogan",
+              "Ozgen Ozturk"
             ],
-            "journal": "加拿大央行工作论文",
+            "journal": "英格兰银行工作论文",
             "year": 2026,
-            "date": "2026-07-24",
-            "doi": "10.34989/swp-2026-27",
-            "url": "https://doi.org/10.34989/swp-2026-27",
-            "source_id": "BOC:2026-27",
+            "date": "2026-09-04",
+            "doi": "",
+            "url": "",
+            "source_id": "BOE:023581",
             "source_lane": "working",
-            "abstract_en": "We study the monetary policy response to AI adoption in a two-sector New Keynesian model with a task-based microfoundation, sticky prices, and downward nominal wage rigidity. We distinguish between two forms of AI-driven technological change: augmentation, which raises the productivity of labor within existing tasks, and automation, which displaces labor by reallocating tasks from workers to machines, contracting the set of tasks requiring human input. In the short run, both shocks lower labor demand on net, and with downward nominal wage rigidity, unemployment emerges unless monetary policy provides accommodation. But because monetary policy operates through aggregate demand and cannot target sectors differentially, accommodation that reduces unemployment in the AI-affected sector raises inflationary pressure in the unaffected one, opening a sectoral wedge between the policy rates required to clear the two labor markets. Since, for output-equivalent shocks, automation generates a larger decline in labor demand, the associated wedge is wider and the Phillips curve lies above and to the right of the curve for augmentation---restoring full employment comes at a greater cost of inflation. In addition to the nature of the shock, the aggregate inflationary consequences depend on the breadth of AI adoption across the economy. Under augmentation, as the AI-affected sector grows, its falling sectoral price increasingly offsets the inflation generated elsewhere by monetary accommodation---making aggregate inflation an unreliable signal of the underlying trade-off. For automation both sectoral prices rise and no such offset exists. In our framework, sector-specific AI adoption poses an unambiguous short-run labor market stabilization problem, while its implications for aggregate inflation depend on the nature of technological change, the breadth of adoption, and the response of monetary policy.",
-            "summary_zh": "作者研究人工智能采用 对货币政策意味着什么。模型是两部门新凯恩斯框架，微观基础是任务分配，价格粘性，名义工资向下刚性。作者区分两种技术变化：增强型提高现有任务中劳动生产率；自动化型把任务从人转给机器，压缩需要人力的任务范围。短期两种冲击都净压低劳动需求，工资降不下去就出现失业，除非货币政策宽松。但货币政策只管总需求，没法分部门精准发力，给受AI冲击部门降失业的宽松会在另一部门推高通胀，两个劳动力市场出清所需政策利率之间出现部门楔子。产出等价冲击下，自动化对劳动需求打压更大，楔子更宽，菲利普斯曲线位于增强型之上且偏右，恢复充分就业要付更高通胀代价。通胀后果还取决于AI采用的广度：增强型下受冲击部门变大，其价格下降会抵消别处通胀，总通胀成了不可靠信号；自动化下两部门价格都涨，没有这种抵消。",
+            "abstract_en": "We study how the financing of innovation shapes the transmission of monetary policy to productivity. Using US firm balance-sheet data matched to loan contracts, we show that contractionary monetary policy shocks reduce cash flow similarly across firms but lower R&D more among those without access to cash flow-based borrowing, where credit is extended against earnings rather than collateral. In a New Keynesian endogenous growth model with heterogeneous access to external finance, we show that a 25 basis point tightening lowers output persistently by 0.12%. Extending access to all firms reduces this loss by one third. The loss falls disproportionately on firms without access, which are younger and produce more and higher-quality patents.",
+            "summary_zh": "作者关心的是创新融资方式如何影响货币政策对生产率的作用。用美国企业资产负债表数据匹配贷款合同后发现，货币紧缩冲击让各企业现金流下降幅度差不多，但研发投入降得更多的，是那些没法靠现金流借钱的企业，这类企业的信贷靠盈利而非抵押品支撑。作者又建了一个异质性外部融资渠道的新凯恩斯内生增长模型，算出加息25个基点会让产出持续下降0.12%。若把融资渠道向所有企业开放，这一损失能减少三分之一。损失主要落在没有融资渠道的企业身上，它们更年轻，产出的专利更多、质量也更高。",
             "topic": "macro",
-            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
             "source": "TopSight",
             "match_level": ""
           },
           {
-            "paper_key": "01d3c2a95c590c7e97ff815f8a8bec1b",
-            "title_en": "The Employment Concentration Channel of Monetary Policy",
-            "title_zh": "货币政策的就业集中度传导机制",
+            "paper_key": "f484c507ac432b2bf694b4385e46b887",
+            "title_en": "Deposit funding, market power and monetary policy transmission",
+            "title_zh": "存款融资、市场势力与货币政策传导",
             "authors": [
-              "Guido Ascari",
-              "Andrea Colciago",
-              "Marco Membretti"
+              "Simone Auer",
+              "Antonio Maria Conti",
+              "Paolo Farroni"
             ],
-            "journal": "CEPR工作论文",
+            "journal": "意大利央行工作论文",
             "year": 2026,
-            "date": "2026-04-01",
+            "date": "2026-04-23",
             "doi": "",
             "url": "",
-            "source_id": "CEPR:21391",
+            "source_id": "BDI:1533",
             "source_lane": "working",
-            "abstract_en": "Under monetary tightenings, employment at small, high-churn firms contracts more than at large incumbents, raising the employment share of large firms. A mixed-frequency BVAR on U.S. data (1982â€“2018) shows that tightenings reduce firm entry and new-entrant hiring, severing inflows into small firms, while higher exit destroys small-firm employment. Large incumbents are comparatively insulated, rarely exiting and exhibiting weak sensitivity to entry conditions. This mechanism raises employment concentration, defining an employment concentration channel of monetary policy. An estimated structural model with heterogeneous firms, endogenous entry and exit, and equilibrium unemployment matches this effect, showing that the concentration channel is quantitatively important in accounting for the empirical output-inflation trade-off.",
-            "summary_zh": "这篇论文研究的是货币政策如何通过影响不同规模企业的就业变动，最终改变整个经济的就业集中度。作者发现，当央行收紧货币政策（比如加息）时，小企业（尤其是那些员工流动率高的）的就业收缩幅度比大企业大得多，结果大企业的就业占比反而上升了。 作者用美国1982到2018年的数据，采用混合频率的贝叶斯向量自回归模型（BVAR）进行分析。结果显示，货币紧缩会抑制新企业成立和新企业招人，导致小企业的新增就业断流；同时，更多小企业倒闭，进一步削减了它们的就业。相比之下，大企业很少倒闭，也不太受新企业进入情况的影响，因此相对稳定。这种机制推高了就业集中度，作者称之为货币政策的“就业集中渠道”。 作者还构建了一个包含异质性企业、企业自由进入退出和均衡失业的结构模型，模拟结果与数据吻合，并表明这个就业集中渠道在解释产出与通胀之间的权衡关系时，作用相当显著。",
+            "abstract_en": "This paper examines the role of banks’ deposit funding and deposit market power as potential drivers of the intensity of the pass-through from monetary policy to bank funding costs and broader financing conditions. We document that during the ECB’s unprecedentedly forceful monetary tightening cycle in 2022–23, the pass-through from policy rates to overnight deposit rates was extremely muted compared with historical regularities, highlighting a disconnect in monetary policy transmission. Using confidential bank-level data, state-dependent panel local projections and high-frequency monetary policy shocks, we find that higher deposit funding is associated with a lower pass-through to overnight deposit rates, mainly in the short term. The dampening effect of deposit market power is more persistent and extends to lending rates for households and non-financial corporations.",
+            "summary_zh": "作者关心的是，银行业的存款融资和存款市场势力，会不会影响货币政策传导的力度。文章盯住2022到2023年欧洲央行那轮力度空前的紧缩，发现政策利率向隔夜存款利率的传导异常微弱，跟历史上的规律明显对不上，说明传导链条出现了断点。作者用保密的银行层面数据，配合依赖状态的panel local projections和高频货币政策冲击来识别。结果显示，存款融资占比越高，向隔夜存款利率的传导越弱，主要体现在短期。存款市场势力的抑制作用更持久，还会蔓延到家庭和非金融企业的贷款利率上。",
             "topic": "macro",
-            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
             "source": "TopSight",
             "match_level": ""
           },
           {
-            "paper_key": "0225d3f758d4e34be614f8bdb817da73",
-            "title_en": "Is Monetary Policy Transmission Heterogeneous across Euro Area Countries and over Time? A Reassessment",
-            "title_zh": "欧元区各国货币政策传导是否具有异质性且随时间变化？再评估",
+            "paper_key": "d786485bf4630261f4c6b836f7b889f3",
+            "title_en": "Monetary policy and the rigidity of firm employment expectations",
+            "title_zh": "货币政策与企业就业预期的刚性",
             "authors": [
-              "Agnès Bénassy-Quéré",
-              "Matthieu Bussière",
-              "Thaïs Masseï",
-              "Arthur Saint-Guilhem"
+              "Martin Groiss",
+              "David Sondermann"
             ],
-            "journal": "法国央行工作论文",
+            "journal": "欧洲央行工作论文",
             "year": 2026,
-            "date": "2026-01-01",
+            "date": "2026-08-01",
             "doi": "",
             "url": "",
-            "source_id": "BDF:1062",
+            "source_id": "ECB:20263272",
             "source_lane": "working",
-            "abstract_en": "We assess the degree of heterogeneity in monetary policy transmission (MPT) across euro area countries for the period 2000–2025. Using monthly local projections, we estimate the effects of monetary policy on a broad set of transmission variables at both euro area and national levels. First, we find limited heterogeneity of output and inflation responses to monetary policy shocks, despite asymmetric responses of mortgage market-related variables. Second, key structural differences, such as households’ indebtedness, debt maturity, interest rate rigidity and sectoral composition, do shape heterogeneities in MPT across euro area countries, according to our results. Considered jointly, though, these differences partly offset one another, leading to a relatively homogeneous transmission of monetary policy. Third, a monthly FAVAR estimation confirms and broadens our local projections results: asymmetry remains contained for output and inflation, but it is higher for sovereign spreads, food prices, credit variables and our consumption proxy. Finally, a rolling-window estimation of the FAVAR model shows that time-varying heterogeneity in MPT is characterized by temporary and crisis-driven divergences that consistently revert to a low baseline, reflecting key monetary policy interventions rather than deeper structural economic divergences. Unconventional monetary policies play a central role in this pattern: they tend to reduce country divergences during crisis periods, impacting more strongly the countries most affected, hence operating, by design, as a heterogeneous policy shock according to our main metric.",
-            "summary_zh": "作者用2000到2025年的月度数据，评估欧元区各国货币政策传导的差异程度。方法上采用局部投影法，在欧元区和国家层面估计政策对一系列变量的影响。结果发现，产出和通胀对货币政策的反应差异有限，尽管房贷相关变量反应不对称。结构性差异，如家庭负债、债务期限、利率粘性和行业构成，确实影响传导，但这些差异相互抵消，整体传导相对一致。进一步用月度FAVAR模型验证并扩展了结果：产出和通胀的不对称性仍小，但主权利差、食品价格、信贷和消费代理变量的差异更大。滚动窗口估计显示，传导异质性随时间呈临时性、危机驱动的分化，随后回归低基线，反映政策干预而非深层结构分歧。非常规货币政策在危机期间减少国家间分化，对受影响最重的国家影响更强，因此按作者指标，它本身是一种异质性政策冲击。",
+            "abstract_en": "This paper examines how monetary policy announcements affect firms’ employment expectations. Using German survey data, we combine high-frequency monetary policy surprises with survey response dates to identify the immediate and dynamic effects of monetary policy on firm-level expectations and subsequent employment. Contractionary shocks lead firms to revise employment plans downward immediately and persistently, eventually reducing employment growth. Initially, hiring plans are reduced, while layoffs increase later. Production expectations adjust twice as often but revert faster, consistent with greater labour market rigidity. Labour market institutions shape these responses: firms subject to the minimum wage or with lower collective bargaining coverage revise employment expectations more strongly. Financially constrained firms exhibit disproportionately larger downward revisions, indicating that the financial accelerator operates already at the expectation formation stage. Because firms adjust plans well before effects appear in aggregate data, employment expectations provide an early measure of monetary policy transmission to the labour market. JEL Classification: E24, E52, J20, J63",
+            "summary_zh": "作者利用德国企业调查数据，将货币政策公告带来的高频利率意外与企业的问卷回答日期相匹配，识别出货币政策对企业就业预期的即时和动态影响。结果发现，紧缩性冲击会让企业立即且持续地下调就业计划，并最终拖累实际就业增长。调整路径上，企业先缩减招聘计划，裁员则在之后才增加。相比之下，生产预期的调整频率是就业预期的两倍，但恢复得更快，这体现了劳动力市场刚性。制度因素也有作用：受最低工资约束或集体谈判覆盖率较低的企业，其就业预期调整幅度更大；财务受限企业的下调尤为明显，说明金融加速器在预期形成阶段就已生效。由于企业提前调整计划，就业预期可以成为观察货币政策向劳动力市场传导的早期指标。",
             "topic": "macro",
-            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
             "source": "TopSight",
             "match_level": ""
           }
         ],
-        "updated_at": "2026-10-14T02:07:24.770Z",
+        "updated_at": "2026-11-01T09:02:59.559474+00:00",
         "status": "updated"
       },
       {
@@ -946,54 +961,53 @@
         "label": "发展与政治经济学",
         "papers": [
           {
-            "paper_key": "0363eaa40485ea6fd9cebe4b3b7e61d2",
-            "title_en": "Technology Adoption and Women’s Rights: Evidence from Switzerland",
-            "title_zh": "技术采纳与女性权利：来自瑞士的证据",
+            "paper_key": "feb48257b06adbf2564781a0296de5d9",
+            "title_en": "Technology and Economic Development",
+            "title_zh": "技术与经济发展",
             "authors": [
-              "Bjorn Brey",
-              "Edoardo Cefala",
-              "Cecilia García-Peñalosa"
+              "Daron Acemoglu",
+              "Ufuk Akcigit",
+              "Simon Johnson"
             ],
             "journal": "CEPR工作论文",
             "year": 2026,
-            "date": "2026-03-01",
+            "date": "2026-01-01",
             "doi": "",
             "url": "",
-            "source_id": "CEPR:21271",
+            "source_id": "CEPR:21032",
             "source_lane": "working",
-            "abstract_en": "Gender equality and economic growth have historically tended to move together yet identifying causal effects has been difficult. This paper uses data on the support for female suffrage in Switzerland in order to explore the impact of technology adoption on gender norms. We argue that the early adoption of electricity was conducive to local economic development, which in turn led to more egalitarian views on gender. To identify causality, we exploit geographic differences in the potential to generate electricity from waterpower. Our results show that early electricity adoption (by the 1910s) had a lasting impact on municipality vote shares in support of female suffrage in the ground-breaking 1959 referendum. We complement this finding with Cantonal referendums on female voting rights and federal electoral results to show that higher support for female political participation is observed in the data since the 1920s. We then examine how technology may have shaped gender attitudes and find that increased educational investment explains part of the shift. Fertility appears to respond to changing gender norms and reinforce them, but is unlikely the key mechanism in the causal chain.",
-            "summary_zh": "这篇论文研究的是技术普及如何影响性别观念。作者用瑞士的数据，看早期通电（1910年代）是否让当地人对女性投票权更支持。因为水电潜力不同，有些地方通电早，有些晚，这就像个自然实验。作者发现，通电早的乡镇，在1959年那场关键的女性投票权公投中，支持票比例更高，而且这种影响持续了几十年。他们还查了1920年代以来的州级公投和联邦选举数据，发现通电早的地方，女性政治参与的支持度一直更高。至于原因，作者认为，通电推动了经济发展，进而增加了教育投入，这改变了性别观念。生育率虽然也跟着变了，但作者觉得它不是主因，更像是结果。总之，技术普及通过经济和教育，慢慢撬动了性别平等观念。",
+            "abstract_en": "This chapter presents a tractable framework for the study of technology adoption and diffusion in the context of economic development. Firms in countries behind the world technology frontier can rapidly adopt new techniques from the world frontier. Lower absorptive capacity (because of weak education systems, poor management practices, or barriers to technology adoption), institutional distortions, mismatch between frontier technologies and the needs of firms in the country (i.e., â€œinappropriate technologyâ€ ), and credit market frictions slow down technology adoption and cause the economy in question to have a greater distance to the frontier and thus lower income per capitaâ€”although the long-run growth rate of the country still remains equal to that of the frontier. This framework is extended to study the choice between innovation and imitation, as well as the role of selection for higher-productivity and higher-absorptive capacity firms during the process of economic development. We illustrate the main comparative statics of our framework with a number of correlations based on cross-country and firm-level data. The tractability of the framework makes it amenable to a range of additional extensions.",
+            "summary_zh": "作者提出了一个便于分析的框架，用来研究经济发展中的技术采用和扩散。落后国家的企业可以快速学习世界前沿技术，但吸收能力差（比如教育薄弱、管理水平低、存在技术壁垒）、制度扭曲、前沿技术与本国需求不匹配（即“不适用技术”），以及信贷市场摩擦，都会拖慢技术采用，导致该国离技术前沿更远、人均收入更低，不过它的长期增长率仍然跟前沿国家一致。作者还把框架扩展到创新与模仿的取舍，以及经济发展过程中高生产率、高吸收能力企业被筛选出来的作用。最后用跨国和企业层面的数据展示了关键的比较静态结果。这个框架容易上手，方便做各种扩展。",
             "topic": "development",
-            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
             "source": "TopSight",
             "match_level": ""
           },
           {
-            "paper_key": "05146f0140aa87a7944fcca5af70f687",
-            "title_en": "Violence, Political Selection, and State Formation: Evidence from Post-Unification Italy",
-            "title_zh": "暴力、政治精英筛选与国家形成：来自意大利统一后的证据",
+            "paper_key": "fd61850e80128d954769eb09161674f0",
+            "title_en": "Development Interventions in Africa’s Historical Borderlands: Evidence from Colonial Missions",
+            "title_zh": "非洲历史边境地区的发展干预：来自殖民传教活动的证据",
             "authors": [
-              "Paolo Buonanno",
-              "Giampaolo Lecce",
-              "Laura Ogliari",
-              "Giacomo Plevani"
+              "Alexandra L. Cermeño",
+              "Alessandra Quintigliano",
+              "Jacob Weisdorf"
             ],
             "journal": "CEPR工作论文",
             "year": 2026,
             "date": "2026-04-01",
             "doi": "",
             "url": "",
-            "source_id": "CEPR:21428",
+            "source_id": "CEPR:21364",
             "source_lane": "working",
-            "abstract_en": "We study how violence reshapes electoral competition and political selection during state formation. Using new district-level data on brigandage, elections, and political elites in post-unification Southern Italy, we show that violence reduced turnout, especially where it increased the risks of accessing polling stations. Beyond participation, brigandage also altered the supply side of politics: exposed districts experienced fewer contested elections and fewer new candidates. At the same time, political representation shifted away from aristocratic deputies and toward more locally embedded elites with administrative experience, while candidate pools also moved away from court-linked elite profiles. We provide evidence that these shifts were also reflected in parliamentary activity, with locally embedded representatives placing relatively greater emphasis on territorially targeted claims. Consistent with this pattern, districts more exposed to violence experienced greater expansion of the road network, but not railways, precisely where conflict induced a stronger shift toward local representation. These findings point to a political-representation channel through which violence shapes development, by altering who competes for office and how public resources are allocated.",
-            "summary_zh": "这篇论文研究的是国家形成过程中，暴力如何改变选举竞争和政治精英的选拔。作者利用意大利统一后南部地区的新数据，包括匪患、选举和政治精英的详细资料，发现暴力降低了投票率，尤其是在那些去投票站风险更高的地方。更关键的是，匪患还影响了政治供给端：受暴力影响严重的地区，竞争性选举和新候选人数量都减少了。同时，政治代表从贵族议员转向了更扎根于当地、有行政经验的精英，候选人的背景也远离了与宫廷有联系的群体。作者还发现，这些变化在议会活动中也有体现，当地代表更关注本地区的事务。与此一致的是，受暴力影响大的地区，道路网络（而非铁路）扩张得更快，而这恰恰发生在冲突导致地方代表力量增强的地方。这些发现揭示了一个“政治代表渠道”：暴力通过改变谁参选、公共资源如何分配，来影响发展。",
+            "abstract_en": "Africaâ€™s historical borderlands are persistently associated with low levels of economic development. This paper examines how these regions respond to development interventions, asking how much the long-run development advantage associated with colonial Christian missions attenuates near the borders. Combining georeferenced data on 3,365 pioneering mission stations with high-resolution satellite night-time luminosity data, we show that the positive association between proximity to missionary activity and contemporary economic development weakens sharply near the borders. This result is robust across a wide range of specifications and is corroborated by evidence from Demographic and Health Surveys on household wealth and human capital",
+            "summary_zh": "这篇论文研究的是非洲历史上形成的边境地区为什么长期发展落后，以及这些地区对发展干预措施的反应如何。作者想搞清楚一个具体问题：殖民时期基督教传教站带来的长期发展优势，在靠近国境线的地方会不会减弱。 作者把3365个早期传教站的地理位置和卫星夜间灯光数据（用来衡量当前经济发展水平）叠加在一起分析。结果发现，离传教站越近、经济越发达这个正相关关系，在靠近国境线的地方明显变弱了。这个结论在各种统计方法下都站得住脚。另外，作者还用“人口与健康调查”里的家庭财富和人力资本数据做了佐证，进一步支持了这个发现。",
             "topic": "development",
-            "retrieved_at": "2026-10-14T02:07:24.770Z",
+            "retrieved_at": "2026-11-01T09:02:59.559474+00:00",
             "source": "TopSight",
             "match_level": ""
           }
         ],
-        "updated_at": "2026-10-14T02:07:24.770Z",
+        "updated_at": "2026-11-01T09:02:59.559474+00:00",
         "status": "updated"
       },
       {
@@ -1046,7 +1060,7 @@
           }
         ],
         "updated_at": "2026-10-14T02:07:24.770Z",
-        "status": "updated"
+        "status": "retained"
       },
       {
         "id": "public",
@@ -1098,7 +1112,7 @@
           }
         ],
         "updated_at": "2026-10-14T02:07:24.770Z",
-        "status": "updated"
+        "status": "retained"
       },
       {
         "id": "methods",
@@ -1149,7 +1163,7 @@
           }
         ],
         "updated_at": "2026-10-14T02:07:24.770Z",
-        "status": "updated"
+        "status": "retained"
       },
       {
         "id": "theory",
@@ -1200,7 +1214,7 @@
           }
         ],
         "updated_at": "2026-10-14T02:07:24.770Z",
-        "status": "updated"
+        "status": "retained"
       },
       {
         "id": "behavior",
@@ -1283,7 +1297,7 @@
           }
         ],
         "updated_at": "2026-10-14T02:07:24.770Z",
-        "status": "updated"
+        "status": "retained"
       }
     ],
     "window_note": "2025 年起的主题检索选文；非当月全部新论文"
@@ -1344,10 +1358,10 @@
       "journal": "",
       "lanes": {
         "external_authority": {
-          "status": "complete",
-          "count": 5,
-          "error": "",
-          "bounded": true
+          "status": "failed",
+          "count": 0,
+          "error": "search_timeout",
+          "bounded": false
         },
         "formal": {
           "status": "complete",
@@ -1500,10 +1514,10 @@
           "bounded": false
         },
         "formal": {
-          "status": "empty",
+          "status": "failed",
           "count": 0,
-          "error": "",
-          "bounded": true
+          "error": "search_timeout",
+          "bounded": false
         },
         "working": {
           "status": "complete",
@@ -1519,9 +1533,9 @@
       "journal": "American Economic Review",
       "lanes": {
         "external_authority": {
-          "status": "empty",
+          "status": "failed",
           "count": 0,
-          "error": "",
+          "error": "search_timeout",
           "bounded": false
         },
         "formal": {
@@ -1625,10 +1639,10 @@
           "bounded": false
         },
         "formal": {
-          "status": "empty",
+          "status": "failed",
           "count": 0,
-          "error": "",
-          "bounded": true
+          "error": "search_timeout",
+          "bounded": false
         },
         "working": {
           "status": "empty",

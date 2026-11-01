@@ -1,5 +1,11 @@
 # STATE
 
+## 2026-11-01 月度运行
+
+已完成 14 次 TopSight 检索，额度充足。劳动、宏观、发展三个主题换入 8 篇此前未收录论文，工作论文共 21 篇；其他 6 个主题、五刊与 NBER 保留内容及收录日期。非宣称 11 月新发表。数据校验 0 错误，8 项测试通过；待本次部署验证。
+
+Codex with ChatGPT 连接检查正常，但所需 control-in-app-browser 技能/接口未找到，本轮没有调用 ChatGPT 网页审查。CORDIS 工具未暴露。原始响应和快照仅保存在 .local。
+
 ## 当前阶段
 
 2026-10-14：Frontier 已接入 TopSight，完成 9 个主题的 20 篇工作论文选读并发布。提交 `7e55d84` 的 GitHub Pages 构建及部署成功；线上 HTML、CSS、JS 与内容/交互检查通过。发布证据见 `docs/frontier_release_20261014.md`。
