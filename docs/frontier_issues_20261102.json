@@ -1,0 +1,6 @@
+{"journals":[
+{"id":"aer","name":"American Economic Review (AER)","volume":116,"issue":11,"year":2026,"month":"November","verified_on":"2026-11-02","issue_url":"https://www.aeaweb.org/issues/867","expected_count":10},
+{"id":"jpe","name":"Journal of Political Economy (JPE)","volume":134,"issue":10,"year":2026,"month":"October","verified_on":"2026-11-02","issue_url":"https://www.journals.uchicago.edu/toc/jpe/2026/134/10","issn":"0022-3808","expected_count":8},
+{"id":"qje","name":"Quarterly Journal of Economics (QJE)","volume":141,"issue":4,"year":2026,"month":"November","verified_on":"2026-11-02","issue_url":"https://academic.oup.com/qje/issue/141/4","issn":"0033-5533","expected_count":15},
+{"id":"restud","name":"Review of Economic Studies (REStud)","volume":93,"issue":5,"year":2026,"month":"October","verified_on":"2026-11-02","issue_url":"https://academic.oup.com/restud/issue/93/5","issn":"0034-6527","expected_count":18},
+{"id":"ecta","name":"Econometrica","volume":94,"issue":5,"year":2026,"month":"September","verified_on":"2026-11-02","issue_url":"https://www.econometricsociety.org/publications/econometrica/browse/issue/2026/09/5","expected_count":12}]}

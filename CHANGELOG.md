@@ -1,4 +1,12 @@
 # CHANGELOG
+## 2026-11-02 五刊卷期修正
+
+期刊最新目录以出版社官网为准；TopSight 主题检索不再充当卷期发现流程。已核验 AER 116(11)、JPE 134(10)、QJE 141(4)、REStud 93(5)、Econometrica 94(5)。官方卷期链接及研究论文数量见 docs/frontier_issues_20261102.json。
+
+每月先逐一访问五刊官网 current issue / issues，形成当日核验清单（volume、issue、year、month、issue_url、expected_count、verified_on）；检查新旧卷期，不能把空检索视为“期刊没有更新”。执行 scripts/update_frontier_journals.py --manifest 当日清单 --cache .local/当日目录，按明确卷期筛选全部研究论文并核对数量，排除 Front Matter、Referees、Turnaround Times。Crossref 必须回溯早期在线文章，不能只筛当前年份，否则漏掉已编入新卷期的旧在线记录。若官网或 DOI 元数据不可用，保留旧数据并报告未完成，不报告五刊更新成功。工作论文继续 TopSight。不能把出版社目录冒充 TopSight 结果。
+
+本次 63 篇目录记录仅同步元数据，缺失摘要/中文译文如实标注并提供 DOI 原文链接。旧数据保存在 .local 快照与 Git 历史。发布后核对实际 Pages 产物。ChatGPT 安全连接需要重连，当前所需浏览器接口不可用，未声称完成网页审查；CORDIS 工具未暴露。
+
 
 ## 2026-11-01
 

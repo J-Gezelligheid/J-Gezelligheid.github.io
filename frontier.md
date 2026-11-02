@@ -41,12 +41,12 @@ title: Frontier
 
 <section id="top-five" lang="zh-CN">
   <h2>五大经济学期刊</h2>
-  <p class="frontier-notice">按期刊展示检索选文；未取得可用更新的栏目保留历史快照，并标注各自收录日期。历史卷期不代表当前最新一期。</p>
+  <p class="frontier-notice">按出版社当前卷期核对研究论文目录，题名、作者与 DOI 来自出版社或 Crossref。各刊出版节奏不同，页面显示实际核验卷期与日期。</p>
   {% for journal in journals %}
   <section id="journal-{{ forloop.index }}" class="frontier-journal-section">
     <h3>{{ journal.name | escape }}</h3>
     <p class="frontier-source">{{ journal.source | escape }} · 收录：{{ journal.updated_at | date: '%Y-%m-%d' }}{% if journal.status == 'retained' %} · 历史快照{% endif %}</p>
-    <p><a href="{{ journal.issue_url | escape }}">期刊主页</a> · {{ journal.issue_title | escape }}</p>
+    <p><a href="{{ journal.issue_url | escape }}">本期目录</a> · {{ journal.issue_title | escape }}</p>
     <details class="frontier-issue"><summary>展开研究论文</summary>
     {% for paper in journal.papers %}{% unless paper.is_research == false %}{% include frontier-paper.html paper=paper topic='journal' %}{% endunless %}{% endfor %}
     </details>
@@ -68,7 +68,7 @@ title: Frontier
   <p>中文题名与导读为来源提供的辅助阅读内容；历史期刊栏目保留原站机器译文。模型推论、相关性结果和因果识别的适用条件请以英文原文为准。缺少原文链接的记录保留题名、作者及来源编号，不补造链接。</p>
   <details><summary>本次检索通道状态</summary>
     <ul>{% for check in frontier.source_checks %}<li>{{ check.term | escape }}{% if check.journal and check.journal != '' %} · {{ check.journal | escape }}{% endif %}：{% if check.ok %}{% for lane in check.lanes %}{{ lane[0] | escape }} / {{ lane[1].status | escape }}{% unless forloop.last %}；{% endunless %}{% endfor %}{% else %}请求失败{% endif %}</li>{% endfor %}</ul>
-    <p>complete 表示本次请求成功，不表示收录完整；empty 表示未返回记录；failed 表示该通道暂不可用。非五大期刊结果不纳入期刊栏目。原站 Crossref / OpenAlex / NBER 快照与本次 TopSight 结果分开展示。</p>
+    <p>complete 表示本次请求成功，不表示收录完整；empty 表示未返回记录；failed 表示该通道暂不可用。非五大期刊结果不纳入期刊栏目。期刊目录来自出版社 / Crossref；工作论文来自 TopSight；NBER 往期存档单独展示。</p>
   </details>
 </section>
 

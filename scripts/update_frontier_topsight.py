@@ -136,7 +136,8 @@ def merge(previous, batch, selections):
     for i, journal in enumerate(data['journals']):
         chosen = selections.get('journals', {}).get(PLAN['journals'][i], [])
         if not chosen:
-            journal['status'] = 'retained'
+            if not journal.get('toc_scope'):
+                journal['status'] = 'retained'
             continue
         papers = []
         for key in chosen:
