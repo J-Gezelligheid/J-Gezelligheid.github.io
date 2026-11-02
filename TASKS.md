@@ -1,6 +1,9 @@
 # TASKS
 ## 2026-11-02 五刊卷期修正
 
+发布验证：内容提交 69f5c1400c1f1e03b14d14ff39be11452bcd76b7；Pages run 41372949218。线上五刊卷期标签和全部 63 个研究论文题名已逐项匹配，21 篇工作论文保留。11 项测试与 Liquid 渲染通过。月度自动化已更新为官网先核验，再同步目录。
+
+
 期刊最新目录以出版社官网为准；TopSight 主题检索不再充当卷期发现流程。已核验 AER 116(11)、JPE 134(10)、QJE 141(4)、REStud 93(5)、Econometrica 94(5)。官方卷期链接及研究论文数量见 docs/frontier_issues_20261102.json。
 
 每月先逐一访问五刊官网 current issue / issues，形成当日核验清单（volume、issue、year、month、issue_url、expected_count、verified_on）；检查新旧卷期，不能把空检索视为“期刊没有更新”。执行 scripts/update_frontier_journals.py --manifest 当日清单 --cache .local/当日目录，按明确卷期筛选全部研究论文并核对数量，排除 Front Matter、Referees、Turnaround Times。Crossref 必须回溯早期在线文章，不能只筛当前年份，否则漏掉已编入新卷期的旧在线记录。若官网或 DOI 元数据不可用，保留旧数据并报告未完成，不报告五刊更新成功。工作论文继续 TopSight。不能把出版社目录冒充 TopSight 结果。
